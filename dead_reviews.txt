@@ -18,6 +18,7 @@ Notes:
 
 Date        Score  Comments
 ====        =====  ========
+01-11-65    2   Cassidy + Warlocks, circe late 1965. Possibly worst sound ever. Also, date is wrong.
 03-11-65    3.5 Scorpion records outakes. Great studio stuff. Hard to rate, obviously.
 
 08-01-66    3   Acid test madness. Not as messy as you'd think. Jerry is great.
@@ -217,25 +218,25 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 06-06-70    4   Had potential. Great Alligator jam but too short. Bobby sells the latest record.
 07-06-70    3.5 First Main Ten jam and Sugar Magnolia (last is worst version ever). Very up and down.
 13-06-70    3   Nice energy, no jams. Big jamming seems to have gone away. Long ass Lovelight.
-21-06-70    2.5	Another pretty bad audience with no jamming. Nothing exciting.
-24-06-70a	4	Specifically for the high energy Other One, even though it was short.	
-24-06-70b	3.5	Not a great aud but high energy and a strange split Dark Star.
-01-07-70	3	Only existing Canadian train ride audio. Too short, and slightly rough.
-10-07-70	2	The tide of auds continues. This one is pretty bad. Band is also sloppy.
-11-07-70	3.5	This aud is particularly bad. Acoustic set is not bad, and the electric set is better.
-12-07-70	3	Another very rough aud. Mixed bag, Dancin' was probably the highlight.
-14-07-70	4	Finally, not an aud! Best acoustic of 1970 so far. Lots of cuts in 2nd set though.
-16-07-70	4.5	Janis Joplin sits in on Lovelight. What more do you need to know? Also a SBD.
-30-07-70	3.5	Only the acoustic set, but in pretty good quality. 14/7 was better though.
-05-08-70	3.5	Only an acoustic show. Good representation of what they were doing at the time.
-17-08-70	2.5	This may be the wrong date. Snippets only. Again an aud. Hard to rate.
-18-08-70	3.5	First Truckin' and Ripple. Back to auds again. Train wreck Sugar Mag.
-19-08-70	3.5	Introduced as "The kodiac woodchuck motherfuckers". Similar to last night.
-30-08-70	4	Cracking Easy Wind on this short TV show. Worth watching.
-17-09-70	4.5	Dreadful sound quality. Jerry directs the PA crew. First Box Of Rain? Great Dark Star.
-18-09-70	4.5	Best acoustic Truckin'. Show gets better and better; first set is mostly missing though.
-19-09-70	5	Great gig and the 2nd best Star of the year so far. Also rare Darkness > China Cat jam.
-20-09-70	5	Jerry on piano! Best acoustic set so far. Cutler intro again. Feedback jam!
+21-06-70    2.5 Another pretty bad audience with no jamming. Nothing exciting.
+24-06-70a   4   Specifically for the high energy Other One, even though it was short.   
+24-06-70b   3.5 Not a great aud but high energy and a strange split Dark Star.
+01-07-70    3   Only existing Canadian train ride audio. Too short, and slightly rough.
+10-07-70    2   The tide of auds continues. This one is pretty bad. Band is also sloppy.
+11-07-70    3.5 This aud is particularly bad. Acoustic set is not bad, and the electric set is better.
+12-07-70    3   Another very rough aud. Mixed bag, Dancin' was probably the highlight.
+14-07-70    4   Finally, not an aud! Best acoustic of 1970 so far. Lots of cuts in 2nd set though.
+16-07-70    4.5 Janis Joplin sits in on Lovelight. What more do you need to know? Also a SBD.
+30-07-70    3.5 Only the acoustic set, but in pretty good quality. 14/7 was better though.
+05-08-70    3.5 Only an acoustic show. Good representation of what they were doing at the time.
+17-08-70    2.5 This may be the wrong date. Snippets only. Again an aud. Hard to rate.
+18-08-70    3.5 First Truckin' and Ripple. Back to auds again. Train wreck Sugar Mag.
+19-08-70    3.5 Introduced as "The kodiac woodchuck motherfuckers". Similar to last night.
+30-08-70    4   Cracking Easy Wind on this short TV show. Worth watching.
+17-09-70    4.5 Dreadful sound quality. Jerry directs the PA crew. First Box Of Rain? Great Dark Star.
+18-09-70    4.5 Best acoustic Truckin'. Show gets better and better; first set is mostly missing though.
+19-09-70    5   Great gig and the 2nd best Star of the year so far. Also rare Darkness > China Cat jam.
+20-09-70    5   Jerry on piano! Best acoustic set so far. Cutler intro again. Feedback jam!
 04-10-70    3.5 Slight car crash on Casey Jones. Studio quadcast, so strange set list. Nice sound, no highlights.
 10-10-70    3   Rough murky aud, and only 1 set. Hard to listen to, Other One > NFA sounded reasonable.
 11-10-70    2   Hissy, muddy, warbly - what a dreadful aud! Seems like a good show though, just unlistenable.
@@ -438,7 +439,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-06-76    3.5 "Garcia has the biggest beard!". Long gaps between songs. 2nd set too slow.
 24-06-76    4   Pretty upbeat for June 76. Great quality 2nd set. Short but not shabby at all.
 26-06-76    3.5 Same as almost all the other June 76 shows....
-27-06-76    3.5 Thin Jerry sound in 1976. Like other of this time, lacks bite and energy, even if well played.
+27-06-76    3.5 Thin Jerry sound in 1976. Like others of this time, lacks bite and energy, even if well played.
 28-06-76    4.5 Eyes 6 minute intro, and bass solo at end. Only 'Happiness Is Drumming'. Solid throughout.
 29-06-76    4   Slightly better. Not a bad jam in Playin'.
 12-07-76    3   Didn't grab me. A lot of songs have the same speed.
@@ -477,25 +478,25 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 29-04-77    4   Strange set-list pre-drums. Great HSF to start. Sound quality so-so. Interestring, not amazing.
 30-04-77    4   Good show, high energy but few jams.
 01-05-77    3.5 Only 2nd set, didn't inspire me.
-03-05-77
-04-05-77
+03-05-77    3.5 Didn't flow so well in the 2nd set, a very stop start effort. Moore's aud is good though.
+04-05-77    4   Jerry out of tune at start. Get this for the dreamy Playin' jam at the end of the 2nd set.
 05-05-77    4   Rocking end, jams are contained in the songs and not between.
 07-05-77    4   Another good 1977 show with little jamming
 08-05-77    4.5 It is as smooth as butter, as they say.
 09-05-77    4   Almost 4.5, very smooth as well.
 11-05-77    3.5 Shows are hard to review. All the space jamming has gone.
-12-05-77
+12-05-77    3.5 Aud runs fast at end of 2nd set. Pretty mellow throughout. Standard for the period, I'd say.
 13-05-77    4   Good Other One and a rocking end to the show
 15-05-77    4   Nice 1st set. Bit slow in middle of 2nd set.
 17-05-77    4   More songs, less variation. Sets are good though.
 18-05-77    4   Seems 4 is a bit common. I enjoyed the show though.
-19-05-77
-21-05-77
-22-05-77
+19-05-77    4   Nothing wrong with this show, other than a slight lack of pace. Ending suite is really good.
+21-05-77    4.5 Very slick show. Not a bad number throughout. Just lacks a bit of space at the end.
+22-05-77    4.5 Terrapin missing first section, pretty unique but doesn't work for me. Awesome Morning Dew at end.
 25-05-77    4   Another 4? The setlists are become a bit more modern.
 26-05-77    4.5 Nearly a 4, but better than others around this time.
 28-05-77    4   Back to the standard 1977! Setlists are becoming modern.
-04-06-77
+04-06-77        Fantastic setlist for the 2nd set.
 07-06-77
 08-06-77    5   What a nice, tasty 77 show. Jam before NFA is great.
 09-06-77
@@ -525,137 +526,137 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 30-12-77    4   Some nice playing, but very very short.
 31-12-77    4   Standard for the year. These shows are quite short.
 
-06-01-78	4	Phil breaks a string. Jerry's voice pretty bad. All Bob songs in 2nd set. Fiery end.
-07-01-78	4	No Jerry songs at all.	Long Dancin' meanders a bit then opens up. Tough to rate.
-08-01-78	3.5	Tiny 'Close Encounters' riff at start of 2nd set. Phil sings on Good Lovin'. Uncle Bobo present.
-10-01-78 	3.5	Weak voice from Jerry. Also set choice wasn't that great for me on this one. Nice MOTB though.
-11-01-78 	4.5	Plenty of rocking energy, and the Playing was very good.
-13-01-78	4	Close Encounters themes all over this month. Space section after drums. Nasty cut at end.
-14-01-78	4.5	Hissy SBD. But has a great tiger almost into feedback territory.
-15-01-78	4.5	Best Playin' since 1974? Great last 50 minutes. Only AUD for 2nd set though.
-17-01-78	4	Nothing really stand-out; Space and Estimated save it.
-18-01-78	4	Another good Playing. Tape is not the best quality. Blackbird riff at start of encore.
-22-01-78	5	Cooking second set, even hotter after the close encounters jam. Best solo Jerry.
-30-01-78	3.5	Didn't stick out, although full of energy at the end.
-31-01-78	4	Good, don't know whether they are starting to sound a bit samey though. Another space.
-02-02-78	4	A little short, it seems, but filled with quality.
+06-01-78    4   Phil breaks a string. Jerry's voice pretty bad. All Bob songs in 2nd set. Fiery end.
+07-01-78    4   No Jerry songs at all.  Long Dancin' meanders a bit then opens up. Tough to rate.
+08-01-78    3.5 Tiny 'Close Encounters' riff at start of 2nd set. Phil sings on Good Lovin'. Uncle Bobo present.
+10-01-78    3.5 Weak voice from Jerry. Also set choice wasn't that great for me on this one. Nice MOTB though.
+11-01-78    4.5 Plenty of rocking energy, and the Playing was very good.
+13-01-78    4   Close Encounters themes all over this month. Space section after drums. Nasty cut at end.
+14-01-78    4.5 Hissy SBD. But has a great tiger almost into feedback territory.
+15-01-78    4.5 Best Playin' since 1974? Great last 50 minutes. Only AUD for 2nd set though.
+17-01-78    4   Nothing really stand-out; Space and Estimated save it.
+18-01-78    4   Another good Playing. Tape is not the best quality. Blackbird riff at start of encore.
+22-01-78    5   Cooking second set, even hotter after the close encounters jam. Best solo Jerry.
+30-01-78    3.5 Didn't stick out, although full of energy at the end.
+31-01-78    4   Good, don't know whether they are starting to sound a bit samey though. Another space.
+02-02-78    4   A little short, it seems, but filled with quality.
 03-02-78
 04-02-78
 05-02-78
-06-04-78	3.5	Nothing too shabby, nothing too special. Bad PA static in last 2 songs does not help.
-07-04-78	3.5	Again, it rolled over a bit like the last show. Nothing really bad though.
-08-04-78	4	Slightly better. But these shows are starting to sound very familiar. More close encounters.
-10-04-78	3	A unique (?) terrible joke. Otherwise largely uninspired.
-11-04-78	3	Bit better. First Iko Iko, but a long-ass drums and not much jamming.
-12-04-78	3.5	Jerry painfully out of tune in BIODTL. 26 minutes of drums! Bad cut at end of 2nd set.
-14-04-78	3.5	Second time Jerry out of tune, at start of 2nd set. Nice but nothing special.
-15-04-78	4.5	Best first set start ever with Half Step > Passenger? Good Playing, only Dew of 1978. Nearly 5.
-16-04-78	3.5	Drums and space is becoming formalised. Continues the 78 standard of 3.5
-18-04-78	3	Tape is all over the place, especially in Passenger. Another Blackbird tease. Pedestrian.
-19-04-78	3	Again a bit too pedestrian. Post drums and first Werewolf make up for it a little.
-21-04-78	4	Best drums and space of the year so far. A step up from recent shows.
-22-04-78	3.5	Dicks Picks 15. These shows can be more miss than hit.
-24-04-78	4	Monkey drums and space is probably the best so far. The rest of the set is similar to early 78 stuff.
-05-05-78	3	Phil out of tune in NFA? He plays some bum notes at the end of Werewolves. Slightly boring.
-06-05-78	4	Awesome LLR and Deal in first set. Teddy Bears picnic riff before Terrapin. Better than average for 78.
-07-05-78	4	Nothing in particular stood apart from the great MNS, but overall not a bad show at all.
-09-05-78	4	Pretty bad AUD, but still a nice show. Spaces are getting interesting. "USA" chant before the encore.
-10-05-78	4	Rough aud (this and the last show are DP 25). Like 77, sometimes the 4's come in batches.
-11-05-78	3.5	Lots of laughs in Dancin'. Drums a little long. Nice Stella Blue. Weir solo in Werewolves. Double encore.
-13-05-78	4	Another quite nice show. Quite a while since a really decent show though.
-15-05-78	4	Tough. Hate to keep giving these 4, but that's what it is. Nice UJB encore made a change.
-16-05-78	3.5	You can hear Weir on the audience tape. More solo Jerry in space. Slow second set.
-17-05-78	3.5	Great Space > Terrapin choice near the end couldn't raise the profile of this.
-04-06-78	3	Space has some terrible Donna squealing, and motorbikes. Band sound drunk or high. Manic ending.
-25-06-78	4.5	Stunning (for 1978) feedback jam and chaos after drums. Solid show.
-01-07-78	4	Wille Nelson 4th July picnic. Unusual show with 1 long set, but still pretty good.
-03-07-78	4	Phil: "Whoever is throwing firecrackers belongs in the Ted Nugent concert". Awful slide in Werewolves.
-05-07-78	3.5	Estimated almost went somewhere. Space was good, but the rest of the show lacked any major spark.
-07-07-78	4	Very short second set (1h 5m or similar). Unusual 'Nobodies fault' jam in NFA. Not bad.
-08-07-78 	4.5	Tiny tiny hint of Star out of space? Good show. Killer encore, and laid back throughout most.
-30-08-78	4	First "Miracle". Only 2nd set. Screwed up BEW. Phil scat sings in space. Excellent IIHTWTG.
-31-08-78	3.5	Nasty SBD cut in Terrapin. First "Shakedown" - not bad. Weak end to Sugar Mag.
-02-09-78	4	Good jam pre-drums, only 1 song after space which is an out-of-tune Sugar Mag.
-14-09-78	3	First Eygpt show. It's pretty messy, with the starting jam and space being the best.
-15-09-78	3	Jerry talks offhand - first time for a long long time. Better than first night, but still not great.
-16-09-78	4	You can hear Jerry call a song. Shakedown has best jam of Eygpt. Excellent drums > space.
-17-10-78	4	Jerry asked for banjo lessons in space. Wonderful IIHTWTG, and a show with nice structure.
-18-10-78	4	Nice Good Lovin'. Shows have picked up since Eygpt. Good, but not ground-breaking.
-20-10-78	3.5	Dancin' outro jam was the best; nothing else really popped out.
-21-10-78	4	Nice show, but it's hard to reach those 4.5 scores now. Still, Lee Oskar was good.
-22-10-78	4	Nice NFA jam, the whole show was 'nice' but didn't go crazy anywhere. Still, has a Caution jam...
-11-11-78		TODO: Saturday Night Live, NBC Studios, New York
-13-11-78	4.5	PITB > Drums > Space > Black Peter > Playin' had an almost dreamy quality to it.
-14-11-78	3.5	Not terrible, not special. One of those that sails past you without offending.
-16-11-78	4	Worst audience for a while. Band weird from drums onward. Best Truckin' of 78? Nearly 4.5.
-17-11-78a	4	Early acoustic. What a strange gig. Not musically exiting but a real change.
-17-11-78b	3.5	Terrible audience tape that has cuts. Hard to rate, seems to have good energy.
-18-11-78	4.5	At last a decent soundboard. Monster He's Gone > Other One. Best Other One since 1974.
-20-11-78	4.5	Bobby was sick, misses a lot of the show. Cuts aplenty. Craziest set opener since the 60's?
-21-11-78	4	Props to the clever woman in the audience. Great Truckin', pity about the sound quality.
-23-11-78	3.5	Show is a soundboard but it's very choppy and cut up. Best is the Eygpt space > Shakedown. Nearly 4.
-24-11-78	4.5	Great show with perhaps the ultimate 78 Shakedown. Avaliable on video as well.
-12-12-78	4.5	This is a very smooth show that I enjoyed, it was very relaxed and reminded me of 74 second set ends.
-13-12-78	4	Lovely Playin' in this one. Late 78 is definitly a step up from the summer.
-15-12-78	3.5	Good energy at the end but it overall this show didn't stand out.
-16-12-78	4	Says aud but sounds like Matrix! Overall nice energy and long songs. But not cutting enough.
-17-12-78	3.5	The auds keep coming. Last Egypt jam? Out of tune Sugar Mag, long drums.
-19-12-78	3.5	Another aud. Stella > NFA is the smoothest transition ever. Good on paper kind of show.
-21-12-78	3	Dreadful aud. Boomy, and at the back of the hall. Black Peter may have been good.
-22-12-78	3	Another dreadful aud! Cut at the end to. Didn't sound musically worse, but the sound was dreadful.
-27-12-78	3.5	Yet another aud, better but more crowd noise. Nothing stood out at particularly good or bad.
-28-12-78	4	Finally a crisp board. Lovelight riff at end of Eyes. Jerry tells Keith to be quiet. Killer Sugar Mag.
-30-12-78	4	Great first set. Good Hamza. St. Stephen with Mu-Tron is awesome for first 5 seconds.
-31-12-78	4.5	This show has everything in 3 sets. Best part is post-Star in the 3rd set.
+06-04-78    3.5 Nothing too shabby, nothing too special. Bad PA static in last 2 songs does not help.
+07-04-78    3.5 Again, it rolled over a bit like the last show. Nothing really bad though.
+08-04-78    4   Slightly better. But these shows are starting to sound very familiar. More close encounters.
+10-04-78    3   A unique (?) terrible joke. Otherwise largely uninspired.
+11-04-78    3   Bit better. First Iko Iko, but a long-ass drums and not much jamming.
+12-04-78    3.5 Jerry painfully out of tune in BIODTL. 26 minutes of drums! Bad cut at end of 2nd set.
+14-04-78    3.5 Second time Jerry out of tune, at start of 2nd set. Nice but nothing special.
+15-04-78    4.5 Best first set start ever with Half Step > Passenger? Good Playing, only Dew of 1978. Nearly 5.
+16-04-78    3.5 Drums and space is becoming formalised. Continues the 78 standard of 3.5
+18-04-78    3   Tape is all over the place, especially in Passenger. Another Blackbird tease. Pedestrian.
+19-04-78    3   Again a bit too pedestrian. Post drums and first Werewolf make up for it a little.
+21-04-78    4   Best drums and space of the year so far. A step up from recent shows.
+22-04-78    3.5 Dicks Picks 15. These shows can be more miss than hit.
+24-04-78    4   Monkey drums and space is probably the best so far. The rest of the set is similar to early 78 stuff.
+05-05-78    3   Phil out of tune in NFA? He plays some bum notes at the end of Werewolves. Slightly boring.
+06-05-78    4   Awesome LLR and Deal in first set. Teddy Bears picnic riff before Terrapin. Better than average for 78.
+07-05-78    4   Nothing in particular stood apart from the great MNS, but overall not a bad show at all.
+09-05-78    4   Pretty bad AUD, but still a nice show. Spaces are getting interesting. "USA" chant before the encore.
+10-05-78    4   Rough aud (this and the last show are DP 25). Like 77, sometimes the 4's come in batches.
+11-05-78    3.5 Lots of laughs in Dancin'. Drums a little long. Nice Stella Blue. Weir solo in Werewolves. Double encore.
+13-05-78    4   Another quite nice show. Quite a while since a really decent show though.
+15-05-78    4   Tough. Hate to keep giving these 4, but that's what it is. Nice UJB encore made a change.
+16-05-78    3.5 You can hear Weir on the audience tape. More solo Jerry in space. Slow second set.
+17-05-78    3.5 Great Space > Terrapin choice near the end couldn't raise the profile of this.
+04-06-78    3   Space has some terrible Donna squealing, and motorbikes. Band sound drunk or high. Manic ending.
+25-06-78    4.5 Stunning (for 1978) feedback jam and chaos after drums. Solid show.
+01-07-78    4   Wille Nelson 4th July picnic. Unusual show with 1 long set, but still pretty good.
+03-07-78    4   Phil: "Whoever is throwing firecrackers belongs in the Ted Nugent concert". Awful slide in Werewolves.
+05-07-78    3.5 Estimated almost went somewhere. Space was good, but the rest of the show lacked any major spark.
+07-07-78    4   Very short second set (1h 5m or similar). Unusual 'Nobodies fault' jam in NFA. Not bad.
+08-07-78    4.5 Tiny tiny hint of Star out of space? Good show. Killer encore, and laid back throughout most.
+30-08-78    4   First "Miracle". Only 2nd set. Screwed up BEW. Phil scat sings in space. Excellent IIHTWTG.
+31-08-78    3.5 Nasty SBD cut in Terrapin. First "Shakedown" - not bad. Weak end to Sugar Mag.
+02-09-78    4   Good jam pre-drums, only 1 song after space which is an out-of-tune Sugar Mag.
+14-09-78    3   First Eygpt show. It's pretty messy, with the starting jam and space being the best.
+15-09-78    3   Jerry talks offhand - first time for a long long time. Better than first night, but still not great.
+16-09-78    4   You can hear Jerry call a song. Shakedown has best jam of Eygpt. Excellent drums > space.
+17-10-78    4   Jerry asked for banjo lessons in space. Wonderful IIHTWTG, and a show with nice structure.
+18-10-78    4   Nice Good Lovin'. Shows have picked up since Eygpt. Good, but not ground-breaking.
+20-10-78    3.5 Dancin' outro jam was the best; nothing else really popped out.
+21-10-78    4   Nice show, but it's hard to reach those 4.5 scores now. Still, Lee Oskar was good.
+22-10-78    4   Nice NFA jam, the whole show was 'nice' but didn't go crazy anywhere. Still, has a Caution jam...
+11-11-78        TODO: Saturday Night Live, NBC Studios, New York
+13-11-78    4.5 PITB > Drums > Space > Black Peter > Playin' had an almost dreamy quality to it.
+14-11-78    3.5 Not terrible, not special. One of those that sails past you without offending.
+16-11-78    4   Worst audience for a while. Band weird from drums onward. Best Truckin' of 78? Nearly 4.5.
+17-11-78a   4   Early acoustic. What a strange gig. Not musically exiting but a real change.
+17-11-78b   3.5 Terrible audience tape that has cuts. Hard to rate, seems to have good energy.
+18-11-78    4.5 At last a decent soundboard. Monster He's Gone > Other One. Best Other One since 1974.
+20-11-78    4.5 Bobby was sick, misses a lot of the show. Cuts aplenty. Craziest set opener since the 60's?
+21-11-78    4   Props to the clever woman in the audience. Great Truckin', pity about the sound quality.
+23-11-78    3.5 Show is a soundboard but it's very choppy and cut up. Best is the Eygpt space > Shakedown. Nearly 4.
+24-11-78    4.5 Great show with perhaps the ultimate 78 Shakedown. Avaliable on video as well.
+12-12-78    4.5 This is a very smooth show that I enjoyed, it was very relaxed and reminded me of 74 second set ends.
+13-12-78    4   Lovely Playin' in this one. Late 78 is definitly a step up from the summer.
+15-12-78    3.5 Good energy at the end but it overall this show didn't stand out.
+16-12-78    4   Says aud but sounds like Matrix! Overall nice energy and long songs. But not cutting enough.
+17-12-78    3.5 The auds keep coming. Last Egypt jam? Out of tune Sugar Mag, long drums.
+19-12-78    3.5 Another aud. Stella > NFA is the smoothest transition ever. Good on paper kind of show.
+21-12-78    3   Dreadful aud. Boomy, and at the back of the hall. Black Peter may have been good.
+22-12-78    3   Another dreadful aud! Cut at the end to. Didn't sound musically worse, but the sound was dreadful.
+27-12-78    3.5 Yet another aud, better but more crowd noise. Nothing stood out at particularly good or bad.
+28-12-78    4   Finally a crisp board. Lovelight riff at end of Eyes. Jerry tells Keith to be quiet. Killer Sugar Mag.
+30-12-78    4   Great first set. Good Hamza. St. Stephen with Mu-Tron is awesome for first 5 seconds.
+31-12-78    4.5 This show has everything in 3 sets. Best part is post-Star in the 3rd set.
 
-05-01-79	3.5	Starts as a high-energy aud. Lots of cuts. Nobodys Fault jam was the highlight.
-07-01-79	3.5	First show at MSG. PA craps out near end of 2nd set. Nothing too special.
-08-01-79	4	Another aud, quite a lot in this period. Jerry's voice is shot. 2nd set like a 77 show.
-10-01-79	4.5	First East coast Dark star for a while. Good show; Star better than 31-12-78.
-11-01-79	4	Maybe all auds on this tour. End of second set post drums is where the action is.	
-12-01-79	4	Continuing the auds. Has a super-long Dancin' but it didn't grab as much as it could.
-14-01-79	3	Worst aud of the tour so far. Bobby high in the mix. The 2nd set is a little rushed.
-15-01-79	4.5	Fantastic aud, and a great second set Terrapin > Playing make this worth a listen.
-17-01-79	4	Another stunning aud. Bit of an epic as well, long 2nd set. Jerry has a weak voice near end.
-18-01-79	3.5	No drums for a change, but I didn't get much from this show.
-20-01-79	4	Another Dark Star, but pretty short. Could have been better. Moore's aud is great.
-21-01-79	3	Dreadful aud, boomy with no top. Hard to tell, but didn't sound special.
-03-02-79	4	First set sbd, 2nd set aud. Nice overall show with good energy.
-04-02-79	4	It was another decent show. Jerry has a certain "super fast licks mode" which is getting more common.
-07-02-79	3.5	Jerry hits 4 valiums. Recording is incomplete and in the wrong order. Sluggish.
-09-02-79	5	Dodgy aud with a lot of hiss. Long He's Gone leads to sublime jam > drums > space. Shakedown encore!
-10-02-79	4.5	Noisy aud again. Eyes has got pretty fast recently. We're hotting up on this tour!
-17-02-79	4	K+D's last show. Messy in parts (Bertha / Shakedown), but some jamming was on point.
+05-01-79    3.5 Starts as a high-energy aud. Lots of cuts. Nobodys Fault jam was the highlight.
+07-01-79    3.5 First show at MSG. PA craps out near end of 2nd set. Nothing too special.
+08-01-79    4   Another aud, quite a lot in this period. Jerry's voice is shot. 2nd set like a 77 show.
+10-01-79    4.5 First East coast Dark star for a while. Good show; Star better than 31-12-78.
+11-01-79    4   Maybe all auds on this tour. End of second set post drums is where the action is.   
+12-01-79    4   Continuing the auds. Has a super-long Dancin' but it didn't grab as much as it could.
+14-01-79    3   Worst aud of the tour so far. Bobby high in the mix. The 2nd set is a little rushed.
+15-01-79    4.5 Fantastic aud, and a great second set Terrapin > Playing make this worth a listen.
+17-01-79    4   Another stunning aud. Bit of an epic as well, long 2nd set. Jerry has a weak voice near end.
+18-01-79    3.5 No drums for a change, but I didn't get much from this show.
+20-01-79    4   Another Dark Star, but pretty short. Could have been better. Moore's aud is great.
+21-01-79    3   Dreadful aud, boomy with no top. Hard to tell, but didn't sound special.
+03-02-79    4   First set sbd, 2nd set aud. Nice overall show with good energy.
+04-02-79    4   It was another decent show. Jerry has a certain "super fast licks mode" which is getting more common.
+07-02-79    3.5 Jerry hits 4 valiums. Recording is incomplete and in the wrong order. Sluggish.
+09-02-79    5   Dodgy aud with a lot of hiss. Long He's Gone leads to sublime jam > drums > space. Shakedown encore!
+10-02-79    4.5 Noisy aud again. Eyes has got pretty fast recently. We're hotting up on this tour!
+17-02-79    4   K+D's last show. Messy in parts (Bertha / Shakedown), but some jamming was on point.
 22-04-79    4   Brent's first show. Different sound straight away. Space is great.
-03-05-79	3.5	Some strange PA issues in Black Peter. Nice Playin', but pretty normal even with Brent's new sounds.
-05-05-79	3.5	"Good morning Philip" says Bob in the opener. Obvious new toys in space + drums. Punchy encore.
-07-05-79	3.5	Not a good Brent patch for Estimated. Great NFA with Cippollina. Slightly plodding until the end.
-09-05-79	4	Phil wears a Pigpen t-shirt. Great Masterpiece tease/jam. 2nd set much better than the first.
-11-05-79	3.5	Another super-speedy Eyes. Brent + Drums section is very jazzy. No encore spoils the end a little.
-12-05-79	3.5	Aud is very 'windy'. Terrapin' > Playin is where the heat is, although nothing surprising.
-13-05-79	3	Another aud, quite a lot for this period it seems. No obvious highlights, sq is bad though.
-28-06-79	3	Only the 2nd set, and not a great sbd. Some nasty cuts kill the flow.
-30-06-79	3	Another pedestrian show. Aud conversation about Brent was probably the best part.
-01-07-79	3.5	Great quality in comparison to recent shows, not sure it was a significantly better show though.
-04-08-79	4.5	First appearence of Tiger, Althea and Lost Sailor. Good first set. Great Playin', awesome Stella Blue.
-05-08-79 	3.5	Not as good as the previous night and a few too many cuts to songs. Triple encore though.
-12-08-79	4	2nd year at Red Rocks. Best Eyes jam for a long time, cracking drums. SBD runs fast though.
-13-08-79	3	Can't say anything stood out at this show. End Truckin' was probably the highlight.
-14-08-79	3.5	First Brent song. I swear Jerry sings "drink your wealth" in the last 2 US Blues.
-31-08-79	3.5	New songs a bit botched. "Can we play something easier?". Eyes is too fast again.
-01-09-79	3.5	Really good space - best for a while. Second set was too short - Scarlet > Fire > Drums??
-02-09-79	4.5	Set list is killer. Awesome return for Let It Grow. Another good Stella Blue.
-04-09-79	3.5	Lots of comebacks recently - China Rider this show. He's Gone very jammy. Too many songs have mistakes.
-05-09-79	3.5	Hotting up on the Half-Step > Franklins openers. Nice Estimated, Eyes again too fast. End was lame.
-06-09-79	4	Mind Left Body hint after NFA! Better than the previous 2 nights and good from Terrapin onwards.
-24-10-79	5	Already tired of "Easy To Love You". Good "Fire". Short but sweet Playin'. Short killer 2nd set.
-25-10-79	4.5	What a Shakedown! Crazy space with fairly mental bass. Not quite as killer as the previous night though.
-27-10-79	4	Some jamming length epics, but the fire was sparked less frequently than the last 2 shows.
-28-10-79	3.5	Jeez those long Franklins go nowhere. Nice China Rider and Playing though.
-31-10-79	4	China > Rider opener. Jerry speaks about crowd crush. Good Shakedown 2nd set opener. Ends well.
-01-11-79	4.5	38 mins of Scarlet Fire: most jammed version? Space was good; some potential was missed though.
-02-11-79	4	Lots of stage talk in jam pre drums. Another 20+ minute Franklins. Good, but greatness eludes.
-04-11-79	3	First Alabama Getaway. He's Gone is best part of pedestrian show. Horrible cut at end as well.
+03-05-79    3.5 Some strange PA issues in Black Peter. Nice Playin', but pretty normal even with Brent's new sounds.
+05-05-79    3.5 "Good morning Philip" says Bob in the opener. Obvious new toys in space + drums. Punchy encore.
+07-05-79    3.5 Not a good Brent patch for Estimated. Great NFA with Cippollina. Slightly plodding until the end.
+09-05-79    4   Phil wears a Pigpen t-shirt. Great Masterpiece tease/jam. 2nd set much better than the first.
+11-05-79    3.5 Another super-speedy Eyes. Brent + Drums section is very jazzy. No encore spoils the end a little.
+12-05-79    3.5 Aud is very 'windy'. Terrapin' > Playin is where the heat is, although nothing surprising.
+13-05-79    3   Another aud, quite a lot for this period it seems. No obvious highlights, sq is bad though.
+28-06-79    3   Only the 2nd set, and not a great sbd. Some nasty cuts kill the flow.
+30-06-79    3   Another pedestrian show. Aud conversation about Brent was probably the best part.
+01-07-79    3.5 Great quality in comparison to recent shows, not sure it was a significantly better show though.
+04-08-79    4.5 First appearence of Tiger, Althea and Lost Sailor. Good first set. Great Playin', awesome Stella Blue.
+05-08-79    3.5 Not as good as the previous night and a few too many cuts to songs. Triple encore though.
+12-08-79    4   2nd year at Red Rocks. Best Eyes jam for a long time, cracking drums. SBD runs fast though.
+13-08-79    3   Can't say anything stood out at this show. End Truckin' was probably the highlight.
+14-08-79    3.5 First Brent song. I swear Jerry sings "drink your wealth" in the last 2 US Blues.
+31-08-79    3.5 New songs a bit botched. "Can we play something easier?". Eyes is too fast again.
+01-09-79    3.5 Really good space - best for a while. Second set was too short - Scarlet > Fire > Drums??
+02-09-79    4.5 Set list is killer. Awesome return for Let It Grow. Another good Stella Blue.
+04-09-79    3.5 Lots of comebacks recently - China Rider this show. He's Gone very jammy. Too many songs have mistakes.
+05-09-79    3.5 Hotting up on the Half-Step > Franklins openers. Nice Estimated, Eyes again too fast. End was lame.
+06-09-79    4   Mind Left Body hint after NFA! Better than the previous 2 nights and good from Terrapin onwards.
+24-10-79    5   Already tired of "Easy To Love You". Good "Fire". Short but sweet Playin'. Short killer 2nd set.
+25-10-79    4.5 What a Shakedown! Crazy space with fairly mental bass. Not quite as killer as the previous night though.
+27-10-79    4   Some jamming length epics, but the fire was sparked less frequently than the last 2 shows.
+28-10-79    3.5 Jeez those long Franklins go nowhere. Nice China Rider and Playing though.
+31-10-79    4   China > Rider opener. Jerry speaks about crowd crush. Good Shakedown 2nd set opener. Ends well.
+01-11-79    4.5 38 mins of Scarlet Fire: most jammed version? Space was good; some potential was missed though.
+02-11-79    4   Lots of stage talk in jam pre drums. Another 20+ minute Franklins. Good, but greatness eludes.
+04-11-79    3   First Alabama Getaway. He's Gone is best part of pedestrian show. Horrible cut at end as well.
 05-11-79    3.5 Rare China Rider opener. Sailor > Saint out of drums. Long songs doesn't always mean more jamming.
 06-11-79    4   Quality first set. Good set list in 2nd set, helped by 20 min Playing, Still, that 1st set...
 08-11-79    4   Only Morning Dew of 1979 tipped this one over to 4. Lots of talking in drums/space. Short 2nd set.
@@ -812,15 +813,44 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 13-07-81    3   Lots of vocal errors in Terrapin, on the other hand the best Satisfaction encore to date.
 14-07-81    3   2 long jams (Shakedown and Eyes) that don't really go anywhere. Car crash Good Lovin' intro.
 12-08-81    4   Best spanish jam and Morning Dew for a long time. Cheesy Truckin' intro got old very fast though.
-14-08-81    3.5 I enjoyed the set list and encore but it's now great sq wise and fails to really spark at any point.
+14-08-81    3.5 I enjoyed the set list and encore but it's not great sq wise and fails to really spark at any point.
 15-08-81    3.5 Surprisingly rough aud for the time, probably the worst of the 1980s. Nice jam after Terrapin though.
 16-08-81    3   Slightly rough SBD. Short first set. Weird drums with the Pranksters. Lacked a lot of excitement.
 27-08-81    3   Note this second set is similar to the last show. Apart from the Cumberland breakout, nothing exciting.
-28-08-81    4   Best Wheel ever? No flow though - highlights quite segmented. spanish jam after drums.
+28-08-81    4   Best Wheel ever? No flow though - highlights quite segmented. Spanish jam after drums.
 30-08-81    4   Lovely post-drums, very mellow and some good song choices. Other One > Stella Blue is great.
 31-08-81    4   Pretty decent first set. Most excellent Playin' > Drums > Space. Slightly messy ending. Needs a good source.
 11-09-81    3.5 Joan Baez sings Happy Birthday to Hart. First Greek show. Nice setlist but no stand outs.
-12-09-81        Killer CC Rider solo - phew!
-13-09-81
-25-09-81
-26-09-81
+12-09-81    4   Killer CC Rider solo - phew! Also a good Shakedown to start the first set, always a good sign.
+13-09-81    3.5 Nice show overall, and quite long. GDTRFB and Terrapin jam before Never Trust a Woman were the standouts.
+25-09-81    3.5 Nice Bird Song. Possibly worst digi-noise of any soundboard so far. Strange split Sugar Mag at end.
+26-09-81    4.5 Crazy second set setlist. Cracking show, from start to finish. Best show of 1981 so far.
+27-09-81    4   A good show, although slightly pales in comparison to the previous night. Nice Spanish jam out of space.
+30-09-81    3.5 Edinburgh! Not bad for a tour opener in a strange place. Would have been a good show to go to.
+02-10-81    3.5 No messing around with this 2nd set, Playin' > Shakedown to open. Just a bit sloppy on the transistions.
+03-10-81    3.5 Another good set list. Great space as well, but seemed to lose some energy post drums. A bit standard.
+04-10-81    4   Good overall show with a really great jam out of Scarlet that went into Playing territory.
+06-10-81    4.5 Blues for Allah jam for Anwar Sadat? Really good Estimated jam. Stella Blue ending is also magnificent.
+08-10-81    4   Messy soundboard. Playing > Terrapin, 26 mins of excellence. Really great space as well.
+10-10-81    3   Jerry low in the mix for half the first set. Post drums was decent, but that was it. Super fast Eyes as well.
+11-10-81    3   Jerry + Bob at the Melkweg. Aud is a little rough and the set is short. Great occasion, so-so as a show.
+12-10-81    3   It has a very strange pre-drums setlist, but lacks any exciting moments. First set probably the best.
+13-10-81    3.5 Guitars die in Sugar Mag. Jam > Drums > Space > Spanish jam is best part, rest far more standard.
+15-10-81    3.5 Oops concert in Amsterdam. An actual bass solo! Sloppy in places but something of interest in there.
+16-10-81    3.5 It's a very strange setlist, but pretty short and not as impressive as I though it should be.
+17-10-81    3   Bit weak, except maybe for the end. Band hangover? Jerry seems to sing "US Booze" in the encore.
+19-10-81    4   Barcelona. Very unusual solo Jerry before drums. Let It Grow is well worth a listen. Best Sugar Mag?
+29-11-81    3   Nice jam after He's Gone but the post drums selection had little no no energy. 1st set is better.
+30-11-81    2.5 Mack the knife get stopped after 1 verse. A bit so-so, and most unusual to see a stopped song.
+02-12-81    3   Chunk of the 2nd set missing. Better than the last show, but nothing particularly standout.
+03-12-81    3.5 Very fast end to Black Peter. Drums was listed but was more like space. Great Baby Blue at the end.
+05-12-81    4   A WTF? CC Rider. Short but excellent space. One of the better 81 shows, even if the end lacks a little fire.
+06-12-81    4   Nothing wrong with this show, with a really good space, maybe the best of the year. Also good Sugaree.
+07-12-81    3.5 Again space was the best part, although nothing wrong with the Truckin' > Nobody's Fault afterwards.
+09-12-81    3.5 Excellent China > Rider slightly ruined with Bob cheese. Second set was standard for the time.
+12-12-81    3.5 Benefit with Joan Baez. GD only is a single set. Baez part was OK. GD set was "efficient".
+26-12-81    4   Day at the dentist space with Eleven jam. Overall a good solid start to the new year run.
+27-12-81    4   Bobby's singing extends into the jam in Playin' - which is a good version. Weak end to the show though.
+28-12-81    3.5 Great sound quality but slipped a bit from the previous 2 nights. Space was quite structured for a change.
+30-12-81    3.5 Solid but unspectacular, and like other years you feel they are holding back a bit for the next night.
+31-12-81    4.5 Sheese this is a long show with a crazy setlist. Possibly the best show of the year though. Excellent!
