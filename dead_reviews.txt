@@ -481,7 +481,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 03-05-77    3.5 Didn't flow so well in the 2nd set, a very stop start effort. Moore's aud is good though.
 04-05-77    4   Jerry out of tune at start. Get this for the dreamy Playin' jam at the end of the 2nd set.
 05-05-77    4   Rocking end, jams are contained in the songs and not between.
-07-05-77    4   Another good 1977 show with little jamming
+07-05-77    4   Another good 1977 show with little jamming.
 08-05-77    4.5 It is as smooth as butter, as they say.
 09-05-77    4   Almost 4.5, very smooth as well.
 11-05-77    3.5 Shows are hard to review. All the space jamming has gone.
@@ -496,17 +496,17 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 25-05-77    4   Another 4? The setlists are become a bit more modern.
 26-05-77    4.5 Nearly a 4, but better than others around this time.
 28-05-77    4   Back to the standard 1977! Setlists are becoming modern.
-04-06-77        Fantastic setlist for the 2nd set.
-07-06-77
+04-06-77    4   Fantastic setlist for the 2nd set; which was good, but felt like a greatest hits collection.
+07-06-77    3.5 Had a great Dew but the rest didn't shine for me, despite what seems like a great set-list.
 08-06-77    5   What a nice, tasty 77 show. Jam before NFA is great.
-09-06-77
-03-09-77
+09-06-77    4.5 Is everything just exactly perfect? Just ask Bob. Awesome Help>Slip. Maybe it nearly is. Good show.
+03-09-77    4.5 Infamous Raceway Park gig. Good on a lot of levels. Most songs are excellent. What a NFA as well!
 28-09-77    3.5 Maybe it just didn't stack up against the last one.
 29-09-77    3.5 Also not so inspiring.
 01-10-77    3   What can you do if nothing inspires? Nothing stand-out.
 02-10-77    3.5 Nothing wrong, nothing right.
-06-10-77
-07-10-77
+06-10-77        TODO: This show on archive is not correct.
+07-10-77    4   Only has partial show (about 90 mins). Still a pretty cracking set list and has plenty of energy.
 09-10-77    4.5 First real drums, great Sugaree and Truckin'
 11-10-77
 12-10-77    3.5 Like real second sets! Some lazy song choices.
@@ -854,3 +854,24 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 28-12-81    3.5 Great sound quality but slipped a bit from the previous 2 nights. Space was quite structured for a change.
 30-12-81    3.5 Solid but unspectacular, and like other years you feel they are holding back a bit for the next night.
 31-12-81    4.5 Sheese this is a long show with a crazy setlist. Possibly the best show of the year though. Excellent!
+
+16-02-82    3.5 Rough aud for the time. Sounds decent but hard to get through the murk. Set list was good though.
+17-02-82    4   Straight out of the gate, and great quality as well! Good high energy - would reccomend.
+19-02-82    3.5 Pretty rocky, and the second set pre-drums was not so exiting. But overall not a bad show.
+20-02-82    4   Unique keyboard jam from a long Playin' into drums, also the jamming continued well into the space.
+21-02-82    3.5 Pretty rocking through most of the show, but pedestrian in the jams. Best song was the opening Shakedown.
+28-02-82    2.5 Joke of a start for set 2 after Ken Babbs intro. Largely insipid and the "jam" seem dialled in.
+13-03-82    3   Aside from a slight Dear Prudence jam out of the Other One, nothing much to report on this one.
+02-04-82    4   Better than the previous night. Truckin' onwards was really well done and at times unique.
+03-04-82    3.5 This Eyes is almost wrong in a strange way. This is also the first NFA chant I heard the audience do.
+05-04-82    3.5 Nice jam with the Playin at the start of the 2nd set, but otherwise fairly normal fare for the time.
+06-04-82    4   Call-response in Shakedown. Any show of this era with a Dew is normally good, despite a Truckin' whistle.
+08-04-82    3.5 Fairly good pre-drums and space. Not a bad little show but it didn't have any real standouts.
+09-04-82    3   No jamming to speak of and the tunes are fairly short. At least the Miller board sounds good.
+11-04-82    3   First croaky Jerry? Decent Let It Grow, but the rest of the show felt a little phoned in.
+12-04-82    3.5 Unusual Iko opener and 2nd set Sugaree. Experimental Estimated Prophet ending. Tiny space tiger. Solid.
+14-04-82    3   Set list looked good but Jerry was off the stage less than 25 minutes into the 2nd set. Unspectacular.
+15-04-82        So close!
+17-04-82
+18-04-82
+19-04-82
