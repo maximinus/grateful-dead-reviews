@@ -1,8 +1,8 @@
 Grateful Dead Reviews
 
 Note: Dates from 65-67 may be slightly wrong.
-
-Notes:
+      This is because I tried to listen to everything, and I'm sure I repeated bits of music because the labelling
+      on those early shows is often up for debate.
 
 1: In general, the best sound source was selected for each show (almost always a soundboard).
 2: The whole show was listened to.
@@ -29,35 +29,34 @@ Date        Score  Comments
 
 08-01-66    3   Acid test madness. Not as messy as you'd think. Jerry is great.
 29-01-66    1.5 Listed as a GD show. Is this the Dead? Interviews are interesting, music is not musical.
-05-02-66        LA studio rehearsals. Lots of snippets. Viola Lee is long and jammed.
+05-02-66    3   LA studio rehearsals. Lots of snippets. Viola Lee is long and jammed. Rest is pretty boring.
 12-02-66    3.5 Watts acid tests. The Jerry + Pig show. Everbody else mixed too low.
 25-02-66    2   No jams, more like Pigpen raps. Singing can be bad.
-12-03-66
-09-03-66
-10-03-66
+12-03-66    4   Probably wrong data, maybe December? Still, it's 3 complete songs. Nice quality and it's on point.
+09-03-66    3.5 Labelled "LA Practice", but who knows? Surprisingly open to jamming, and a nice relaxed feel.
+10-03-66    3   Studio snippets again. Great quality. Fast and furious, and pretty short as well.
 12-03-66    3   Same as a previous show, I think
 25-03-66    3.5 Mix was Jerry, keys and drums! A long Pig solo as well
 19-05-66    3   So, young Bobby can't sing!
-??-06-66    1.5 Many small outakes. No real full songs. Boring.
-01-06-66
-15-06-66
-01-07-66    2   Short and not inspiring
+??-06-66    1.5 Many small outakes. No real full songs. Boring. Possibly same as next entry.
+01-06-66    2   "Birth Of The Dead". Very repetitive takes. Studio quality is good again, so it has that.
+15-06-66    4.5 "Live at Various". Great quality from the Dead Hour. They even sound like a good band!
+01-07-66    2   Short and not inspiring.
 03-07-66    1.5 Short, cuts, zero jams. Talking is best part.
 16-07-66    3.5 First Jerry ballad. Schoolgirl was proto-jamming.
 17-07-66    2   Short, not that sweet. Haven't heard any Phil yet really.
 29-07-66    3   Not too shabby. First Canadian gig.
 30-07-66    2.5 Second Canadian gig, but first was better. Similar though.
-01-08-66
-16-09-66    4   Alright, this sounds like a slightly different band. Date?
-02-10-66
+01-08-66    3   Possibly April 66'. Only 3 songs (1 repeated). Ideal for Pigpen fans - essentially long raps.
+16-09-66    4   Alright, this sounds like a slightly different band. Is this date correct?
+02-10-66    3   Not really GD at all. Apparently Jerry is on the organ. Too much dialog. Weird, some parts are good.
 07-10-66    3   A little too short. But sound is better than early part of the year.
-31-10-66
-01-11-66
+31-10-66    -   Pretty sure this is not the Grateful Dead. 9 minute instrumental jam.
 19-11-66    3   Novelty of 1966 has worn off, but this is a bit better.
 29-11-66    2.5 Quality a bit dodgy. Full show, like 2 first sets.
 01-12-66    3.5 Elements of some jamming happening here, but not a lot.
 05-12-66    3   High energy (sped up?), no vocals, reasonable fun.
-04-12-66
+04-12-66    3.5 Seems like a complete show. 3 full sets. Very very good view of 1966, quality is acceptable.
 xx-xx-66    3.5 Grateful Dead Hour broadcast. Sounds very early. Nice Caution.
 xx-xx-66    2   Primal GD Gems. Heard before. Mix is very poor, almost no vocals.
 xx-xx-66    2.5 'Jools' - 2/66? Short, a bit hissy. Mix is ok though.
@@ -70,6 +69,7 @@ xx-xx-66    2.5 'Wanderin' Man' song session. Good quality. Strange song from a 
 08-04-67    2   Fragment of TV(?) show. Tiny, annoying fragments. Interview is best.
 05-05-67    4   Powerful, full of energy, best early jam so far.
 18-06-67    4   Best jam so far! Just raw energy, needs a little direction.
+23-07-67    3   Neil Cassidy backed by the Dead. There's a strange combo. More the former than the latter.
 04-08-67    4   Monster 20 minute Viola Lee. Jerry hints at space at the end.
 05-08-67    3.5 Similar to last show. Just getting short clips right now.
 03-09-67    3.5 Some nice jammin' on Alligator, Pig rap a little long though.
@@ -77,6 +77,7 @@ xx-xx-66    2.5 'Wanderin' Man' song session. Good quality. Strange song from a 
 15-09-67    3   Terrible aud. Dreadful sound, some jams are on point.
 20-10-67    4   Recording sessions. Hissy, but well worth it. First Cryptical.
 22-10-67    4   Morning Dew start! Such a difference from a year ago.
+31-10-67    -   This is actuall cuts from 10/11 Nov, even though it is often listed as a show.
 10-11-67    3.5 Nice quality, jams not as frantically bad-ass as recent ones
 11-11-67    3   Nothing really grabbed me from the show.
 14-11-67    4   Studio outakes. Sounds well orchestrated. First Dark Star! Very short.
@@ -934,3 +935,23 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 28-12-82    3.5 Bass sound has improved since the 6 string. Jerry screws up Shakedown and Terrapin lyrics. Nice encore.
 30-12-82    3.5 Unusual 1st set setlist. "Say your piece and piss off?". Nice Stella Blue. Another "not bad" from this run.
 31-12-82    3   Tired first set. Deal at end of 2nd set? "Holy fuck, look at all those balloons". Not a good new year show.
+
+25-03-83    3.5 First set messy except for a decent LIG. 2nd set was decent pre-drums. Overall slighty anonymous.
+26-03-83    2.5 Can't say any of this really made me apprecite the show. No real jamming and the SQ wasn't great either.
+27-03-83    2.5 Messy. Haven't heard any decent Jerry for 2 whole shows. He sounds not with it at all this night.
+29-03-83    2.5 3 shows without a SBD, and none of the auds sound decent. Help > Slipknot is nice enough, but can't carry a show.
+30-03-83    3   Better quality but still a lack of energy. Really good drums/space. Rare China Doll. Low energy at end.
+31-03-83    2.5 Stranger screw-up at end. Not a good setlist pre-drums. Super slow back Throwing Stones. Messy and lazy.
+09-04-83    3.5 Jerry's voice has not been good this year. Still, a SBD at last. Nice Help / Slip. Not too shabby a show.
+10-04-83    3   Pre-drums was decent enough. Jerry seems a little off tonight though; the mistakes are minor but noticable.
+12-04-83    3.5 Decent 1st set with great set-list. Mellow throughout, with excellent sound quality. First NFA end -> encore.
+13-04-83    3.5 Long and decent Scarlet Fire. Jerry's voice very croaky. Maybe You Know really cheesy. Post drums was ok.
+15-04-83    3.5 Maybe You Know is the worst GD song to date. First Bob Star. Great space. Decent, but room for improvement.
+16-04-83    4   With Stephen Stills, who is a good add for the most part. Nice pre-drums jam as well. Decent second set.
+17-04-83    4.5 Good Let It Grow and first set. One of the best Playings for a long time. Awesome space. Love the one you're with!
+19-04-83    3.5 Long ass Sugaree that failed to stand out. Spanish jam after drums could have gone somewhere.
+20-04-83    3.5 Some SBD static. China Rider and the space are decent. Throwing Stones is slowly getting there. Acceptable. 
+22-04-83
+23-04-83
+25-04-83
+26-04-83
