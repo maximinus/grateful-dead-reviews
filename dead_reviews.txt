@@ -937,7 +937,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 31-12-82    3   Tired first set. Deal at end of 2nd set? "Holy fuck, look at all those balloons". Not a good new year show.
 
 25-03-83    3.5 First set messy except for a decent LIG. 2nd set was decent pre-drums. Overall slighty anonymous.
-26-03-83    2.5 Can't say any of this really made me apprecite the show. No real jamming and the SQ wasn't great either.
+26-03-83    2.5 Can't say any of this really made me appreciate the show. No real jamming and the SQ wasn't great either.
 27-03-83    2.5 Messy. Haven't heard any decent Jerry for 2 whole shows. He sounds not with it at all this night.
 29-03-83    2.5 3 shows without a SBD, and none of the auds sound decent. Help > Slipknot is nice enough, but can't carry a show.
 30-03-83    3   Better quality but still a lack of energy. Really good drums/space. Rare China Doll. Low energy at end.
@@ -1044,26 +1044,97 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 07-07-84    3   Pre-drums had an interesting Playing > China Doll. First real Lovelight for ages. But generally pretty average.
 13-07-84    4   Dark star encore! Rest of show is middling (though good SQ) quality. Dark Star though is good and worth a listen.
 14-07-84    3   Some great Phil here. Pretty mellow throughout, although it meanders into forgettable territory sometimes.
-15-07-84    4   First set is ok, but second is pretty decent. Jerry stays for Don't Need Loeve; Double encore. Phil speaks!
+15-07-84    4   First set is ok, but second is pretty decent. Jerry stays for Don't Need Love; Double encore. Phil speaks!
 21-07-84    3.5 Finally the Brent song is not pre-drums. Competent throughout, sounded nice but really lacked excitement.
 22-07-84    3.5 Dancin' is the new opener. Jerry's voice a little better recently. Nice transition from space to Dew. Solid.
-05-10-84
-06-10-84
-08-10-84
-09-10-84
-11-10-84
-12-10-84
-14-10-84
-15-10-84
-17-10-84
-18-10-84
-20-10-84
-27-10-84
-28-10-84
-30-10-84
-31-10-84
-02-11-84
-03-11-84
-28-12-84
-29-12-84
-31-12-84
+05-10-84    3.5 Long China > Rider (14 mins). Double intro of Sugar Mag. This is better than spring. Jerry says a word!
+06-10-84    3   Aside from a jammy China Doll, this show has no stand-outs, and the sound quality is only so-so. Missable.
+09-10-84    3.5 Jack Straw in the 2nd set? Really nice LiG. Unusual set-list. Post drums loses the excitement a little.
+11-10-84    3.5 15 min Shakedown to start! Spaciest Playin' for years, with feedback before drums. Dodgy post drums though.
+12-10-84    4   Jack-A-Roe for Phil? Gets serious after Don't Need Love. Great Uncle John's. Sound quality dips in second set.
+14-10-84    3.5 First set Miracle. 20 minute Eyes! Vocal effects OTT in Throwing Stones (which has first (?) standard chords in jam).
+15-10-84    3.5 Slighty perkier first set than usual. Second set Scarlet > Fire > Playin' is 50 minutes long! Samey jamming.
+17-10-84    3   Another "quite good" first set. Long Terrapin. Slightly rushed post drums. Whistle for Truckin is awful loud.
+18-10-84    3.5 Good Stranger opener. Actually has a nice set-list but lacks unusual elements. Nice digital effects in space.
+20-10-84    3.5 Nice Smokestack into a short jam and a very short drums. Post drums is by the numbers. Lovelight back in the mix.
+27-10-84    3   Wang Dang Doogle in 2nd set. Don't Need Love pre-drums. Brent's Truckin' intro kills me. GDTRFB intro train wreck.
+28-10-84    3.5 Short but sweet first set. Mixed dipped in second set but not bad. Crowd try NFA chant but get it wrong.
+30-10-84    3   Another short first set. Slips to slightly ropey aud for much of the second set. Too much delay in the space(!).
+31-10-84    3   Matt Kelly and "Ain't Superstitous" are nice. Great bird noises in space. Definitly needs some more excitement.
+02-11-84    2.5 Short, iffy first set. H>S>F is messy. Wharf Rat pre-drums? Good Lovin very messy. Chaotic everywhere, underwhelming.
+03-11-84    2   Worst first set for a long long time. Not 1 normal song pre-drums! Embarrassing, slighty better post drums.
+28-12-84    3   Mercifully better than the previous show. First Tons Of Steel and (bad) Day Tripper. Nothing stands out.
+29-12-84    3.5 Playin' > Drums > Space is 45 minutes long! Easily the best Playin' of 1984. Rest is quite pedestrian though.
+31-12-84    4   Crazy Shakedown opener. Throwing Stones jam is now complete. Show is out the door like a rocket, eases off later on.
+
+18-02-85
+19-02-85
+20-02-85
+09-03-85
+10-03-85
+12-03-85
+13-03-85
+21-03-85
+22-03-85
+24-03-85
+25-03-85
+27-03-85
+28-03-85
+29-03-85
+31-03-85
+01-04-85
+03-04-85
+04-04-85
+06-04-85
+07-04-85
+08-04-85
+13-04-85
+14-04-85
+27-04-85
+28-04-85
+14-06-85
+15-06-85
+16-06-85
+21-06-85
+22-06-85
+24-06-85
+25-06-85
+27-06-85
+28-06-85
+30-06-85
+01-07-85
+02-07-85
+13-07-85
+14-07-85
+24-08-85
+30-08-85
+31-08-85
+02-09-85
+03-09-85
+05-09-85
+06-09-85
+07-09-85
+10-09-85
+11-09-85
+12-09-85
+15-09-85
+25-10-85
+26-10-85
+28-10-85
+29-10-85
+31-10-85
+01-11-85
+02-11-85
+04-11-85
+05-11-85
+07-11-85
+08-11-85
+10-11-85
+11-11-85
+16-11-85
+17-11-85
+20-11-85
+21-11-85
+22-11-85
+30-12-85
+31-12-85
