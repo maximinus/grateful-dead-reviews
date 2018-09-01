@@ -1114,7 +1114,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 05-09-85    3.5 Unusually un-modern (for '85) setlist. Car crash Brokedown Palace encore. Mostly nicely done, except for no surprises at all.
 06-09-85    3   Only 2 hours of music - including Healy's burp! Are they saving themselves for the next night? Nothing unusual, tired in places.
 07-09-85    3.5 Opens with Bob madness. Very unusual Sat night to close 1st set. Decent overall second set. Still can't climb to a 4 though.
-10-09-85    3   Awful car-crash Brent tune before drums. Almost got jammed, in went so haywire. Rest is normal 85, and speedy after drums.
+10-09-85    3   Awful car-crash Brent tune before drums. Almost got jammed, it went so haywire. Rest is normal 85, and speedy after drums.
 11-09-85    3   Promised land in middle of first set? Second set is transparently without jamming. Space was not bad. Lacks adventure.
 12-09-85    3.5 Above average setlist. Last H>S>F for a few years. About as good as 85 goes; nothing particularly standout, but well played.
 15-09-85    4   Around > D/S > US Blues? A very strange show with regard to setlists, and decent for it. Super short post drums.
@@ -1123,18 +1123,65 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 28-10-85    3   Scarlet > Touch again. This one really floated over me, although none of it was especially bad; a normal 1985 complaint.
 29-10-85    3.5 Lost Sailor > Saint eats up jam time from second set. Good Crazy Fingers into long 9 minutes jam. Rest as expected.
 31-10-85    4   Opens with Space > Werewolves! Short, but probably the best second set of 1985 so far. 2nd set has a great setlist.
-01-11-85        Decent first set leads to 3 Jerry ballads pre drums. Sailor Saint split over drums.
-02-11-85
-04-11-85
-05-11-85
-07-11-85
-08-11-85
-10-11-85
-11-11-85
-16-11-85
-17-11-85
-20-11-85
-21-11-85
-22-11-85
+01-11-85    3.5 Decent first set leads to 3 Jerry ballads pre drums. Sailor Saint split over drums. Unusual song choice to set 2 as well.
+02-11-85    4   Pretty decent first set with nice Let It Grow. Second set has a great setlist. Best Dew for a long time. Decent show.
+04-11-85    3.5 It's not a bad show, but the setlist looks so 1977 it can't help but fail by comparison. Bob spits out Cocaine.
+05-11-85    3.5 Are the setlists the best thing about 1985? Bird Song with birds. Nice show overall, but needed just that little something.
+07-11-85    3.5 12 songs in the first set! Rare Let It Grow into drums. Throwing Stones > NFA is now well established. Average for the time.
+08-11-85    4   Nobody has a birthday! Really good space with weird sounds morphs into Other One with flanged voices. Great end to the show.
+10-11-85    4   Excellent Stranger to end the first set. High energy pre-drums. Short on adventure but put together well as a whole.
+11-11-85    3.5 Another early Deal. Decent ending trio for the first set. One of those shows that was nice but not at all naughty.
+16-11-85    3   Muddy SBD. Strange pre-drums setlist. 2nd set starts with Tennessee Jed? Unfortunatly, a bit phoned in. Longest song in 1st set.
+17-11-85    3   Brent slips another song in pre-drums. Why oh why? Rest of the show has no particular highlights, although encore is nice.
+20-11-85    4   High Time in 1st set. Rare Sailor > Saint. Terrapin has jam of the year but Brent rams in "Don't Need Love" after 18 minutes.
+21-11-85    4   Setlist of the year? Great Playing in the 2nd set. Second set is pretty good except last few songs. Is this encore unique?
+22-11-85    3.5 Really short show - 2h 11m total. Excellent SBD. First set is pretty nice, second set is also not bad, just lacks invention.
 30-12-85
 31-12-85
+
+08-02-86
+09-02-86
+11-02-86
+12-02-86
+14-02-86
+19-03-86
+20-03-86
+21-03-86
+23-03-86
+24-03-86
+25-03-86
+27-03-86
+28-03-86
+30-03-86
+31-03-86
+01-04-86
+03-04-86
+04-04-86
+12-04-86
+13-04-86
+18-04-86
+19-04-86
+21-04-86
+22-04-86
+03-05-86
+04-05-86
+10-05-86
+11-05-86
+20-06-86
+21-05-86
+22-05-86
+26-05-86
+28-05-86
+29-05-86
+30-05-86
+02-07-86
+04-07-86
+06-07-86
+07-07-86
+15-12-86
+16-12-86
+17-12-86
+27-12-86
+28-12-86
+30-12-86
+31-12-86
