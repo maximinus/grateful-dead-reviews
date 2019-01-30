@@ -807,7 +807,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-03-81    4   Good overall show with good first set and decent versions of Playin' and Stella Blue.
 24-03-81    4   Sound quality just so-so, but a nice mellow jam in He's Gone. Screw up in encore - Jerry says sorry.
 28-03-81    3.5 Rockpalast show, notable for that great Sugaree and Pete Townshend appearence. Better on video.
-30-04-81    3.5 Nice Estimated and shakedown, but speedy Eyes. Show kinda goes downhill shortly into the 2nd set.
+30-04-81    3.5 Nice Estimated and Shakedown, but speedy Eyes. Show kinda goes downhill shortly into the 2nd set.
 01-05-81    3.5 Continuing the long running "nice but not naughty" run of shows lacking bite. Stranger was good.
 02-05-81    3.5 Still a little cruising. The NFA was a hint to the future though, with Bobby pushing the audience.
 04-05-81    4   Very unfortunate cut in drums space. Good show until post drums. Playin' of the year?
@@ -1324,29 +1324,58 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 06-09-88	3.5	Nice choice of songs for the first set, but there was nothing really inventive in this show. Post drumrs is very regular.
 08-09-88	3	Let It Grow threatens a breakdown. Rest was however a lot more standard, with nothing in particular standing out.
 09-09-88	3	Both sets quite short (second set especially so). IWTYH out of space again. Very average, except for the Believe It Or Not.
-11-09-88	3	Slightly unusual per drums combination of Scarlet > Fire, apart from that nothing special. Lacking unpredictability, these shows.
+11-09-88	3	Slightly unusual pre drums combination of Scarlet > Fire, apart from that nothing special. Lacking unpredictability, these shows.
 12-09-88	3	These shows are really just washing over me a bit too much. They are not bad as much as lacking in variety. Hoping for better.
 14-09-88	3	Lot's of minor errors in this show. Sounds like the band are unsure of themselves. Saved by the Dew and the encore at the end. 
 15-09-88	3.5	Almost typical 1988 setlist, sublime to ridiculous (Playing paired with UJB seems common). Normal show, but pre drums was decent.
 16-09-88	3.5	Not a bad show at all; energy from the start and throughout. Estimated > Terrapin > DS were the highlights, sans Bobby screams.
 18-09-88	3.5	Good first set, and mainly decent up to drums. NFA chant to start second set. Post drums was OO > WR > TS > NFA again.
 19-09-88	3.5	Another Playing reprise pre-drums - seems to be getting quite common. Could have with a pinch more energy but not too bad.
-20-09-88
-22-09-88
-23-09-88
-24-09-88
-30-09-88
-01-10-88
-02-10-88
-14-10-88
-15-10-88
-16-10-88
-18-10-88
-20-10-88
-21-10-88
-09-12-88
-10-12-88
-11-12-88
-28-12-88
-29-12-88
-31-12-88
+20-09-88	3	Another Morning Dew to end the show but not as epic as recent versions. Rare (now) JB Goode to end, but this show needed more.
+22-09-88	3.5	Only 1980's song was Fantasy. Opens with a long Shakedown. Excellent TLMD. Post drums had some unsually placed mellow moments.
+23-09-88	3	This MSG run goes on forever. Foolish into drums + keys jam. How many IWTYH must be endured? Fairly decent Other One though.
+24-09-88	2.5	Suzanne Vega, Mick Taylor... Hall & Oates? Suzanne is probably the best. Jerry's voice is shot and this is cringeworthy at times.
+30-09-88	3	Nothing really stands out in this short show. Setlist not too bad and Jerry's voice is better, but this is to "by the numbers".
+01-10-88	3	Late 88 is worse than either the previous year of indeed the spring. Here post drums is the best of an overally average show.
+02-10-88	3.5	Unusual spaces cropping up pre-drums make this a nice change but otherwise a fairly standard show. Messy Stones and a cut NFA.
+14-10-88	3	Rare (by now) Saint Of Circumstance. Good setlist other than this, but again no real jamming. Another Hey Jude slow down finish.
+15-10-88	2.5	Unusual openers - Music Never Stopped start for 1st set, Sat Night for 2nd. Otherwise, this seemed a pretty low energy show.
+16-10-88	2.5	Bit of a clunker of a show. Ended with the least climatic Dew I've ever heard. Jerry himself didn't rate the band this tour.
+18-10-88	3	Better than the last 2 shows. Encore with the Bangles (?). Was Bobby banging a bangle? Space was decent until IWTYH arrived.
+20-10-88	3.5	Roughest tape I've heard for some time. First Built To Last. Nice Hey Jude outro with the crowd but the source was terrible.
+21-10-88	3.5	Nice Jack Straw to end set one. Overall quite a "happy" show with Happy Birthday for Brent and a great Stella Blue.
+09-12-88	3	Starts off OK then fades off on the energy level. Nice to have Jack-A-Row back but could have done with more energy.
+10-12-88	3	Very average show with no real spark or energy, except maybe a little pick-up post drums. I think Jerry needs more energy.
+11-12-88	3	Either the mix or something else is up in these shows - Jerry lacks bite. A bit more interesting post drums with the setlist.
+28-12-88	4	Good out the gate. Is that just the high quality though? Great Bird Song. Great space and setlist. Where did this come from?
+29-12-88	3.5	Brent playing well. Samson > Playing jam? Mostly par for the course but not a bad show for the regular show before new year.
+31-12-88	3.5	First show with Clarence? Adds a lot but is a bit too busy. Very long drums. Dew winds to a standstill. Weird triple encore.
+
+05-02-89	3.5	Drums > He's Gone > Miracle > Dew!? First SOTM and We Can Run (latter a bit messy). Nice Playin'. Nice show overall, nearly a 4.
+06-02-89	3.5	Strange NFA > Sugaree start. Set 1 ends with Tennessee Jed! Quite a long Terrapin jam. Killer Stella Blue. Not bad.
+07-02-89	3.5	Brent songs not too bad here. Victim has a car crash at the start. Space arrives with a bang. Nice setlists recently.
+10-02-89	3.5	Tunings are ever more playful. Great LIG to finish first set. Fine Playin' jam. Another pretty decent show overall.
+11-02-89	3.5	Seems like Jerry has a little less energy this evening. First set has a great Bird Song though. Long Estimated as well.
+12-02-89	3.5	With Spencer Davis and Dylan for the 2nd set. Best Gimme Some Loving. Bizarre setlist, overall a pretty strange show.
+27-03-89	3.5	Killer Half-Step opener. Fire is full of energy near the end. Maybe needs some more energy near the peaks. 1989 sounds good.
+28-03-89	3.5	Started off hot. Second set could have more ups and downs - it was a bit too smooth - but hard to argue with. Decent.
+30-03-89	4	Excellent Bird Song and great first set. He's Gone nearly 16 mins long. Even a decent Other One post drums. 89 has started well.
+31-03-89	4	Brent offerred weed to play. Terrapin at over 16.5 minutes! Really good Morning Dew to finish the set. Even IWTYH was acceptable.
+02-04-89	3.5	First set is nice, but the Shakedown that opens set 2 is better! High energy needs some better direction towards the end.
+03-04-89	3.5	Very nice mixed up first set setlist. Blow Away was decent at start of second set. Not brilliant but still a decent show.
+05-04-89	3.5	The "Blues" show! Unusual US Blues to end the first set. Nice comeback for China Doll. Well played in the main, lacking jams.
+06-04-89	4	Jerry is a little low in the mix. Really decent Playin' jam in set 2. Stunning intro into Built To Last. Pretty good again.
+08-04-89	3.5	Little Slipknot riff in space. Nothing really stand out in this show but the quality is all there. Good Blow Away as well.
+09-04-89	3.5	This is the best tour of the 1980's so far. Even "average" shows like this have great little jams (here Estimated > UJB).
+11-04-89	3	Lacked a bit of the class of recent shows, although not terrible as such. Crazy Fingers > Playin > Terrapin was not bad.
+12-04-89	3.5	LiG at end of first set and a nice bluesy jam out of Truckin' were the highlight. Rest was a lot more average. Not bad.
+13-04-89	3	This set, whilst not particularly bad in any obvious way, also didn't feature anything exciting. New songs need more jams.
+15-04-89	3.5	Really slow Blow Away. Playing went fairly dissonant. Dew is nice as well, but the rest of show lacks a bit of spark.
+16-04-89	3	Rare (now) Saint of Circumstance (not played well). Scarlet Fire was decent but otherwise this show fails to inspire.
+17-04-89		First show with MIDI guitars (in space).
+28-04-89
+29-04-89
+30-04-89
+06-05-89
+07-05-89
+27-05-89
