@@ -275,7 +275,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 20-11-70    3   Another tape with a "super-jam" at the end, but it wasn't anything special for me.
 21-11-70    4   Also listed as Ned's first show. Nice, but really too short. Nice late Cosmic Charlie.
 29-11-70    3   Rough, far away type aud. Nothing of major interest here, except worst NFA start ever.
-12-12-70
+12-12-70	4	Nice to have a soundboard. Unfortunatly, there are cuts and it's hissy. Great Good Lovin' though, and a decent show overall.
 22-12-70
 23-12-70
 26-12-70
@@ -413,7 +413,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 20-06-74    5   These shows are crazy. WRS great, Eyes jam with Slipknot.
 22-06-74    4.5 Tough call. The Playin' is fantastic. Eyes almost goes Seastones.
 23-06-74    4   Nice Spanish jam, but a bit short on jamming.
-26-06-74
+26-06-74	4.5	Longest China Rider starts with a decent jam. Truckin' is listed at 30mins but includes Other One tease. Craxy Eyes for the encore.
 28-06-74    5   Best WRS ever, with MLB and Star jams.
 30-06-74    4   Maybe should be 4.5, Playin' is good, jam double-dips.
 19-07-74    4.5 Loving me these Spanish jams.
@@ -1580,29 +1580,69 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 22-02-92	3.5	Debut of So May Roads (good) and Wave To The Wind (wtf?). Good (long) drums. Killer Black Peter. Just a little too up and down.
 23-02-92	4	First versions of Way To Go Home (needs more pep) and Corrina. Great Playin > Terrapin leads to jungle drums. Mix was a bit so-so.
 24-02-92	4	Second set has all 4 new songs. Jam from starting from rare Other One pre drums is good. Hot drums. Oh shit, Wave to the Wind!
-01-03-92	3.5	Less adventerous show, only 34 or so minutes before drums. Nothing particulary bad, just lacked some energy and no decent jams.
+01-03-92	3.5	Less adventurous show, only 34 or so minutes before drums. Nothing particulary bad, just lacked some energy and no decent jams.
 02-03-92	3	Pretty decent first set. Energy seemed to tail off significantly in the second set. Terrapin had half a jam. Around still sucks.
 03-03-92	3	Second set Playin' is decent. Best Wave To The Wind so far. Rest of show is pretty average and lacks a lot of energy.
 05-03-92	3.5	Unusual Help > Slip > Frank / Same Thing to start set 1. Vocal jam in He's Gone. A lot of energy gone since the new year shows.
 06-03-92	3.5	Bob references a computer virus. Keys are too loud but work well on Bird Song. Show is competent but certainly not spectacular.
 08-03-92	3	New songs are played frequently. Wave To The Wind has a weird potential but falls flat. Best So Many Roads so far. So-so.
 09-03-92	3.5	Corrina alomst stops before being jammed into a pretty anonymous Dark Star. Morning Dew mild car crash but Jerry makes up for it.
-11-03-92	3.5	It's All Over has strange new start and end. Suprisingly energetic from end of set 1 with good Terrapin, Last Time and Black Peter.
+11-03-92	3.5	It's All Over has strange new start and end. Suprisinglg energetic from end of set 1 with good Terrapin, Last Time and Black Peter.
 12-03-92	3.5	Great Sugar Mag ending. Show had some smooth grooves and decent energy, but nothing killer. Playing reprise into drums was unusual.
-13-03-92
-16-03-92
-17-03-92
-18-03-92
-20-03-92
-21-03-92
-23-03-92
-24-03-92
-19-05-92
-20-05-92
-21-05-92
-23-05-92
-24-05-92
-25-05-92
-29-05-92
-30-05-92
-31-05-92
+13-03-92	3	Strangly disjointed pre-drum setlist ends with Wave To The Wind. Lacking energy throught the whole show, or is it simply relaxed?
+16-03-92	3	Great BT Wind ending in first set. A jam comes out of Watchtower because the energy level is low. A pretty weak low energy show.
+17-03-92	3	Very short 6 song first set. Lacking in any energy pre drums. No immediate highlights, although not particularly terrible.
+18-03-92	3	"Say your piece and piss off". Vince is way too loud in places. Terrible quality board. Nice set list fails to ignite anywhere.
+20-03-92	4	Reasonable first set. Decent Shakedown and the Star not too bad. It's pretty good compared to the rest of the Spring tour.
+21-03-92	3.5	Good Help > Slip to start the show. Best Terrapin jam for some time. Short show, only 76 minutes for the second set. Not bad.
+23-03-92	3.5	Monster Jack Straw to open first set. With the exception of Wave To The Wind, pre drums is good. Best version of Gloria?
+19-05-92	3.5	Reasonable Terrapin (which nowadays always seem to have a mini-jam out of). Drums stops midday and insults are exchanged. Not bad.
+20-05-92	3	Decent first set had good energy. Promised Land car crash. Jams are slipping out of the second set now. A little lackluster. 
+21-05-92	3	Bob starts horribly out of tune. 2nd set full of 10 minute songs. Energy there in parts but nothing major. Gloria was decent.
+23-05-92	3	Reminding me of 88 with the lack of any jams. Vince too loud in places, and lacking Jerry. This is competent but lacks excitement.
+24-05-92	3	Jerry's guitar is consistently too low and the keys are too high. 3 new 92 shows into drums. Eyes was best of the bunch.
+25-05-92	3	Why is Vince so loud and Jerry turned down? It kills the shows. Songs also seem too short in second set. Decent Attics though.
+29-05-92	3	Another low energy show. Phil stays on for the start of drums. Can't help but feel Jerry is using again. Bit of energy at the end.
+30-05-92	3.5	Nice trumpet in Spanish jam. Not a stellar show - jams don't gel again - but it is at least a mild step up from the rest of the month.
+31-05-92	2.5	Vince too loud and busy. Second set is again full of shortish songs. Jerry turns off when Steve Miller arrives. Pretty rough.
+06-06-92	3.5	Holy smokes I can hear Jerry! Best first set of 1992 so far. Second set keeps most of the energy but fails to dive deep.
+08-06-92	4	Again Jerry seems up for it. Decent but short first set. Nice Corrina jam and short Star after drums. Best show for a while.	
+09-06-92	3.5	Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quiet decent, and it's not a bad show, just lacking excitement.
+11-06-92	3.5	Jerry has definitly turned his volume for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
+12-06-92	3	Far too many short songs in the second set, although at least we can still hear Jerry. A bit meh, which is true of too much 92.
+14-06-92		Exactly the same post drums as 31/5, also with Steve Miller.
+15-06-92
+17-06-92
+18-06-92
+20-06-92
+22-06-92
+23-06-92
+25-06-92
+26-06-92
+28-06-92
+29-06-92
+01-07-92
+02-12-92
+03-12-92
+05-12-92
+06-12-92
+11-12-92
+12-12-92
+13-12-92
+16-12-92
+17-12-92
+
+
+End of everything shows should be around 2000 shows
+Goal for this: July 2020
+
+1640: Oct 2019
+1680: Nov 2019
+1720: Dec 2019
+1760: Jan 2020
+1800: Feb 2020
+1840: Mar 2020
+1880: Apr 2020
+1920: May 2020
+1960: May 2020
+2000: Jun 2020
