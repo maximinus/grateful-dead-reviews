@@ -1610,19 +1610,19 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-06-92	3.5	Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quiet decent, and it's not a bad show, just lacking excitement.
 11-06-92	3.5	Jerry has definitly turned his volume for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
 12-06-92	3	Far too many short songs in the second set, although at least we can still hear Jerry. A bit meh, which is true of too much 92.
-14-06-92		Exactly the same post drums as 31/5, also with Steve Miller.
-15-06-92
-17-06-92
-18-06-92
-20-06-92
-22-06-92
-23-06-92
-25-06-92
-26-06-92
-28-06-92
-29-06-92
-01-07-92
-02-12-92
+14-06-92	3.5	Same post drums as 31/5, also with Steve Miller, but better Jerry. Picasso Moon is 50% Vince. Drums has some sort of drum machine.
+15-06-92	3.5	Very good versions of Bird Song and So Many Roads. Drums with drum machine again? Once again with Steve Miller for parts.
+17-06-92	3.5	Very long Deal to end first set. Suprisingly jammy Estimated pre drums. Rest of the show is more average, although not anonymous.
+18-06-92	3.5	Nice relaxed Eyes in the second set. 6 min Dark Star after drums, a slightly weak Morning Dew + Satisfaction makes for unusual show.
+20-06-92	3.5	Good for the era pre-drums selection - jammy and mellow. Steve Miller again (!) but only on the last song. Post drums not as good.
+22-06-92	3	4 minute Dark Star into drums kinda sums up the whole of this tour. A splash of Spanish Jam post drums isn't enough to raise the bar.
+23-06-92	3	Jerry shits the bed in Help > Slipknot. Collection of 6 minute songs pre drums. Largely a mixed bag of dissapointment.
+25-06-92	3	Steve Miller again! Lacks any decent jamming despite some decent guests. Also lacking some energy. So Many Roads was the highlight.
+26-06-92	4	Reasonable first set for a change (and 8 songs!). Decent, albeit short jam in the Playin'. Killer Wharf Rat end. Very decent for 92.
+28-06-92	3	Help Slip better than the previous time. But songs were quite short and it never broke out to anything major. Mainly underwhelming.
+29-06-92	3.5	Reasonable first set with decent So Many Roads. Good drums after fairly anonymous pre-drums. Stella > Sugar Mags is decent ending.
+01-07-92	3	Vince ruins Picasso Moon. First set a little low on energy but Bird Song good. Fuck me, Steve Miller again. Underwhelming.
+02-12-92		Mickey on congos? Quite like the sound. Makes it sound even less energetic though.
 03-12-92
 05-12-92
 06-12-92
@@ -1633,7 +1633,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 17-12-92
 
 
-End of everything shows should be around 2000 shows
+End of everything should be around 2000 shows
 Goal for this: July 2020
 
 1640: Oct 2019
