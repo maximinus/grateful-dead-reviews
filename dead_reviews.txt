@@ -1607,8 +1607,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 31-05-92	2.5	Vince too loud and busy. Second set is again full of shortish songs. Jerry turns off when Steve Miller arrives. Pretty rough.
 06-06-92	3.5	Holy smokes I can hear Jerry! Best first set of 1992 so far. Second set keeps most of the energy but fails to dive deep.
 08-06-92	4	Again Jerry seems up for it. Decent but short first set. Nice Corrina jam and short Star after drums. Best show for a while.	
-09-06-92	3.5	Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quiet decent, and it's not a bad show, just lacking excitement.
-11-06-92	3.5	Jerry has definitly turned his volume for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
+09-06-92	3.5	Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quite decent, and it's not a bad show, just lacking excitement.
+11-06-92	3.5	Jerry has definitly turned his volume down for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
 12-06-92	3	Far too many short songs in the second set, although at least we can still hear Jerry. A bit meh, which is true of too much 92.
 14-06-92	3.5	Same post drums as 31/5, also with Steve Miller, but better Jerry. Picasso Moon is 50% Vince. Drums has some sort of drum machine.
 15-06-92	3.5	Very good versions of Bird Song and So Many Roads. Drums with drum machine again? Once again with Steve Miller for parts.
@@ -1640,29 +1640,53 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-02-93	3.5	Last show with Wolf. Best PITB jam for some time. Space onwards with Ornette Coleman. He's good, but a bit wasted on the songs.
 09-03-93	3.5	Another good Playing jam. Old school 2nd set setlist. Good Black Peter in the second half. Good show, missing a bit of spark.
 10-03-93	4	Good versions of 3 new songs into drums. Decent Mind Left Body into drums. Drums onward is relaxed but totally in control.
-11-03-93
-14-03-93
-16-03-93
-17-03-93
-18-03-93
-20-03-93
-21-03-93
-22-03-93
-24-03-93
-25-03-93
-27-03-93
-28-03-93
-29-03-93
-31-03-93
-01-04-93
-02-04-93
-04-04-93
+11-03-93	4	Always good to open with Help > Slip! Drums and Space with Ken Nordine. Days Between is a great song. Quite enjoyable.
+14-03-93	3.5	First "I fought the law". Jerry forgets Touch Of Grey vocals. These shows are better than 92 but need some more jamming in them.
+16-03-93	3.5	Good pre-drums but a short and underwhelming post-drums ruins the mood. Strangly, Morning Dew runs out of steam at the end.
+17-03-93	4	Only 10 minutes, the Dark Star here actually cut short the excellent Playin' jam. Days Between again very good. LSD encore.
+18-03-93	3.5	With Bruce and a little too much accordian at times. Longish Terrapin Jam but nowadays longevity does not always mean much.
+20-03-93	3.5	Another long Bird Song. Decent enough, but takes far too long to get to the best parts, which is mainly the high energy end.
+21-03-93	3.5	End of space is really good, almost a mini-tiger. Whole show is very decent but lacks some jams, with too many shortish songs.
+22-03-93	3.5	Decent Help Slip as the first set starts well and is compentently played, but set 2 does not continue where the first left off.
+24-03-93	4.5	Good jam from Crazy Fingers into drums via an almost Playing reprise. Everything after drums is golden, and with a Spanish jam!
+25-03-93	4	Cracking Dew tops a pretty decent second set. Maybe too many new numbers (Way to go Home after space)? but a decent show overall.
+27-03-93	3.5	Final Casey Jones. Whole show is pretty reasonable but lacks any killer moments, although the rare Comes a Time was a highlight.
+28-03-93	3.5	Fairly normal show eclipsed by the best version of Attics post drums. Rest is fairly reasonable but Heavens Door encore is good.
+29-03-93	3	Fairly ho-hum show. 1993 so far ebbs and flows. Sometimes great but more often a little so-so. This is one of the latter.
+31-03-93	3.5	Playing > Uncle Johns pre-drums was nice, but too short. Long jamming has really gone now. Short post drums but Sugar Mag decent.
+01-04-93	3	Suffers from bad setlist syndrome, what with Wave to the Wind pre drums and Way To Go Home after. Also lacks a bit of energy. 
+02-04-93	3	Jerry's voice a little shot. Another ho hum show, with no obvious standouts. The band can shine in 93, they just don't do it often.
+04-04-93	3	Midnight Hour opener! Reasonable first set with decent Bird Song closer. Second set was like recent ones, no real surprises.
 05-04-93
+14-05-93
+15-05-93
+16-05-93
+21-05-93
+22-05-93
+23-05-93
+25-05-93
+26-05-93
+27-05-93
+05-06-93
+06-06-93
+08-06-93
+09-06-93
+11-06-93
+13-06-93
+15-06-93
+16-06-93
+18-06-93
+19-06-93
+21-06-93
+22-06-93
+23-06-93
+25-06-93
+26-06-93
 
 End of everything should be around 2000 shows
 Goal for this: July 2020
 
-1640: Oct 2019
+1640: Oct 2019	Actual: 1650
 1680: Nov 2019
 1720: Dec 2019
 1760: Jan 2020
