@@ -545,7 +545,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 01-11-77    4   Rocking end, but quite a short show. Truckin' was the highlight.
 02-11-77	4	Toronto show. Short but sweet Estimated. Very rocking and powerful end to the show, and the encore was great.
 04-11-77    3.5 Not as good as recent ones. Needs more review?
-05-11-77
+05-11-77	4.5	Monster Half-Step as 2nd song. 2nd set starts Bass solo > jammy Step back > Eyes. Eases later but still a really solif show.
 06-11-77    4   Killer Truckin' is the stand-out.
 27-12-77    3.5 Nice energy, didn't catch much. Rocking at the end.
 29-12-77	4.5	Absolutly rocking show at the end. It's a fine fine show, only really lacking in some jam intensity. '77 in a nutshell.
@@ -1666,7 +1666,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 05-04-93	2.5	Good set list with great Music > Deal ending. Second set list is pretty ropey, and SQ dips terribly. Worst 2nd set for some time.
 14-05-93	3	A Way To Go Home > Corrina seems to kill the second set pre-drums. Rest is as you'd expect from '93. Less new songs would be good.
 15-05-93	3.5	First set has really spacy Bird Song to close with. Argument off stage in drums: "You call that music?!". Actually has jamming.
-16-05-93
+16-05-93	4	The setlist is great, and the playing is fairly decent for 93. Not a bad attempt even though Bobby's voice seems to die at the end.
 21-05-93	3	Typical 93 gets more typical as the year goes on. Not particularly special bad, but it has many mistakes (Estimated, He's Gone, Dew)
 22-05-93	3.5	Like the previous night, the first set is better than the 2nd. Corrina has a reasonable jam. Enjoyable drums and decent Stella Blue.
 23-05-93	3.5	Very decent Bird Song. Another very different drums, a bit Vangelis again. Run from Terrapin onwards is decent for the period.
@@ -1675,18 +1675,49 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 27-05-93	3.5	Setlist is pretty unusual. Picasso > Fire? Split Cassidy pre drums? Wave to the Wind is actually listenable. Not bad in parts.
 05-06-93	3.5	First set not bad, even with Easy answers. Estimated > Drums > Space is all good stuff. Stella Blue is a minor car crash.
 08-06-93	4	Spectacular car crash in Playin', of all songs. They make up for it in the jam after. Corrina post drums though. Not bad.
-09-06-93		Bobby's voice getting more raspy as the tour continues. Another decent first set. Short but good Terrapin jam.
-11-06-93
-13-06-93
-15-06-93
-16-06-93
-18-06-93
-19-06-93
-21-06-93
-22-06-93
-23-06-93
-25-06-93
+09-06-93	3.5	Bobby's voice getting more raspy as the tour continues. Another decent first set. Short but good Terrapin jam. Good Wharf Rat.
+11-06-93	3	5 song first set, although has a pretty long 2nd set. Second set starts well but a long Corrina jam sucks the energy out.
+13-06-93	3	Killer Deal to end first set. Rest of 2nd set was a set of 9 minute songs with minimal jams. Acoustic guitar from Bob for LLR.
+15-06-93	3.5	All round not a bad show but no real killer highlights. However, there were no new songs and everything was pleasant enough.
+16-06-93	3	Don't Ease to end set 1 for 2 shows? Stella Blue and post drums was not too bad but there was a lack of excitement getting there. 
+18-06-93	3.5	Quite a few radio glitches through the PA. These shows recently feel like "Dead Lite". A decent setlist but lacks the unknown.
+19-06-93	3.5	Bob: "Less click please". Really good version of Standing On The Moon. Deal was also decent, rest of show a more usual 1993.
+21-06-93	3	Best So Many Roads to date. Second sets now are more like first sets eith extended drums > space. Around x 2 end is not good.
+22-06-93	3.5	Setlist was decent, and that helps a lot this year. Retained some energy up to the encore. Limited exploration spoils things.
+23-06-93	4.5	Stunning, aggressive Terrapin jam into drums. Dark Star after drums is more like an appertif. Hunter's birthday, apparently.
+25-06-93	3	Entire show is with Bruce's accordian?! Bit lacking in jams but made up for in energy. Tails off in the second set. So-so.
 26-06-93
+21-08-93
+22-08-93
+25-08-93
+26-08-93
+27-08-93
+08-09-93
+09-09-93
+10-09-93
+12-09-93
+13-09-93
+14-09-93
+16-09-93
+17-09-93
+18-09-93
+20-09-93
+21-09-93
+22-09-93
+24-09-93
+25-09-93
+26-09-93
+28-09-93
+29-09-93
+30-09-93
+08-12-93
+09-12-93
+10-12-93
+12-12-93
+13-12-93
+17-12-93
+18-12-93
+19-12-93
 
 End of everything should be around 2000 shows
 Goal for this: July 2020
