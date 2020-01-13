@@ -1682,7 +1682,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 16-06-93	3	Don't Ease to end set 1 for 2 shows? Stella Blue and post drums was not too bad but there was a lack of excitement getting there. 
 18-06-93	3.5	Quite a few radio glitches through the PA. These shows recently feel like "Dead Lite". A decent setlist but lacks the unknown.
 19-06-93	3.5	Bob: "Less click please". Really good version of Standing On The Moon. Deal was also decent, rest of show a more usual 1993.
-21-06-93	3	Best So Many Roads to date. Second sets now are more like first sets eith extended drums > space. Around x 2 end is not good.
+21-06-93	3	Best So Many Roads to date. Second sets now are more like first sets with extended drums > space. Around x 2 end is not good.
 22-06-93	3.5	Setlist was decent, and that helps a lot this year. Retained some energy up to the encore. Limited exploration spoils things.
 23-06-93	4.5	Stunning, aggressive Terrapin jam into drums. Dark Star after drums is more like an appertif. Hunter's birthday, apparently.
 25-06-93	3	Entire show is with Bruce's accordian?! Bit lacking in jams but made up for in energy. Tails off in the second set. So-so.
@@ -1700,30 +1700,53 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 16-09-93	3	Rain opener. Not terrible but no real fire. The new songs are not that bad but it seems the band can't lean into them enough.
 17-09-93	3.5	Another show that is more a collection of songs. Run into drums not too bad. Unusual "That Would Be Something". Very good SOTM.
 18-09-93	3	Corrina > Drums yet again, feels like a missed oppurtunity. First set was ok but nothing grabbed. At least not many new songs.
-20-09-93		
-21-09-93
-22-09-93
-24-09-93
-25-09-93
-26-09-93
-28-09-93
-29-09-93
-30-09-93
-08-12-93
-09-12-93
-10-12-93
-12-12-93
-13-12-93
-17-12-93
-18-12-93
-19-12-93
+20-09-93	3.5	High energy opener starts a decent first set. Good space with singer Edie Brickell. Dew was decent, but no stand-outs.
+21-09-93	3.5	Decent first set. Another PITB > Terrapin in the second set, a fairly decent jam. Lacks fire after D/S though. Needs energy.
+22-09-93	4.5	Dave Murray is the best sax player to guest. The jams are short but they sure are spacey. Has to be the show of the year.
+24-09-93	3	Days Between was decent but the rest of this show was way more middling. Scarlet > Fire was long but really lacking energy.
+25-09-93	3	Foolish Heart and Corrina have some length but don't really go anywhere. Another I Fought The Law: encores in 93 are bad.
+26-09-93	3	Jerry plays a different tune in Maggies Farm. He's out of most of the first set. And then he raises the roof with SOTM to close!
+28-09-93	3.5	Stumbling over some words is starting to get common for Jerry. Show is normal except for another very beefy Playin pre-drums.
+29-09-93	3	T. Jed to close first set? Eyes 17 mins? Terrapin 26? Unfortunatly length does not mean excitement, and the jams are just space.
+30-09-93	3	Post drums Other One had some energy and fizz, rest of show bit more of a doozy. Certainly a consistent show seems beyond them.
+08-12-93	3	Decent set 2 setlist, although encore terrible as normal. Decent space and an unusual jam into Last Time (which is messed up).
+09-12-93	3	Drums with Airto and Flora; post drums with Ornette Coleman. They are the best bits, otherwise this show is pretty sub-par.
+10-12-93	3	Yawn-a-thon show despite the presence of Branford. Nothing is terrible, but there is also zero interaction with the sax player.
+12-12-93		
+13-12-93	3.5	Best LSD so far to start 2nd set. Decent Eyes and Days Between. It's not spectacular, but this is a pretty enjoyable show.
+17-12-93	3	Jerry mumbles a song every show. Jerry has new pitchshifter. Screw up in Help leads to decent Slipknot. Struggles for energy.
+18-12-93	4	Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic butter very decent for 93.
+19-12-93	3	Another very long show for the last one of the year. Not a bad show but lacks highlights and Jerry is a bit all over the place.
+
+25-02-94	3.5	No SBD - very rare nowadays. Slow burning gig gets slowly better as it goes. Surprisingly energetic at the end of the show.
+26-02-94	3.5	Another AUD. Eyes > Estimated > Terrapin is 49 minutes long! Estimated is decent. Bob does the SOTM solo. Not so bad.
+27-02-94	3.5	Infamous 40 second Cosmic Charlie tease. So very cruel. Very good UJB jam. Sombre, MIDI filled space. Rest was solid enough.
+04-03-94	3	First electric show with Bob playing acoustic? Musically but energetically very flat, especially the Throwing Stones end.
+06-03-94
+16-03-94
+17-03-94
+18-03-94
+20-03-94
+21-03-94
+23-03-94
+24-03-94
+25-03-94
+27-03-94
+28-03-94
+30-03-94
+31-03-94
+01-04-94
+04-04-94
+06-04-94
+07-04-94
+08-04-94
 
 End of everything should be around 2000 shows
 Goal for this: July 2020
 
 1640: Oct 2019	Actual: 1650
 1680: Nov 2019	Actual: 1678
-1720: Dec 2019
+1720: Dec 2019	Actual: 1713
 1760: Jan 2020
 1800: Feb 2020
 1840: Mar 2020
