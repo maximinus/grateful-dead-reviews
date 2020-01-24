@@ -282,9 +282,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 21-11-70    4   Also listed as Ned's first show. Nice, but really too short. Nice late Cosmic Charlie.
 29-11-70    3   Rough, far away type aud. Nothing of major interest here, except worst NFA start ever.
 12-12-70	4	Nice to have a soundboard. Unfortunatly, there are cuts and it's hissy. Great Good Lovin' though, and a decent show overall.
-22-12-70
-23-12-70
-26-12-70
+23-12-70	3.5	You want this for the clear quality and smoking Good Lovin': rest of short show hs nothing of length.
+26-12-70	3.5	Again the best part is the Good Lovin', mainly because it's the only song they jam. Black Peter is also worth a listen.
 27-12-70
 28-12-70
 31-12-70
@@ -1427,7 +1426,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-12-89	3.5	First set contains decent Bird Song with MIDI. Pretty robust Playing. Nice, but lacked anything particularly special post drums.
 10-12-89	4	Car crash rescue in HIAB! Monster Victim. CC Rider with Spencer Davis. China-Rider and space both good. Best Stella Blue for a while.
 27-12-89	4	Nice first set but starts to go really deep in the Playin' jam. Garcias guitar cuts out in Dew, but still a killer version.
-30-12-89	3.5	Great Stranger with a major Jerry error - "Whoops!". Sleepy summer home" in Eyes? More traditional drums. Bit laid back but not bad.
+30-12-89	3.5	Great Stranger with a major Jerry error - "Whoops!". "Sleepy summer home" in Eyes? More traditional drums. Bit laid back but not bad.
 31-12-89	4	High energy first set - best of the year? Dark Star goes crazy 10 minutes in. Runs slighty out of steam post drums. Good fun.
 
 25-02-90	4	Good "Last Time" - first for 25 years? No big jams, but very high quality post drums. Best Wharf Rat for a long time. Rocking.
@@ -1715,34 +1714,34 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 12-12-93		
 13-12-93	3.5	Best LSD so far to start 2nd set. Decent Eyes and Days Between. It's not spectacular, but this is a pretty enjoyable show.
 17-12-93	3	Jerry mumbles a song every show. Jerry has new pitchshifter. Screw up in Help leads to decent Slipknot. Struggles for energy.
-18-12-93	4	Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic butter very decent for 93.
+18-12-93	4	Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic but very decent for 93.
 19-12-93	3	Another very long show for the last one of the year. Not a bad show but lacks highlights and Jerry is a bit all over the place.
 
 25-02-94	3.5	No SBD - very rare nowadays. Slow burning gig gets slowly better as it goes. Surprisingly energetic at the end of the show.
 26-02-94	3.5	Another AUD. Eyes > Estimated > Terrapin is 49 minutes long! Estimated is decent. Bob does the SOTM solo. Not so bad.
 27-02-94	3.5	Infamous 40 second Cosmic Charlie tease. So very cruel. Very good UJB jam. Sombre, MIDI filled space. Rest was solid enough.
 04-03-94	3	First electric show with Bob playing acoustic? Musically but energetically very flat, especially the Throwing Stones end.
-06-03-94
-16-03-94
-17-03-94
-18-03-94
-20-03-94
-21-03-94
-23-03-94
-24-03-94
-25-03-94
-27-03-94
-28-03-94
-30-03-94
-31-03-94
-01-04-94
-04-04-94
-06-04-94
-07-04-94
-08-04-94
+06-03-94	3	Apparently the last show with soundman Dan Healy. Slightly new up-tempo Stella Blue ending. Rest of show was quite flat though.
+16-03-94	3.5	Opens real hot. Good set all the way to Easy Answers. Penultimate - and fast - Dark Star. Nice moments, needed a real highlight.
+17-03-94	3.5	Early 94 sounds like 93 and possibly better than 92. Decent Playin > Uncle Johns. Surprisingly good Dew to finish the 2nd set.
+18-03-94	3.5	Good first set sets up potential decent show but is nullified by lack of energy on the backend. Around x 2 always kills me now.
+20-03-94	3	Yet another AUD, and not great either. Had some energy in the second set but largely anonymous and the AUD did not help out.
+21-03-94	4	Car crash at end of Greatest Story. For the era, a killer set list. Monster of a Stella Blue, and best Lovelight since 1972.
+23-03-94	3.5	Another decent set list. Show is not as good as the previous night but the Jerry ballads hold up well and energy stays to the end.
+24-03-94	3	Another AUD, and it's not even a particularly good one. Show lacks cohesion and energy, and no Jerry ballad post drums. Boring.
+25-03-94	3	And still the AUD's continue, and this pretty bad as well. Hornsby all show, but annoyingly on accordian. Lacklustre show.
+27-03-94	3.5	Finally a SBD. Show starts well, dips in the middle but ends with a totally killer Morning Dew. Still, needed cohesion.
+28-03-94	3	Mainly an AUD again. Unusual GDTRFB into drums. Pretty tame thorughout, although not played badly. Lacks spark and energy.
+30-03-94	3.5	Final Dark Star. Classic setlist for the whole second set. Vince lazily does the Pigpen riff. Jams lack any depth or imagination.
+31-03-94	3.5	20 mins for both Eyes and space. 2nd set ends on SOTM. The usual lack of dynamics and jamming for the period, but longer.
+01-04-94	3	Picasso Moon almost falls apart. Songs now can be long but lacking in adventure. Drums / Space is too long - 31 minutes here!
+04-04-94	3.5	Opening Slipknot is a mess. What follows is mainly pretty decent. For 94, this is a good show. Terrapin jam is pretty good.
+06-04-94	2.5	Another AUD - not this many since 1979 or so. Also another SOTM 2nd set closer. Rest of show features almost no jamming.
+07-04-94		A 6 song second set - seems the norm. Slowest Eyes ever?
+08-04-94		The flood of AUDs continue.
 
 End of everything should be around 2000 shows
-Goal for this: July 2020
+Goal for this: June 2020
 
 1640: Oct 2019	Actual: 1650
 1680: Nov 2019	Actual: 1678
