@@ -289,20 +289,16 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 31-12-70	3	Source is half aud, half sbd, and a little all over the place. Recently setlists a little crazy. Good Lovin' saves the day.
 
 21-01-71	4	Aud with a faraway sound. Other jam was pretty good, but tough to listen to. A very partial SBD exists. Would like to see more.
-22-01-71
-24-01-71
-25-01-71
-18-02-71
-19-02-71
-20-02-71
-21-02-71
-23-02-71
-24-02-71
-03-03-71
-05-03-71
-13-03-71
-14-03-71
-17-03-71
+22-01-71	3	Dreadful audience, you really need to be a fan to listen! Sounds like a fun show. Decent but no jamming really.
+24-01-71	3.5	Setlists nowadays are really all over the place. This is reasonably well done stuff but lacks a bit of adventure. Also short.
+18-02-71	4.5	First ever Betty board! Where did this amazing band suddenly spring from? This is a cracker of a show. The beautiful jam!
+19-02-71	4	First night without Mickey. Solid show with great sound quality. However it has to be said the flow and jamming could be better.
+20-02-71	4	Much like the previous 2 nights, although that's not a bad thing. First long Lovelight for a while. Decent, need more jams.
+21-02-71	3.5	Bobby keeps saying Mickey is sick. It's again similar to the last few nights but not quite as good, although Good Lovin' tries.
+23-02-71	3.5	These shows have very similar setlists but they are pretty decent. Some crazy tuning lengths! Again no real decent jam here.
+24-02-71	4	Really nice mellow vibe in the first set, unfortunatly it extends a little too long. Killer Lovelight to finish though.
+03-03-71	4	Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.		
+14-03-71	4	Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
 18-03-71
 20-03-71
 21-03-71
@@ -1782,7 +1778,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-07-94	3	The Playin' > Terrapin jam was pretty reasonable but there's a lack of energy around it. Also, 25 minute space is definitly too long.
 24-07-94	2.5	Yet another AUD. Strange set-list, it's like none of the songs have a real flow in set 2. Lot of length, but lacking in fireworks.
 26-07-94	4	Second set starts with a decent China > Rider. Longest Estimated ever (20 mins). Very decent pre-drums. Really a decent show!
-27-07-94
+27-07-94	2.5	Some length: Corrina 20m, Days Between 15m, Let It Grow 15m. Nothing much of interest in those sections though. Pretty boring.
 29-07-94
 31-07-94
 01-08-94
@@ -1797,8 +1793,8 @@ Goal for this: June 2020
 1670: Nov 2019	Actual: 1678
 1705: Dec 2019	Actual: 1713
 1740: Jan 2020	Actual: 1750
-1775: Feb 2020
-1810: Mar 2020
+1775: Feb 2020	Actual: 1772 ('71: 295)
+1810: Mar 2020	
 1845: Apr 2020
 1880: May 2020
 1915: May 2020
