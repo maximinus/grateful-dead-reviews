@@ -299,8 +299,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 24-02-71	4	Really nice mellow vibe in the first set, unfortunatly it extends a little too long. Killer Lovelight to finish though.
 03-03-71	4	Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.		
 14-03-71	4	Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
-18-03-71
-20-03-71
+18-03-71	4	Come for the 2 mini-jams in the second set (with the final ever feedback). Well done but repeats a lot of songs from recent gigs.
+20-03-71	3.5	Again similar to recent shows, and the best bits are largely the Pig-centered jam tunes. Lovelight has a crazy over the top ending.
 21-03-71
 24-03-71
 
@@ -308,7 +308,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 16-07-72    4   Other One + Phil.
 18-07-72    4.5 Dark Star!
 22-07-72    2.5 First Bird Song?
-25-07-72
+25-07-72	4	Very solid show, although the audio starts a little rough and a large Sugar Mag cut.
 26-07-72    4
 12-08-72    4
 20-08-72    4   Other One Meltdown.
@@ -336,7 +336,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 19-10-72    3.5
 21-10-72    4.5 Incomplete, but solid fragments. Massive Phil.
 24-10-72    4   Nice, but too short (fragments).
-26-10-72 
+26-10-72	5	Long, glorious Playing goes many places. Only a Truckin > Star > Sugar Mag to follow! SQ a bit ropey.	
 28-10-72    5   Awesome Star -> End!
 12-11-72    3   Terrible mix. Hard to rate.
 14-11-72    2.5 Competent. Nothing special..?
@@ -1779,11 +1779,44 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 24-07-94	2.5	Yet another AUD. Strange set-list, it's like none of the songs have a real flow in set 2. Lot of length, but lacking in fireworks.
 26-07-94	4	Second set starts with a decent China > Rider. Longest Estimated ever (20 mins). Very decent pre-drums. Really a decent show!
 27-07-94	2.5	Some length: Corrina 20m, Days Between 15m, Let It Grow 15m. Nothing much of interest in those sections though. Pretty boring.
-29-07-94
-31-07-94
-01-08-94
-03-07-94
-03-07-94
+29-07-94	2.5	Bobby asks "Eternity?", crowd on AUD says no! First set is largely terrible. Second set is just plain boring mediocrity.
+31-07-94	3.5	First set doesn't start well but energy picks up later. For 1994, this was surprisingly high energy, just lacked Jerry solos.
+01-08-94	3.5	Jerry's last birthday show. Childhoods End is a bad song. The space is one of the best for a long long time. Good post-drums.
+03-08-94	2.5	Gets slated on archive but maybe for the setlist. It's not great and Jerry mainly fails to show. Foolish Heart was decent enough.
+04-08-94	2.5	Yet another AUD. 94 is the worst for this since 78. SQ ain't great and Jerry is mainly MIA. Arguing in the audience as well.
+16-09-94		Another rough aud for the first set.
+17-09-94
+18-09-94
+24-09-94
+27-09-94
+28-09-94
+29-09-94
+01-10-94
+02-10-94
+03-10-94
+05-10-94
+06-10-94
+07-10-94
+09-10-94
+10-10-94
+11-10-94
+13-10-94
+14-10-94
+15-10-94
+17-10-94
+18-10-94
+19-10-94
+29-11-94
+30-11-94
+01-12-94
+08-12-94
+09-12-94
+11-12-94
+12-12-94
+15-12-94
+16-12-94
+18-12-94
+19-12-94
 
 
 End of everything should be around 1950 shows
