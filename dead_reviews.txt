@@ -111,7 +111,7 @@ xx-xx-68    3   Midnight Hour only (id: 97671). Mostly a Pig rap.
 xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar for 68.
 
 17-01-69    3   Really kind of washed over me. These shows are like never-ending jams.
-18-01-69	3	Playboy After Dark TV show. Although the video itself is great, the music is all over the place, and cut like heck.
+18-01-69    3   Playboy After Dark TV show. Although the video itself is great, the music is all over the place, and cut like heck.
 24-01-69    4   Comes with mad audience drumming chants. Also ends with drums...?
 25-01-69    4   The madness is real.
 26-01-69    4   Sound quality issues are pretty bad for first 5 minutes though.
@@ -121,15 +121,15 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 06-02-69    4   Nice, though previous night was better
 07-02-69a   4   Early show. Short, Dark Star was the highlight.
 07-02-69b   3.5 Short songs, although they all jam.
-11-02-69		Only on "Live At The Fillmore East"
+11-02-69        Only on "Live At The Fillmore East"
 12-02-69    4.5 Nice fiery Alligator. No song seems to stand alone.
 14-02-69    4   Bad sound but show wasn't bad.
 15-02-69    5   Good development of the Dark Star, and feels almost like a full show.
 21-02-69    4.5 Long songs, and Lovelight was a little too long. But DS + Eleven both good.
 22-02-69    4   Tough to rate these shows as they all have similar formats and songs.
-27-02-69	5	The Live Dead Darkstar. Not the greatest Star ever but the rest of the show is also complete. Even the Lovelight is decent.
-01-03-69	5	Absolutly crushing New Potato Caboose follows frantic Other One. Possibly more jammed in the first set, but set 2 is no slouch.
-02-03-69	5	This is just as debauched as the previous night, and longer. The Caution explodes several times. Very minor cut at end.
+27-02-69    5   The Live Dead Darkstar. Not the greatest Star ever but the rest of the show is also complete. Even the Lovelight is decent.
+01-03-69    5   Absolutly crushing New Potato Caboose follows frantic Other One. Possibly more jammed in the first set, but set 2 is no slouch.
+02-03-69    5   This is just as debauched as the previous night, and longer. The Caution explodes several times. Very minor cut at end.
 15-03-69    4.5 Cracking Dark Star. These DS are really starting to develop.
 22-03-69    3.5 Cut short, and not very exciting.
 28-03-69    4.5 Great Dark Star, rest a little rushed.
@@ -141,7 +141,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 12-04-69    4.5 Another good Dark Star - the highlight, really.
 13-04-69    4   Enjoyable, not so much ragged energy. Cuts, unfortunatly.
 14-04-69    3.5 Too short to tell you much. China Cat is back though!
-15-04-69	4	Hand-held mic, bad but not utterly dreadful. Fairly standard for the era (pretty ripping!) but the SQ stands in the way.
+15-04-69    4   Hand-held mic, bad but not utterly dreadful. Fairly standard for the era (pretty ripping!) but the SQ stands in the way.
 18-04-69    3   Nothing stand-out, really, and a few more short songs. A bit messy.
 20-04-69    4   Only major dissapointment was the Lovelight.
 21-04-69    4   First set too many short songs, and DS did not stand out. Otherwise good.
@@ -281,26 +281,26 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 20-11-70    3   Another tape with a "super-jam" at the end, but it wasn't anything special for me.
 21-11-70    4   Also listed as Ned's first show. Nice, but really too short. Nice late Cosmic Charlie.
 29-11-70    3   Rough, far away type aud. Nothing of major interest here, except worst NFA start ever.
-12-12-70	4	Nice to have a soundboard. Unfortunatly, there are cuts and it's hissy. Great Good Lovin' though, and a decent show overall.
-23-12-70	3.5	You want this for the clear quality and smoking Good Lovin': rest of short show hs nothing of length.
-26-12-70	3.5	Again the best part is the Good Lovin', mainly because it's the only song they jam. Black Peter is also worth a listen.
-27-12-70	3.5	New songs are getting better. This picks up more steam towards the end: Pigpen songs are probably the best of the bunch.
-28-12-70	3.5	Nice quality in the main and some jams are decent, but nothing really cuts loose. Once again, the Pig songs are the best.
-31-12-70	3	Source is half aud, half sbd, and a little all over the place. Recently setlists a little crazy. Good Lovin' saves the day.
+12-12-70    4   Nice to have a soundboard. Unfortunatly, there are cuts and it's hissy. Great Good Lovin' though, and a decent show overall.
+23-12-70    3.5 You want this for the clear quality and smoking Good Lovin': rest of short show hs nothing of length.
+26-12-70    3.5 Again the best part is the Good Lovin', mainly because it's the only song they jam. Black Peter is also worth a listen.
+27-12-70    3.5 New songs are getting better. This picks up more steam towards the end: Pigpen songs are probably the best of the bunch.
+28-12-70    3.5 Nice quality in the main and some jams are decent, but nothing really cuts loose. Once again, the Pig songs are the best.
+31-12-70    3   Source is half aud, half sbd, and a little all over the place. Recently setlists a little crazy. Good Lovin' saves the day.
 
-21-01-71	4	Aud with a faraway sound. Other jam was pretty good, but tough to listen to. A very partial SBD exists. Would like to see more.
-22-01-71	3	Dreadful audience, you really need to be a fan to listen! Sounds like a fun show. Decent but no jamming really.
-24-01-71	3.5	Setlists nowadays are really all over the place. This is reasonably well done stuff but lacks a bit of adventure. Also short.
-18-02-71	4.5	First ever Betty board! Where did this amazing band suddenly spring from? This is a cracker of a show. The beautiful jam!
-19-02-71	4	First night without Mickey. Solid show with great sound quality. However it has to be said the flow and jamming could be better.
-20-02-71	4	Much like the previous 2 nights, although that's not a bad thing. First long Lovelight for a while. Decent, need more jams.
-21-02-71	3.5	Bobby keeps saying Mickey is sick. It's again similar to the last few nights but not quite as good, although Good Lovin' tries.
-23-02-71	3.5	These shows have very similar setlists but they are pretty decent. Some crazy tuning lengths! Again no real decent jam here.
-24-02-71	4	Really nice mellow vibe in the first set, unfortunatly it extends a little too long. Killer Lovelight to finish though.
-03-03-71	4	Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.		
-14-03-71	4	Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
-18-03-71	4	Come for the 2 mini-jams in the second set (with the final ever feedback). Well done but repeats a lot of songs from recent gigs.
-20-03-71	3.5	Again similar to recent shows, and the best bits are largely the Pig-centered jam tunes. Lovelight has a crazy over the top ending.
+21-01-71    4   Aud with a faraway sound. Other jam was pretty good, but tough to listen to. A very partial SBD exists. Would like to see more.
+22-01-71    3   Dreadful audience, you really need to be a fan to listen! Sounds like a fun show. Decent but no jamming really.
+24-01-71    3.5 Setlists nowadays are really all over the place. This is reasonably well done stuff but lacks a bit of adventure. Also short.
+18-02-71    4.5 First ever Betty board! Where did this amazing band suddenly spring from? This is a cracker of a show. The beautiful jam!
+19-02-71    4   First night without Mickey. Solid show with great sound quality. However it has to be said the flow and jamming could be better.
+20-02-71    4   Much like the previous 2 nights, although that's not a bad thing. First long Lovelight for a while. Decent, need more jams.
+21-02-71    3.5 Bobby keeps saying Mickey is sick. It's again similar to the last few nights but not quite as good, although Good Lovin' tries.
+23-02-71    3.5 These shows have very similar setlists but they are pretty decent. Some crazy tuning lengths! Again no real decent jam here.
+24-02-71    4   Really nice mellow vibe in the first set, unfortunatly it extends a little too long. Killer Lovelight to finish though.
+03-03-71    4   Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.       
+14-03-71    4   Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
+18-03-71    4   Come for the 2 mini-jams in the second set (with the final ever feedback). Well done but repeats a lot of songs from recent gigs.
+20-03-71    3.5 Again similar to recent shows, and the best bits are largely the Pig-centered jam tunes. Lovelight has a crazy over the top ending.
 21-03-71
 24-03-71
 
@@ -308,7 +308,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 16-07-72    4   Other One + Phil.
 18-07-72    4.5 Dark Star!
 22-07-72    2.5 First Bird Song?
-25-07-72	4	Very solid show, although the audio starts a little rough and a large Sugar Mag cut.
+25-07-72    4   Very solid show, although the audio starts a little rough and a large Sugar Mag cut.
 26-07-72    4
 12-08-72    4
 20-08-72    4   Other One Meltdown.
@@ -336,7 +336,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 19-10-72    3.5
 21-10-72    4.5 Incomplete, but solid fragments. Massive Phil.
 24-10-72    4   Nice, but too short (fragments).
-26-10-72	5	Long, glorious Playing goes many places. Only a Truckin > Star > Sugar Mag to follow! SQ a bit ropey.	
+26-10-72    5   Long, glorious Playing goes many places. Only a Truckin > Star > Sugar Mag to follow! SQ a bit ropey.   
 28-10-72    5   Awesome Star -> End!
 12-11-72    3   Terrible mix. Hard to rate.
 14-11-72    2.5 Competent. Nothing special..?
@@ -434,7 +434,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 20-06-74    5   These shows are crazy. WRS great, Eyes jam with Slipknot.
 22-06-74    4.5 Tough call. The Playin' is fantastic. Eyes almost goes Seastones.
 23-06-74    4   Nice Spanish jam, but a bit short on jamming.
-26-06-74	4.5	Longest China Rider starts with a decent jam. Truckin' is listed at 30mins but includes Other One tease. Crazy Eyes for the encore.
+26-06-74    4.5 Longest China Rider starts with a decent jam. Truckin' is listed at 30mins but includes Other One tease. Crazy Eyes for the encore.
 28-06-74    5   Best WRS ever, with MLB and Star jams.
 30-06-74    4   Maybe should be 4.5, Playin' is good, jam double-dips.
 19-07-74    4.5 Loving me these Spanish jams.
@@ -461,7 +461,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 23-03-75    5   Up there with the best shows ever. Totally unique. Check out the radio announcer before the encore!
 17-06-75    4   Nice, slightly strange setlist, as you'd expect.
-13-08-75	5	No particularly mad jam, except maybe the encore, but everything about this screams "class". First set is awesome.
+13-08-75    5   No particularly mad jam, except maybe the encore, but everything about this screams "class". First set is awesome.
 28-09-75    3.5 Another "nice" show, lacking in any out-there jamming.
 
 03-06-76    2.5 Too slow and laid-back; lacks any spark or major jamming.
@@ -549,21 +549,21 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 06-10-77        TODO: Archive not correct.
 07-10-77    4   Only has partial show (about 90 mins). Still a pretty cracking set list and has plenty of energy.
 09-10-77    4.5 First real drums, great Sugaree and Truckin'
-11-10-77	3.5	A little too mellow, especially the Eyes onward. Starter Help > Slipknot was probably the highlight. Nice rhythm changes in Deal.
+11-10-77    3.5 A little too mellow, especially the Eyes onward. Starter Help > Slipknot was probably the highlight. Nice rhythm changes in Deal.
 12-10-77    3.5 Like real second sets! Some lazy song choices.
 14-10-77    4.5 Really helped by the 18 minute Playing, best since '74.
 15-10-77    4   Nice Estimated > Drums > Other One. Out of tune US Blues.
-16-10-77	3.5	Another decent Estimated. Black Peter was also a good version, rest of the show was competent but lacked drive at times.
+16-10-77    3.5 Another decent Estimated. Black Peter was also a good version, rest of the show was competent but lacked drive at times.
 28-10-77    3.5 Nice energy, main jam was He's Gone... not a fan.
 29-10-77    4.5 Best Let It Grow since '74. Space in second set!
-30-10-77	4	Jamming in this show was pretty decent, it just needed more. Highlight is clearly the Playing > Other One pre-drums.
+30-10-77    4   Jamming in this show was pretty decent, it just needed more. Highlight is clearly the Playing > Other One pre-drums.
 01-11-77    4   Rocking end, but quite a short show. Truckin' was the highlight.
-02-11-77	4	Toronto show. Short but sweet Estimated. Very rocking and powerful end to the show, and the encore was great.
+02-11-77    4   Toronto show. Short but sweet Estimated. Very rocking and powerful end to the show, and the encore was great.
 04-11-77    3.5 Not as good as recent ones. Needs more review?
-05-11-77	4.5	Monster Half-Step as 2nd song. 2nd set starts Bass solo > jammy Step back > Eyes. Eases later but still a really solif show.
+05-11-77    4.5 Monster Half-Step as 2nd song. 2nd set starts Bass solo > jammy Step back > Eyes. Eases later but still a really solif show.
 06-11-77    4   Killer Truckin' is the stand-out.
 27-12-77    3.5 Nice energy, didn't catch much. Rocking at the end.
-29-12-77	4.5	Absolutly rocking show at the end. It's a fine fine show, only really lacking in some jam intensity. '77 in a nutshell.
+29-12-77    4.5 Absolutly rocking show at the end. It's a fine fine show, only really lacking in some jam intensity. '77 in a nutshell.
 30-12-77    4   Some nice playing, but very very short.
 31-12-77    4   Standard for the year. These shows are quite short.
 
@@ -581,9 +581,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 30-01-78    3.5 Didn't stick out, although full of energy at the end.
 31-01-78    4   Good, don't know whether they are starting to sound a bit samey though. Another space.
 02-02-78    4   A little short, it seems, but filled with quality.
-03-02-78	5	Great first set, awesome Music Never Stopped. The jewel is the 40 minute Eyes > Playin. Best post-retirement Playin'? Could be.
-04-02-78	4	Only audience for first set. Jams are decent but lack the edge of the previous night. NFA manages to add a chord in the final chorus!
-05-02-78	4	Monster, nearly 30 min Scarlet > Fire. Last 40 minutes has the 20-minute song syndrome but is done very well. Even has a Bobby joke.
+03-02-78    5   Great first set, awesome Music Never Stopped. The jewel is the 40 minute Eyes > Playin. Best post-retirement Playin'? Could be.
+04-02-78    4   Only audience for first set. Jams are decent but lack the edge of the previous night. NFA manages to add a chord in the final chorus!
+05-02-78    4   Monster, nearly 30 min Scarlet > Fire. Last 40 minutes has the 20-minute song syndrome but is done very well. Even has a Bobby joke.
 06-04-78    3.5 Nothing too shabby, nothing too special. Bad PA static in last 2 songs does not help.
 07-04-78    3.5 Again, it rolled over a bit like the last show. Nothing really bad though.
 08-04-78    4   Slightly better. But these shows are starting to sound very familiar. More close encounters.
@@ -1127,7 +1127,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 02-07-85    3   Quite short for both sets. Terrapin before drums is the highlight at 13 minutes long. Lovely car crash in Brokedown Palace.
 13-07-85    3   Bizarre Sat. Night > Fire opener. Again in 1985 the changes are more in the setlist than in the music. Nasty static on SBD.
 14-07-85    3   Eyes managed to sneak over the 10 minute line. End of drums and into space was good (although drums cut). Short on improv.
-24-08-85    3   Infamous Boreal Ridge show. PA has many issues. Car crash HIAB is great. Not 	entirely dreadful, but not a great show.
+24-08-85    3   Infamous Boreal Ridge show. PA has many issues. Car crash HIAB is great. Not    entirely dreadful, but not a great show.
 30-08-85    3.5 Much less issues than the previous show. Quite "clean"; practically no adventure at all. Nice Good Lovin and Dew though.
 31-08-85    3.5 The best audio is a pretty windy aud unfortunatly. Highlights were the LiG, Estimated and the encore. Nothing exceptional.
 02-09-85    3.5 Decent energy opener. Killer bass in Uncle (!). Great Playin' and an averted Don't Need Love. Show could not sustain itself.
@@ -1269,523 +1269,523 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 08-09-87    3   Unusual Fire on it's own. Show is mainly ok, suffers from a dip in energy after drums. Promised more that it delivered.
 09-09-87    3   Brent opens with Hey Pocky Way. Devil with a blue dress? Nice mellow Playin'. Second set is really short, only an hour!
 11-09-87    3.5 Shows seem to be getting a little shorter again. Mickey's birthday has a great setlist but falls over on the jams again.
-12-09-87	4	Great first set. Second set was no slouch either. Another good Morning Dew, and a double encore to follow.
-13-09-87	3.5	Super-rare cover of Fever. Good setlist for second set, but lacked energy until the end. Another version of La Bamba.
-15-09-87    4	First set has equipment problems. Great Eyes in 2nd set - best for a long time. These shows are pretty decent.
-16-09-87	4	Scarlet 2nd song in first set? Jerry goes wild in Wharf Rat. Excepting the "Blue Dress", another good 87 show.
+12-09-87    4   Great first set. Second set was no slouch either. Another good Morning Dew, and a double encore to follow.
+13-09-87    3.5 Super-rare cover of Fever. Good setlist for second set, but lacked energy until the end. Another version of La Bamba.
+15-09-87    4   First set has equipment problems. Great Eyes in 2nd set - best for a long time. These shows are pretty decent.
+16-09-87    4   Scarlet 2nd song in first set? Jerry goes wild in Wharf Rat. Excepting the "Blue Dress", another good 87 show.
 18-09-87    4   Good Watchtower, Masterpiece and another GL > La Bamba > GL. More aggressive than usual Bird Song. Great Dew, solid.
-19-09-87	4	Excellent pre-drums, but drums is better! Best drums that I ever recall. Really really badly cut into Maggies Farm.
-20-09-87	3.5 Starts with 2 tuning riffs! High energy pre-drums but it lacks a bit post drums. Not at the heights of recent shows.
-22-09-87	3	Spencer Davis guests for Good Lovin', adds little except for vocals. Pleasant enough but generally a weak show.
-23-09-87	3.5 Had a good setlist but the shows seem to have calmed down a bit since the start of the month. High energy end to the show.
-24-09-87	3.5	Jerry's voice is not so good. For a change Other One goes over 6 mins. Slight strange setlist but no major highlights.
-02-10-87	3.5	Is LiG the best song for jamming in the first set? Maybe. Great Watchtower. Weird last song. Decent drums/space.
-03-10-87	3.5	Really good Bird Song but the second set was more anonymous than recent shows. Lots of Adams Family tune-ups recently.
-04-10-87	3	Pretty short, and largely anonymous. A mere 6 minutes for pre drums Eyes? Also, Good Golly Miss Molly is terrible.
-06-11-87	3.5	Standards have slipped since earlier this year. This show is not bad, just lacks the unusual. Interesting Scarlet > Hell.
-07-11-87	3.5	Overall a slighty better show than a few recent ones. Setlist was really good, could have had a bit more fire.
-08-11-87	3	Another 9 minutes Other One, but this show mainly relies on too many short songs in the second set. A common 1987 trait.
-14-11-87	3.5	Opens with a 13 minute Shakedown. Show is pretty short again compared to spring summer. Great Lovelight false ending.
-15-11-87	3	November shows are patchy compared with earlier this year. So-so setlist and no real highlights, even with a Dew.
-27-12-87	4	Awesome pre drums selection. Drops off a bit post drums but it's still worth a listen. Decent Quinn encore as well.
-28-12-87	3	Has to the worst pre-drums selection for a time. First set and post drums saves it somewhat but not the best show.
-30-12-87	3.5	Not a bad show for a pre new years. The Dew could have been better and the jams were short. Best was the first set LiG.
-31-12-87	3	3rd set with the Nevilles. Rest sounds like a fairly normal show for the period, albeit with no major highlights.
+19-09-87    4   Excellent pre-drums, but drums is better! Best drums that I ever recall. Really really badly cut into Maggies Farm.
+20-09-87    3.5 Starts with 2 tuning riffs! High energy pre-drums but it lacks a bit post drums. Not at the heights of recent shows.
+22-09-87    3   Spencer Davis guests for Good Lovin', adds little except for vocals. Pleasant enough but generally a weak show.
+23-09-87    3.5 Had a good setlist but the shows seem to have calmed down a bit since the start of the month. High energy end to the show.
+24-09-87    3.5 Jerry's voice is not so good. For a change Other One goes over 6 mins. Slight strange setlist but no major highlights.
+02-10-87    3.5 Is LiG the best song for jamming in the first set? Maybe. Great Watchtower. Weird last song. Decent drums/space.
+03-10-87    3.5 Really good Bird Song but the second set was more anonymous than recent shows. Lots of Adams Family tune-ups recently.
+04-10-87    3   Pretty short, and largely anonymous. A mere 6 minutes for pre drums Eyes? Also, Good Golly Miss Molly is terrible.
+06-11-87    3.5 Standards have slipped since earlier this year. This show is not bad, just lacks the unusual. Interesting Scarlet > Hell.
+07-11-87    3.5 Overall a slighty better show than a few recent ones. Setlist was really good, could have had a bit more fire.
+08-11-87    3   Another 9 minutes Other One, but this show mainly relies on too many short songs in the second set. A common 1987 trait.
+14-11-87    3.5 Opens with a 13 minute Shakedown. Show is pretty short again compared to spring summer. Great Lovelight false ending.
+15-11-87    3   November shows are patchy compared with earlier this year. So-so setlist and no real highlights, even with a Dew.
+27-12-87    4   Awesome pre drums selection. Drops off a bit post drums but it's still worth a listen. Decent Quinn encore as well.
+28-12-87    3   Has to the worst pre-drums selection for a time. First set and post drums saves it somewhat but not the best show.
+30-12-87    3.5 Not a bad show for a pre new years. The Dew could have been better and the jams were short. Best was the first set LiG.
+31-12-87    3   3rd set with the Nevilles. Rest sounds like a fairly normal show for the period, albeit with no major highlights.
 
-13-02-88	3	First set ends with Loser? Seemed to be a bit of a warm-up for the start of the year. Short, strange post Good Lovin jam.
-14-02-88	3	Fairly normal show. Space was quite nice. Recently setlists have become more predictable; also there is still a lack of jamming.
-16-02-88	
-17-02-88	3	Bog standard show showing the more mundane parts of 1987. Songs decent enough, but missing big energy and jamming.
-16-03-88	4	Really solid first set. Decent Playing for the period. Pre-drums has jamming! Big improvement from the February shows.
-17-03-88	3.5	First Fantasy > Hey Jude. Not as good as the previous night, but overall not bad and the Hey Jude was definitly a plus.
-18-03-88	3.5	Fairly normal show for the period. The NFA at the end was probably the best for a while though, Jerry went off a little bit.
-24-03-88	3	End of first set is nice, and a decent Half-Step to start the second. Rest of second set couldn't match it though.
-26-03-88	3.5	Weird Stir It up in first set. Decent, very active, space. Pre-drums was mellow but not bad. Post drums more predictable.
-27-03-88	4	Most bizarre start to a second set for a long long time. Eyes needs to move away from pre-drums. Nice surprises in this show.
-28-03-88	3.5	Messy Stranger end. End of first set is much better (BS > Music). Second set is less surprising. NFA with no chant!
-30-03-88	3.5	Second set setlist looks awesome on paper. Shakedown has lost an edge over the years. Decent Dew but skimped on jamming.
-31-03-88	3.5	Consistent LiG quality recently. Strange exit from space. Post drums, longest song was 4:24! Major car crash in Watchtower.
-03-04-88	4	Tunings are off the hook. Great To Lay Me Down. Nicely jammed Estimated. Best Other One for a while. Patchy in places.
-04-04-88	3.5	Jerry's voice is bad due to a cold. Vocal jams out of LLR are getting boring. Good Stella Blue and high energy end.
-05-04-88	4	Louie Louie from Brent. Best Smokestack Lightning ever, bar none. Decent from that point on, with a lot of energy.
-07-04-88	3	Best Around x 2 - at end of first set - for years was still only average. Setlist looks good on paper kind of show.
-08-04-88	3	Another decent setlist but Jerry has sounded out of sorts for the last few shows. Passable, space was pretty OK.
-09-04-88	3	Unusual Big Boss Man opener. Hey Jude seems in place now. Another LLR pre-drums second set. Fairly ho-hum, like last night.
-11-04-88	3.5	To Lay Me Down song of the tour. Decent first set. Jerry's voice better, and overall improvement from the previous week.
-13-04-88	4	Interesting Sugar Mag / Playing duel sandwich show. Show definitly peaks in the white-hot Morning Dew. Reccomended.
-14-04-88	3	Nice Bird Song at the end of the first set but nothing else about this show stood out. A bit by the numbers for my taste.
-15-04-88	3	Scarlet > Fire to open the first set? Apart from that opener, there was nothing special. Post-drums was all short songs.
-22-04-88	3.5	Like a lot of this run it is acceptable with no errors, but it needs something more - mainly in the jamming department.
-23-04-88	3.5	There's some good setlists on this tour and it seems free of errors but the jam level seriously needs to up a notch.
-24-04-88	3.5	Quality Bird Song at end of 1st set. Yet another LLR > Terrapin pre drums. Must say post-drums recently has got samey.
-30-04-88	3.5	First LTGTR. Better pre-drums than recently. China > Rider and 3 song encore was a nice surprise. Again, almost no jamming.
-01-05-88	3.5	Nice relaxed first set. Post-drums is yet another O1 > Wharf > TS > NFA. Needs some more variety in this spot.
-17-06-88	3.5	Unusually, no SBD for this show. Decent space and pretty high energy post drums. Pity about the sound quality though.
-19-06-88	3	These shows are getting really short on the jamming front. This rips through the songs with the exception of Bird Song.
-20-06-88	3	First Blow Away? Shows are reminding me a bit of 1986, but with less setlist variation. Tiny tiny DS hint at end of Other One.
-22-06-88	3.5	Unusually, no SBD. Sounds like Jerry doesn't know the new Brent song. Stella Blue major car crash; crushes the solo though.
-23-06-88	3.5	Alpine SBD's this year have a slight chorus effect. Mellow first set. He's Gone > DS not a bad combo. Encore is funny.
-25-06-88	3	First show with Hornsby. New songs and chatting are probably the highlight again. Tapes for this show are a little rough.
-26-06-88	3	Again, no soundboard. Seems a bit low on energy, although Playing actually tries a jam. Post drums seems to be best nowadays.
-28-06-88	3.5	Bit more open than recent shows. Estimated lacked bite. Almost a jam pre-drums. Good Stella Blue. Does summer 88 have any jams?
-30-06-88	3	Believe It Or Not is not a great song. Kills a the mood a bit pre drums. Overall, nothing really bad but nothing exciting.
-02-07-88	3.5	Super solid set-list for set 2. Short on jamming but pre-drums was fun. Too many gated drums this year. Not bad.
-03-07-88	3.5	Short first set but ends with a killer Bird Song. IWTYH pre-drums, oh dear. Very weird second set ending, and NFA encore.
-15-07-88	3	Another good Morning Dew to end the set but nothing much else stood out. Lovelight as stand-alone encore was unusual.
-16-07-88	2.5	"I Will Take You Home" - post space! Very short, perfunctory Other One. Didn't really hang well together as a show.
-17-07-88	3.5	Laid back first set. Pre-drums is the best part, although suffering from no jamming. Blackbird encore might be the highlight.
-29-07-88	4	Decent first set ends with hot Deal. Unusual China > CF > Rider. Contender for best Playin' of the 80's. Post drums lacks though.
-30-07-88	3	No decent SBD. Decent start to first set. Nothing hot, although the Smokestack out of space was rare for the period and decent.
-31-07-88	4	Decent Bird Song ends ineresting first set. IWTYH - awful. Very unusual, good, mellow drums section. Post drums is excellent.
-26-08-88	3	Didn't bring a lot to the table. A lot of these shows are very similar to each other, differentation seems to be in the energy.
-28-08-88	3	First time in years there was a tiny hint of jam after Truckin'. Other than that, this show seems a bit tired and lackluster.
-02-09-88	3	Let It Grow is again the start of set 1. Nice contrasts in drums / space. Some early MIDI? Lacks any real energy.
-03-09-88	3.5	MIDI and a meltdown in the Bird Song! Electric Ripple as the second encore, unfortunatly the bits inbetween lacked.
-05-09-88	3	Only aud for second set. No highlights, although setlist suggests one. Another Playin' reprise, no longer rare. So-So.
-06-09-88	3.5	Nice choice of songs for the first set, but there was nothing really inventive in this show. Post drumrs is very regular.
-08-09-88	3	Let It Grow threatens a breakdown. Rest was however a lot more standard, with nothing in particular standing out.
-09-09-88	3	Both sets quite short (second set especially so). IWTYH out of space again. Very average, except for the Believe It Or Not.
-11-09-88	3	Slightly unusual pre drums combination of Scarlet > Fire, apart from that nothing special. Lacking unpredictability, these shows.
-12-09-88	3	These shows are really just washing over me a bit too much. They are not bad as much as lacking in variety. Hoping for better.
-14-09-88	3	Lot's of minor errors in this show. Sounds like the band are unsure of themselves. Saved by the Dew and the encore at the end. 
-15-09-88	3.5	Almost typical 1988 setlist, sublime to ridiculous (Playing paired with UJB seems common). Normal show, but pre drums was decent.
-16-09-88	3.5	Not a bad show at all; energy from the start and throughout. Estimated > Terrapin > DS were the highlights, sans Bobby screams.
-18-09-88	3.5	Good first set, and mainly decent up to drums. NFA chant to start second set. Post drums was OO > WR > TS > NFA again.
-19-09-88	3.5	Another Playing reprise pre-drums - seems to be getting quite common. Could have with a pinch more energy but not too bad.
-20-09-88	3	Another Morning Dew to end the show but not as epic as recent versions. Rare (now) JB Goode to end, but this show needed more.
-22-09-88	3.5	Only 1980's song was Fantasy. Opens with a long Shakedown. Excellent TLMD. Post drums had some unsually placed mellow moments.
-23-09-88	3	This MSG run goes on forever. Foolish into drums + keys jam. How many IWTYH must be endured? Fairly decent Other One though.
-24-09-88	2.5	Suzanne Vega, Mick Taylor... Hall & Oates? Suzanne is probably the best. Jerry's voice is shot and this is cringeworthy at times.
-30-09-88	3	Nothing really stands out in this short show. Setlist not too bad and Jerry's voice is better, but this is to "by the numbers".
-01-10-88	3	Late 88 is worse than either the previous year of indeed the spring. Here post drums is the best of an overally average show.
-02-10-88	3.5	Unusual spaces cropping up pre-drums make this a nice change but otherwise a fairly standard show. Messy Stones and a cut NFA.
-14-10-88	3	Rare (by now) Saint Of Circumstance. Good setlist other than this, but again no real jamming. Another Hey Jude slow down finish.
-15-10-88	2.5	Unusual openers - Music Never Stopped start for 1st set, Sat Night for 2nd. Otherwise, this seemed a pretty low energy show.
-16-10-88	2.5	Bit of a clunker of a show. Ended with the least climatic Dew I've ever heard. Jerry himself didn't rate the band this tour.
-18-10-88	3	Better than the last 2 shows. Encore with the Bangles (?). Was Bobby banging a bangle? Space was decent until IWTYH arrived.
-20-10-88	3.5	Roughest tape I've heard for some time. First Built To Last. Nice Hey Jude outro with the crowd but the source was terrible.
-21-10-88	3.5	Nice Jack Straw to end set one. Overall quite a "happy" show with Happy Birthday for Brent and a great Stella Blue.
-09-12-88	3	Starts off OK then fades off on the energy level. Nice to have Jack-A-Row back but could have done with more energy.
-10-12-88	3	Very average show with no real spark or energy, except maybe a little pick-up post drums. I think Jerry needs more energy.
-11-12-88	3	Either the mix or something else is up in these shows - Jerry lacks bite. A bit more interesting post drums with the setlist.
-28-12-88	4	Good out the gate. Is that just the high quality though? Great Bird Song. Great space and setlist. Where did this come from?
-29-12-88	3.5	Brent playing well. Samson > Playing jam? Mostly par for the course but not a bad show for the regular show before new year.
-31-12-88	3.5	First show with Clarence? Adds a lot but is a bit too busy. Very long drums. Dew winds to a standstill. Weird triple encore.
+13-02-88    3   First set ends with Loser? Seemed to be a bit of a warm-up for the start of the year. Short, strange post Good Lovin jam.
+14-02-88    3   Fairly normal show. Space was quite nice. Recently setlists have become more predictable; also there is still a lack of jamming.
+16-02-88    
+17-02-88    3   Bog standard show showing the more mundane parts of 1987. Songs decent enough, but missing big energy and jamming.
+16-03-88    4   Really solid first set. Decent Playing for the period. Pre-drums has jamming! Big improvement from the February shows.
+17-03-88    3.5 First Fantasy > Hey Jude. Not as good as the previous night, but overall not bad and the Hey Jude was definitly a plus.
+18-03-88    3.5 Fairly normal show for the period. The NFA at the end was probably the best for a while though, Jerry went off a little bit.
+24-03-88    3   End of first set is nice, and a decent Half-Step to start the second. Rest of second set couldn't match it though.
+26-03-88    3.5 Weird Stir It up in first set. Decent, very active, space. Pre-drums was mellow but not bad. Post drums more predictable.
+27-03-88    4   Most bizarre start to a second set for a long long time. Eyes needs to move away from pre-drums. Nice surprises in this show.
+28-03-88    3.5 Messy Stranger end. End of first set is much better (BS > Music). Second set is less surprising. NFA with no chant!
+30-03-88    3.5 Second set setlist looks awesome on paper. Shakedown has lost an edge over the years. Decent Dew but skimped on jamming.
+31-03-88    3.5 Consistent LiG quality recently. Strange exit from space. Post drums, longest song was 4:24! Major car crash in Watchtower.
+03-04-88    4   Tunings are off the hook. Great To Lay Me Down. Nicely jammed Estimated. Best Other One for a while. Patchy in places.
+04-04-88    3.5 Jerry's voice is bad due to a cold. Vocal jams out of LLR are getting boring. Good Stella Blue and high energy end.
+05-04-88    4   Louie Louie from Brent. Best Smokestack Lightning ever, bar none. Decent from that point on, with a lot of energy.
+07-04-88    3   Best Around x 2 - at end of first set - for years was still only average. Setlist looks good on paper kind of show.
+08-04-88    3   Another decent setlist but Jerry has sounded out of sorts for the last few shows. Passable, space was pretty OK.
+09-04-88    3   Unusual Big Boss Man opener. Hey Jude seems in place now. Another LLR pre-drums second set. Fairly ho-hum, like last night.
+11-04-88    3.5 To Lay Me Down song of the tour. Decent first set. Jerry's voice better, and overall improvement from the previous week.
+13-04-88    4   Interesting Sugar Mag / Playing duel sandwich show. Show definitly peaks in the white-hot Morning Dew. Reccomended.
+14-04-88    3   Nice Bird Song at the end of the first set but nothing else about this show stood out. A bit by the numbers for my taste.
+15-04-88    3   Scarlet > Fire to open the first set? Apart from that opener, there was nothing special. Post-drums was all short songs.
+22-04-88    3.5 Like a lot of this run it is acceptable with no errors, but it needs something more - mainly in the jamming department.
+23-04-88    3.5 There's some good setlists on this tour and it seems free of errors but the jam level seriously needs to up a notch.
+24-04-88    3.5 Quality Bird Song at end of 1st set. Yet another LLR > Terrapin pre drums. Must say post-drums recently has got samey.
+30-04-88    3.5 First LTGTR. Better pre-drums than recently. China > Rider and 3 song encore was a nice surprise. Again, almost no jamming.
+01-05-88    3.5 Nice relaxed first set. Post-drums is yet another O1 > Wharf > TS > NFA. Needs some more variety in this spot.
+17-06-88    3.5 Unusually, no SBD for this show. Decent space and pretty high energy post drums. Pity about the sound quality though.
+19-06-88    3   These shows are getting really short on the jamming front. This rips through the songs with the exception of Bird Song.
+20-06-88    3   First Blow Away? Shows are reminding me a bit of 1986, but with less setlist variation. Tiny tiny DS hint at end of Other One.
+22-06-88    3.5 Unusually, no SBD. Sounds like Jerry doesn't know the new Brent song. Stella Blue major car crash; crushes the solo though.
+23-06-88    3.5 Alpine SBD's this year have a slight chorus effect. Mellow first set. He's Gone > DS not a bad combo. Encore is funny.
+25-06-88    3   First show with Hornsby. New songs and chatting are probably the highlight again. Tapes for this show are a little rough.
+26-06-88    3   Again, no soundboard. Seems a bit low on energy, although Playing actually tries a jam. Post drums seems to be best nowadays.
+28-06-88    3.5 Bit more open than recent shows. Estimated lacked bite. Almost a jam pre-drums. Good Stella Blue. Does summer 88 have any jams?
+30-06-88    3   Believe It Or Not is not a great song. Kills a the mood a bit pre drums. Overall, nothing really bad but nothing exciting.
+02-07-88    3.5 Super solid set-list for set 2. Short on jamming but pre-drums was fun. Too many gated drums this year. Not bad.
+03-07-88    3.5 Short first set but ends with a killer Bird Song. IWTYH pre-drums, oh dear. Very weird second set ending, and NFA encore.
+15-07-88    3   Another good Morning Dew to end the set but nothing much else stood out. Lovelight as stand-alone encore was unusual.
+16-07-88    2.5 "I Will Take You Home" - post space! Very short, perfunctory Other One. Didn't really hang well together as a show.
+17-07-88    3.5 Laid back first set. Pre-drums is the best part, although suffering from no jamming. Blackbird encore might be the highlight.
+29-07-88    4   Decent first set ends with hot Deal. Unusual China > CF > Rider. Contender for best Playin' of the 80's. Post drums lacks though.
+30-07-88    3   No decent SBD. Decent start to first set. Nothing hot, although the Smokestack out of space was rare for the period and decent.
+31-07-88    4   Decent Bird Song ends ineresting first set. IWTYH - awful. Very unusual, good, mellow drums section. Post drums is excellent.
+26-08-88    3   Didn't bring a lot to the table. A lot of these shows are very similar to each other, differentation seems to be in the energy.
+28-08-88    3   First time in years there was a tiny hint of jam after Truckin'. Other than that, this show seems a bit tired and lackluster.
+02-09-88    3   Let It Grow is again the start of set 1. Nice contrasts in drums / space. Some early MIDI? Lacks any real energy.
+03-09-88    3.5 MIDI and a meltdown in the Bird Song! Electric Ripple as the second encore, unfortunatly the bits inbetween lacked.
+05-09-88    3   Only aud for second set. No highlights, although setlist suggests one. Another Playin' reprise, no longer rare. So-So.
+06-09-88    3.5 Nice choice of songs for the first set, but there was nothing really inventive in this show. Post drumrs is very regular.
+08-09-88    3   Let It Grow threatens a breakdown. Rest was however a lot more standard, with nothing in particular standing out.
+09-09-88    3   Both sets quite short (second set especially so). IWTYH out of space again. Very average, except for the Believe It Or Not.
+11-09-88    3   Slightly unusual pre drums combination of Scarlet > Fire, apart from that nothing special. Lacking unpredictability, these shows.
+12-09-88    3   These shows are really just washing over me a bit too much. They are not bad as much as lacking in variety. Hoping for better.
+14-09-88    3   Lot's of minor errors in this show. Sounds like the band are unsure of themselves. Saved by the Dew and the encore at the end. 
+15-09-88    3.5 Almost typical 1988 setlist, sublime to ridiculous (Playing paired with UJB seems common). Normal show, but pre drums was decent.
+16-09-88    3.5 Not a bad show at all; energy from the start and throughout. Estimated > Terrapin > DS were the highlights, sans Bobby screams.
+18-09-88    3.5 Good first set, and mainly decent up to drums. NFA chant to start second set. Post drums was OO > WR > TS > NFA again.
+19-09-88    3.5 Another Playing reprise pre-drums - seems to be getting quite common. Could have with a pinch more energy but not too bad.
+20-09-88    3   Another Morning Dew to end the show but not as epic as recent versions. Rare (now) JB Goode to end, but this show needed more.
+22-09-88    3.5 Only 1980's song was Fantasy. Opens with a long Shakedown. Excellent TLMD. Post drums had some unsually placed mellow moments.
+23-09-88    3   This MSG run goes on forever. Foolish into drums + keys jam. How many IWTYH must be endured? Fairly decent Other One though.
+24-09-88    2.5 Suzanne Vega, Mick Taylor... Hall & Oates? Suzanne is probably the best. Jerry's voice is shot and this is cringeworthy at times.
+30-09-88    3   Nothing really stands out in this short show. Setlist not too bad and Jerry's voice is better, but this is to "by the numbers".
+01-10-88    3   Late 88 is worse than either the previous year of indeed the spring. Here post drums is the best of an overally average show.
+02-10-88    3.5 Unusual spaces cropping up pre-drums make this a nice change but otherwise a fairly standard show. Messy Stones and a cut NFA.
+14-10-88    3   Rare (by now) Saint Of Circumstance. Good setlist other than this, but again no real jamming. Another Hey Jude slow down finish.
+15-10-88    2.5 Unusual openers - Music Never Stopped start for 1st set, Sat Night for 2nd. Otherwise, this seemed a pretty low energy show.
+16-10-88    2.5 Bit of a clunker of a show. Ended with the least climatic Dew I've ever heard. Jerry himself didn't rate the band this tour.
+18-10-88    3   Better than the last 2 shows. Encore with the Bangles (?). Was Bobby banging a bangle? Space was decent until IWTYH arrived.
+20-10-88    3.5 Roughest tape I've heard for some time. First Built To Last. Nice Hey Jude outro with the crowd but the source was terrible.
+21-10-88    3.5 Nice Jack Straw to end set one. Overall quite a "happy" show with Happy Birthday for Brent and a great Stella Blue.
+09-12-88    3   Starts off OK then fades off on the energy level. Nice to have Jack-A-Row back but could have done with more energy.
+10-12-88    3   Very average show with no real spark or energy, except maybe a little pick-up post drums. I think Jerry needs more energy.
+11-12-88    3   Either the mix or something else is up in these shows - Jerry lacks bite. A bit more interesting post drums with the setlist.
+28-12-88    4   Good out the gate. Is that just the high quality though? Great Bird Song. Great space and setlist. Where did this come from?
+29-12-88    3.5 Brent playing well. Samson > Playing jam? Mostly par for the course but not a bad show for the regular show before new year.
+31-12-88    3.5 First show with Clarence? Adds a lot but is a bit too busy. Very long drums. Dew winds to a standstill. Weird triple encore.
 
-05-02-89	3.5	Drums > He's Gone > Miracle > Dew!? First SOTM and We Can Run (latter a bit messy). Nice Playin'. Nice show overall, nearly a 4.
-06-02-89	3.5	Strange NFA > Sugaree start. Set 1 ends with Tennessee Jed! Quite a long Terrapin jam. Killer Stella Blue. Not bad.
-07-02-89	3.5	Brent songs not too bad here. Victim has a car crash at the start. Space arrives with a bang. Nice setlists recently.
-10-02-89	3.5	Tunings are ever more playful. Great LIG to finish first set. Fine Playin' jam. Another pretty decent show overall.
-11-02-89	3.5	Seems like Jerry has a little less energy this evening. First set has a great Bird Song though. Long Estimated as well.
-12-02-89	3.5	With Spencer Davis and Dylan for the 2nd set. Best Gimme Some Loving. Bizarre setlist, overall a pretty strange show.
-27-03-89	3.5	Killer Half-Step opener. Fire is full of energy near the end. Maybe needs some more energy near the peaks. 1989 sounds good.
-28-03-89	3.5	Started off hot. Second set could have more ups and downs - it was a bit too smooth - but hard to argue with. Decent.
-30-03-89	4	Excellent Bird Song and great first set. He's Gone nearly 16 mins long. Even a decent Other One post drums. 89 has started well.
-31-03-89	4	Brent offered weed to play. Terrapin at over 16.5 minutes! Really good Morning Dew to finish the set. Even IWTYH was acceptable.
-02-04-89	3.5	First set is nice, but the Shakedown that opens set 2 is better! High energy needs some better direction towards the end.
-03-04-89	3.5	Very nice mixed up first set setlist. Blow Away was decent at start of second set. Not brilliant but still a decent show.
-05-04-89	3.5	The "Blues" show! Unusual US Blues to end the first set. Nice comeback for China Doll. Well played in the main, lacking jams.
-06-04-89	4	Jerry is a little low in the mix. Really decent Playin' jam in set 2. Stunning intro into Built To Last. Pretty good again.
-08-04-89	3.5	Little Slipknot riff in space. Nothing really stands out in this show but the quality is all there. Good Blow Away as well.
-09-04-89	3.5	This is the best tour of the 1980's so far. Even "average" shows like this have great little jams (here Estimated > UJB).
-11-04-89	3	Lacked a bit of the class of recent shows, although not terrible as such. Crazy Fingers > Playin > Terrapin was not bad.
-12-04-89	3.5	LiG at end of first set and a nice bluesy jam out of Truckin' were the highlight. Rest was a lot more average. Not bad.
-13-04-89	3	This set, whilst not particularly bad in any obvious way, also didn't feature anything exciting. New songs need more jams.
-15-04-89	3.5	Really slow Blow Away. Playing went fairly dissonant. Dew is nice as well, but the rest of show lacks a bit of spark.
-16-04-89	3	Rare (now) Saint of Circumstance (not played well). Scarlet Fire was decent but otherwise this show fails to inspire.
-17-04-89	3	First show with MIDI guitars (in space). This section was quite fun, unlike the rest of the gig which was too average for me.
-28-04-89	3.5	Unusual Crazy Fingers to start set 2 (which has a great setlist). Short but killer Playin'. Sugar Mag > Touch to end?
-29-04-89	3.5	Really wish IWTYH didn't come out of space. Lots of MIDI in space. Best Other One for a while. Even the Lovelight was decent.
-30-04-89	3.5	Quite a mellow show with some longish jams (Estimated > Eyes 25 minutes!) but could have been a bit more out there overall.
-06-05-89	3.5	Car crash Miracle. Show was pretty nice and had surprises (the end of Around was a WTF though), although needed more jams.
-07-05-89	3	First set a bit stiff. Quite a long section pre-drums but was a bit too much up and down for my liking. A bit phoned in.
-27-05-89	3.5	Benefit for Aids (Jerry + Bob + fogerty opened). First time in years, a minor Truckin jam. Great drums / space. Happy show.
-18-06-89	3.5	Great Hey Pocky Way > Iko transition. Car crash "Saint". Is Brent drunk? Cipollina He's Gone with decent jam. Very up and down.
-19-06-89	3.5	Kick-ass Rider riffs from Jerry. Smooth Playin' jam into Crazy Fingers. Overall very decent, almost a 4 but not quite.
-21-06-89	3.5	Major Bobby amp issues at start. Particularly long space. With Clarence Clemons, who adds little. Could have been hotter.
-02-07-89	4	Playin' > Crazy Fingers to open. Faster than usual FOTD. Decent He's Gone > Eyes. Epic ending of Fantasy > Jude > Sugar Mag.
-04-07-89	4.5	Good first set with everything decent. Great pre drums with meaty Terrapin. Great space, killer Watchtower. Great show.
-07-07-89	4	Hot from the start. Killer MIDI in the Other One. No particular highlight as such, just a well played show overall.
-09-07-89	4	Opens with high energy. Awesome Bird Song to end first set. Best Truckin' jam of the 80's so far. Energy level off the charts!
-10-07-89	4	Needs a longer jam in there somewhere (although UJB was 12 mins+) but hard to argue against the overall quality of this.
-12-07-89	3.5	Second set starts with Sugaree. Good Black Peter was the highlight, but overall this show couldn't keep up with recent ones.
-13-07-89	3.5	Jerry flute and lots of MIDI in space. 2nd set He's Gone opener. All the songs were solid but none of them really stood out.
-15-07-89	4	Very long Bird song but not as good as the last one. Truly excellent Truckin' > Smokestack. Close Encounters in space.
-17-07-89	4	The main treat in this show is the pre-drums China > Rider / Playin > UJB. Even the NFA was pretty meaty. Band on fire this era!
-18-07-89	4	High energy first set. Crazy smooth Sugar Mag > Scarlet transition. Tour is screaming for a major jam. Fiery post drums.
-19-07-89	4	Rocking Deal and great first set. This run is a bit of tease with no major jams. Pretty glorious run overall though.
-04-08-89	3.5	Another killer Deal in an 11 song first set. Solo Jerry in space. A bit rushed through the songs and not as good as recent shows.
-05-08-89	3.5	Had some good points at the end of set 1 and pre-drums (Playing > Rider !?) but lost some energy on the back straight. 
-06-08-89	3.5	There was a cool jam in Bird Song but most of the second set felt a little flat. Decent encore (JB Goode > WBYGN) though.
-17-08-89	3.5	Excellent MIDIfied Space is the highlight of this show. Some length in the songs (13 min Estimated) but they lack depth.
-18-08-89	3.5	Tough to characterise. All the songs are played reasonably well but there are no real highlights. 2 Jerry ballads post drums.
-19-08-89	4	Seems like drums is getting shorter and space longer. Nice mellow pre-drums Playing jam. Excellent Other One post drums.
-29-09-89	4	Mellow and decent first set ends in excellent Bird Song. Lots of MIDI in Terrapin. Minimilistic space. Death Don't. Cracking.
-30-09-89	3.5	Went pretty well up the drums (Estimated > Trucking was decent enough) but the energy died after, despite a bunch of rockers.
-01-10-89	3.5	Scarlet > Man Smart? The latter was quite decent. Long space. Lacks a decent jam and not that energetic. Lovelight gets weird.
-08-10-89	4	Good show, patchy in some minor areas. But the HOTW, pre-drums and especially the Morning Dew added enough to make a good show.
-09-10-89	5	This Dark Star is almost certainly the best, and possibly, the longest jam of the 80's to date. Fantastic DDHNM post drums.
-11-10-89	3	Overall very hit and miss. China Cat is decent but there are too many mistakes. Worst Wheel ever? Band are out of steam.
-12-10-89	3.5	All Bird Songs are easily over the 12 min mark now. Nothing obvious stood out, except maybe less errors than the previous night.
-14-10-89	3.5	Short show (only 2 songs post drums). Great H>S>F to end 1st set. Contains the longest (but not the best) Truckin' jam since 74.
-15-10-89	3.5	Many 2nd set songs have gained a minute or more. This was a bit like a return to the August shows. Needed more jamming.
-16-10-89	4.5	Hell of a 2nd set setlist. Long jam is interesting at start and end of pre-drums. Brent and Bob try to ruin post drums. Solid.
-18-10-89	3.5	A bit minimal, but an actual Terrapin jam. Post drums was a bit ho-hum, although I wouldn't say it was a bad show.
-19-10-89	3.5	Decent first set and nice second set setlist. Nice jam out of Estimated. Overall not a bad show, although it lacked a big moment.
-20-10-89	4.5	Long show with first California Earthquake. An actual Truckin' / OO jam with meltdown? What a hidden gem, despite IWTYH post drums.
-22-10-89	4	Great first set contains killer Bird Song and ends with JB Goode! Space jam after Franklins pre drums. Close encounters in space.
-23-10-89	4	Starts great - the Stranger is excellent. Pre drums a little so-so but post drums is great. Best Lovelight since 72? Killer encore.
-25-10-89	4	Another Playin > UJB to start set 2. Best UJB jam since 74 at least. Truckin' has a jam again! Rocked out ending as well.
-26-10-89	4.5	Best Victim so far. 26 minutes of Dark Star, although not as good as 10/9. Whole show is pretty decent, although I've heard weirder.
-06-12-89	3.5	Another excellent Victim. Wierd clipped Sugra Mag out of Scarlet. Pretty good but lacking some of the spark of recent shows.
-08-12-89	3.5	Not as good as recent shows but the base quality was still there and Help > Slip > Franklins carried the day to a large degree.
-09-12-89	3.5	First set contains decent Bird Song with MIDI. Pretty robust Playing. Nice, but lacked anything particularly special post drums.
-10-12-89	4	Car crash rescue in HIAB! Monster Victim. CC Rider with Spencer Davis. China-Rider and space both good. Best Stella Blue for a while.
-27-12-89	4	Nice first set but starts to go really deep in the Playin' jam. Garcias guitar cuts out in Dew, but still a killer version.
-30-12-89	3.5	Great Stranger with a major Jerry error - "Whoops!". "Sleepy summer home" in Eyes? More traditional drums. Bit laid back but not bad.
-31-12-89	4	High energy first set - best of the year? Dark Star goes crazy 10 minutes in. Runs slighty out of steam post drums. Good fun.
+05-02-89    3.5 Drums > He's Gone > Miracle > Dew!? First SOTM and We Can Run (latter a bit messy). Nice Playin'. Nice show overall, nearly a 4.
+06-02-89    3.5 Strange NFA > Sugaree start. Set 1 ends with Tennessee Jed! Quite a long Terrapin jam. Killer Stella Blue. Not bad.
+07-02-89    3.5 Brent songs not too bad here. Victim has a car crash at the start. Space arrives with a bang. Nice setlists recently.
+10-02-89    3.5 Tunings are ever more playful. Great LIG to finish first set. Fine Playin' jam. Another pretty decent show overall.
+11-02-89    3.5 Seems like Jerry has a little less energy this evening. First set has a great Bird Song though. Long Estimated as well.
+12-02-89    3.5 With Spencer Davis and Dylan for the 2nd set. Best Gimme Some Loving. Bizarre setlist, overall a pretty strange show.
+27-03-89    3.5 Killer Half-Step opener. Fire is full of energy near the end. Maybe needs some more energy near the peaks. 1989 sounds good.
+28-03-89    3.5 Started off hot. Second set could have more ups and downs - it was a bit too smooth - but hard to argue with. Decent.
+30-03-89    4   Excellent Bird Song and great first set. He's Gone nearly 16 mins long. Even a decent Other One post drums. 89 has started well.
+31-03-89    4   Brent offered weed to play. Terrapin at over 16.5 minutes! Really good Morning Dew to finish the set. Even IWTYH was acceptable.
+02-04-89    3.5 First set is nice, but the Shakedown that opens set 2 is better! High energy needs some better direction towards the end.
+03-04-89    3.5 Very nice mixed up first set setlist. Blow Away was decent at start of second set. Not brilliant but still a decent show.
+05-04-89    3.5 The "Blues" show! Unusual US Blues to end the first set. Nice comeback for China Doll. Well played in the main, lacking jams.
+06-04-89    4   Jerry is a little low in the mix. Really decent Playin' jam in set 2. Stunning intro into Built To Last. Pretty good again.
+08-04-89    3.5 Little Slipknot riff in space. Nothing really stands out in this show but the quality is all there. Good Blow Away as well.
+09-04-89    3.5 This is the best tour of the 1980's so far. Even "average" shows like this have great little jams (here Estimated > UJB).
+11-04-89    3   Lacked a bit of the class of recent shows, although not terrible as such. Crazy Fingers > Playin > Terrapin was not bad.
+12-04-89    3.5 LiG at end of first set and a nice bluesy jam out of Truckin' were the highlight. Rest was a lot more average. Not bad.
+13-04-89    3   This set, whilst not particularly bad in any obvious way, also didn't feature anything exciting. New songs need more jams.
+15-04-89    3.5 Really slow Blow Away. Playing went fairly dissonant. Dew is nice as well, but the rest of show lacks a bit of spark.
+16-04-89    3   Rare (now) Saint of Circumstance (not played well). Scarlet Fire was decent but otherwise this show fails to inspire.
+17-04-89    3   First show with MIDI guitars (in space). This section was quite fun, unlike the rest of the gig which was too average for me.
+28-04-89    3.5 Unusual Crazy Fingers to start set 2 (which has a great setlist). Short but killer Playin'. Sugar Mag > Touch to end?
+29-04-89    3.5 Really wish IWTYH didn't come out of space. Lots of MIDI in space. Best Other One for a while. Even the Lovelight was decent.
+30-04-89    3.5 Quite a mellow show with some longish jams (Estimated > Eyes 25 minutes!) but could have been a bit more out there overall.
+06-05-89    3.5 Car crash Miracle. Show was pretty nice and had surprises (the end of Around was a WTF though), although needed more jams.
+07-05-89    3   First set a bit stiff. Quite a long section pre-drums but was a bit too much up and down for my liking. A bit phoned in.
+27-05-89    3.5 Benefit for Aids (Jerry + Bob + fogerty opened). First time in years, a minor Truckin jam. Great drums / space. Happy show.
+18-06-89    3.5 Great Hey Pocky Way > Iko transition. Car crash "Saint". Is Brent drunk? Cipollina He's Gone with decent jam. Very up and down.
+19-06-89    3.5 Kick-ass Rider riffs from Jerry. Smooth Playin' jam into Crazy Fingers. Overall very decent, almost a 4 but not quite.
+21-06-89    3.5 Major Bobby amp issues at start. Particularly long space. With Clarence Clemons, who adds little. Could have been hotter.
+02-07-89    4   Playin' > Crazy Fingers to open. Faster than usual FOTD. Decent He's Gone > Eyes. Epic ending of Fantasy > Jude > Sugar Mag.
+04-07-89    4.5 Good first set with everything decent. Great pre drums with meaty Terrapin. Great space, killer Watchtower. Great show.
+07-07-89    4   Hot from the start. Killer MIDI in the Other One. No particular highlight as such, just a well played show overall.
+09-07-89    4   Opens with high energy. Awesome Bird Song to end first set. Best Truckin' jam of the 80's so far. Energy level off the charts!
+10-07-89    4   Needs a longer jam in there somewhere (although UJB was 12 mins+) but hard to argue against the overall quality of this.
+12-07-89    3.5 Second set starts with Sugaree. Good Black Peter was the highlight, but overall this show couldn't keep up with recent ones.
+13-07-89    3.5 Jerry flute and lots of MIDI in space. 2nd set He's Gone opener. All the songs were solid but none of them really stood out.
+15-07-89    4   Very long Bird song but not as good as the last one. Truly excellent Truckin' > Smokestack. Close Encounters in space.
+17-07-89    4   The main treat in this show is the pre-drums China > Rider / Playin > UJB. Even the NFA was pretty meaty. Band on fire this era!
+18-07-89    4   High energy first set. Crazy smooth Sugar Mag > Scarlet transition. Tour is screaming for a major jam. Fiery post drums.
+19-07-89    4   Rocking Deal and great first set. This run is a bit of tease with no major jams. Pretty glorious run overall though.
+04-08-89    3.5 Another killer Deal in an 11 song first set. Solo Jerry in space. A bit rushed through the songs and not as good as recent shows.
+05-08-89    3.5 Had some good points at the end of set 1 and pre-drums (Playing > Rider !?) but lost some energy on the back straight. 
+06-08-89    3.5 There was a cool jam in Bird Song but most of the second set felt a little flat. Decent encore (JB Goode > WBYGN) though.
+17-08-89    3.5 Excellent MIDIfied Space is the highlight of this show. Some length in the songs (13 min Estimated) but they lack depth.
+18-08-89    3.5 Tough to characterise. All the songs are played reasonably well but there are no real highlights. 2 Jerry ballads post drums.
+19-08-89    4   Seems like drums is getting shorter and space longer. Nice mellow pre-drums Playing jam. Excellent Other One post drums.
+29-09-89    4   Mellow and decent first set ends in excellent Bird Song. Lots of MIDI in Terrapin. Minimilistic space. Death Don't. Cracking.
+30-09-89    3.5 Went pretty well up the drums (Estimated > Trucking was decent enough) but the energy died after, despite a bunch of rockers.
+01-10-89    3.5 Scarlet > Man Smart? The latter was quite decent. Long space. Lacks a decent jam and not that energetic. Lovelight gets weird.
+08-10-89    4   Good show, patchy in some minor areas. But the HOTW, pre-drums and especially the Morning Dew added enough to make a good show.
+09-10-89    5   This Dark Star is almost certainly the best, and possibly, the longest jam of the 80's to date. Fantastic DDHNM post drums.
+11-10-89    3   Overall very hit and miss. China Cat is decent but there are too many mistakes. Worst Wheel ever? Band are out of steam.
+12-10-89    3.5 All Bird Songs are easily over the 12 min mark now. Nothing obvious stood out, except maybe less errors than the previous night.
+14-10-89    3.5 Short show (only 2 songs post drums). Great H>S>F to end 1st set. Contains the longest (but not the best) Truckin' jam since 74.
+15-10-89    3.5 Many 2nd set songs have gained a minute or more. This was a bit like a return to the August shows. Needed more jamming.
+16-10-89    4.5 Hell of a 2nd set setlist. Long jam is interesting at start and end of pre-drums. Brent and Bob try to ruin post drums. Solid.
+18-10-89    3.5 A bit minimal, but an actual Terrapin jam. Post drums was a bit ho-hum, although I wouldn't say it was a bad show.
+19-10-89    3.5 Decent first set and nice second set setlist. Nice jam out of Estimated. Overall not a bad show, although it lacked a big moment.
+20-10-89    4.5 Long show with first California Earthquake. An actual Truckin' / OO jam with meltdown? What a hidden gem, despite IWTYH post drums.
+22-10-89    4   Great first set contains killer Bird Song and ends with JB Goode! Space jam after Franklins pre drums. Close encounters in space.
+23-10-89    4   Starts great - the Stranger is excellent. Pre drums a little so-so but post drums is great. Best Lovelight since 72? Killer encore.
+25-10-89    4   Another Playin > UJB to start set 2. Best UJB jam since 74 at least. Truckin' has a jam again! Rocked out ending as well.
+26-10-89    4.5 Best Victim so far. 26 minutes of Dark Star, although not as good as 10/9. Whole show is pretty decent, although I've heard weirder.
+06-12-89    3.5 Another excellent Victim. Wierd clipped Sugra Mag out of Scarlet. Pretty good but lacking some of the spark of recent shows.
+08-12-89    3.5 Not as good as recent shows but the base quality was still there and Help > Slip > Franklins carried the day to a large degree.
+09-12-89    3.5 First set contains decent Bird Song with MIDI. Pretty robust Playing. Nice, but lacked anything particularly special post drums.
+10-12-89    4   Car crash rescue in HIAB! Monster Victim. CC Rider with Spencer Davis. China-Rider and space both good. Best Stella Blue for a while.
+27-12-89    4   Nice first set but starts to go really deep in the Playin' jam. Garcias guitar cuts out in Dew, but still a killer version.
+30-12-89    3.5 Great Stranger with a major Jerry error - "Whoops!". "Sleepy summer home" in Eyes? More traditional drums. Bit laid back but not bad.
+31-12-89    4   High energy first set - best of the year? Dark Star goes crazy 10 minutes in. Runs slighty out of steam post drums. Good fun.
 
-25-02-90	4	Good "Last Time" - first for 25 years? No big jams, but very high quality post drums. Best Wharf Rat for a long time. Rocking.
-26-02-90	4	Good banter in the first set. Really long 30min Scarlet > Fire and long versions of all songs pre-drums. Laid back and decent.
-27-02-90	3.5	Victim drops a space section in the first set. First set, opening set 2 weirdness and the Dew are good but maybe a bit more needed.
-14-03-90	4	Great first set with first Loose Lucy since 74. Pre-drums has an interesting Playin' jam. Decent start to Spring 90 tour.
-15-03-90	4	Phils 50th bday. Very mellow, long jam out of Terrapin. Wharf Rat reminded me of the 70s. Great encore, best Revolution I heard.
-16-03-90	3.5	Killer Bird Song after BT Wind. Almost an Eyes jam out of Man Smart. Pre-drum jams seem to be the new norm. Could have had more.
-18-03-90	3.5	First set opens with a nice Shakedown but lacks surprises. Nice Truckin > Spoonful jam pre-drums. Great Morning Dew to finish.
-19-03-90	3.5	Picasso Moon can't seem to end! Very good Playin' is too short. Dropped off post drums to be honest, and needed a bit more energy.
-21-03-90	3.5	Victim > SOTM > Promised in first set? Probably the best part, along with the second set Crazy Fingers. Tour needs more jams.
-22-03-90	4	Good Scarlet > Fire. Jam after Truckin is a highlight, although short; same could be said for the Other One. Full Hey Jude.
-24-03-90	4	Great 2nd set pre-drums comes complete with a full Mind Left Body jam which along, with the rest of pre-drums, is the highlight. 
-25-03-90	3.5	Probably the longest Eyes since 77 or so to start set 2. Spoonful jam takes a short left turn. Ran out of steam post-drums.
-26-03-90	3.5	Don't like the new lyrics in BT Wind. Nothing of major note in this show, although nothing bad. Dew saves the day at end of set 2.
-28-03-90	3.5	First "The Weight". But that into Hey Pocky Way > Drums sums up this slight ho-hum show. Decent drums and Wharf Rat save the show.
-29-03-90	4.5	The Branford show. Eyes is great. Amazingly, once in Star, he holds them back if anything. A very, very good one trick pony.
-30-03-90	4	Best first set for a while. Pre drums jam is pretty decent - a good Playin' - although post drums is a little more rote. Enjoyable.
-01-04-90	4	Even better first set than last night, killer ending. This time post drums is better than pre, with a great Stella Blue.
-02-04-90	3.5	Average for the tour, even with a DDHNM (the weakest of the modern ones so far). Strange to have Last Time into drums, for sure.
-03-04-90	4.5	Excellent Row Jimmy (!). Brent is killing on the keys. Very jammy run into drums, culminates in an awesome Playin'. Killer.
-05-05-90	4	Great opening sequence and a very good first set. Quality continues into set 2, although post drums is less so. Decent show overall.
-06-05-90	4	Another great first set. Second set a bit up and down, with the Weight still in a pre-drums roll. Set 1 earns the makes here.
-08-06-90	4	Great Foolish Heart jam goes into killer Drums > Sapce. Post drums slacks a bit energy wise but overall this is a good show.
-09-06-90	3.5	Overall a very decent show but lacking a solid highlight. The opener of both sets was probably the best; another good Victim.
-10-06-90	4	Really good into drums with a cracking Eyes and good Playing jam. Best SOTM so far post-drums, and even the set 1 starter was good.
-15-06-90	4	Great Help > Slipknot to open. Really long show for the era. Around & Around doesn't want to end. Come for the energy, not the jams.
-16-06-90	4	Really, REALLY long jam out of Terrapin, which is mainly a Jerry space. This is a very weird second set, and that's a good thing.
-17-06-90	3.5	Sounds like the after-party to the night before, a bit up and down in places. Playing > Eyes and Shakedown are the highlights.
-23-06-90	4	Another robust pre-drums jam fest. Great Drums and space, also full of energy. I'm getting used to regularly having good shows.
-24-06-90	3.5	Starts decent but overall a bit more anonymous than recent shows. Sugar Mag goes off-key in the middle. Below average for the tour.
-04-07-90	3	Slighty anonymous start. Jerry and Phil in shorts. Unusual Scarlet > Fire after after 3 songs in second set. A bit so-so.
-06-07-90	4	Long and energetic He's Gone jam, beats most early 80's efforts. Rest of show is more normal. Around & Around still disappoints.
-08-07-90	3.5	Nice jam out of Terrapin and a laid back Eyes again. Not sure what Wang Dang Doodle after space was doing though. Not bad.
-10-07-90	4	Great Loser and killer Bird Song. Power cut in Promised Land! Great (and jammy) 2nd set. Space > Other One was particularly good.
-12-07-90	4.5	Long Star but it lacks a freakout session. Drums / space is excellent and the end is rocking. Definitly worth a listen.
-14-07-90	3.5	Really tight first set with good start and end. Killer "Step Back" to open set 2. Set 2 looks good on paper but is more pedestrian.
-16-07-90	4	Decent High Time in average first set. Another Sugar Mag > Scarlet. Great Truckin' jam pre-drums. Around x2 is back to short again.
-18-07-90	4	Awesome setlist. Laughing jam in drums / space. Pretty decent Other One > Dew combo at end of second set make this one stand out.
-19-07-90	3.5	Really good Victim > Foolish Heart to open the second set but the rest, despite a good set-list, was a lot more pedestrian.
-21-07-90	4	Killer, spacey Bird Song to end set 1. Solid show. 3 Playing in the bands! The end of set 2 was a decent treat and held energy.
-22-07-90	3.5	Good Stranger. Nice Estimated > Eyes pre drums. Backwards looping in space. The whole is nice but nothing of particular note.
-23-07-90	3.5	Brent's last show. Nice Truckin + jam to end first set. Another killer Victim. Terrapin jam could have been better. Was alright.
-07-09-90	3.5	Keys sound different right away. Long first set had extra verse in Masterpiece. Second set has long Playing jam. Average.
-08-09-90	4	Really good first set. Very meaty Eyes > Estimated > Terrapin pre drums. Good Stella Blue after drums. Solid, decent show.
-10-09-90	3.5	Slight unusual second set list spoiled this a little. Jamming blew a little hot and cold. Another decent Other One post drums.
-11-09-90	4.5	Killer HIAB to finish the first set. Stunning He's Gone > Spoonful jam - best ever? Rest of show can't match this monster.
-12-09-90	4	UJB > Space > Drums > Dew is 52 mins. Crikey! Rest of show is no slouch either, although not to the heights of the last night.
-14-09-90	4	Another crazy jam-fest in set 2, and the first set wasn't too bad either. Vince's high singing is a bit too high for my tastes.
-15-09-90	4	2 keyboards? Not sure if it works for me. This is a fairly high energy show, the setlist was decent and the jamming was alright.
-16-09-90	4.5	Really long Deal to end set 1. Intense, twisted He's Gone > Drums. Almost double-dips after SOTM. Crazy, even the Dew was good!
-18-09-90	4	Ripping opening. Best Picasso Moon to date. Jerry and Bruce led jam out of Foolish nearly hits Other One. Pretty good.
-19-09-90	4	Excellent jam out of Let It Grow into drums. Long second sets on this mini tour. Overall a very good show. Even Aroundx2 was decent.
-20-09-90	5	A 30-minute monster Dark Star after drums? What a difference a year makes. Jammiest post drums since '74? Absolutly epic show. 
-13-10-90	3	Really messy first set. Second set recovers a bit but is still a bit flat. Worst show of the year, but band seem to be enjoying it.
-17-10-90	3.5	Lacks anything really stand out but the band is good enough to carry it. Nice High Time in first set. First dodgy Vince sound.
-19-10-90	3.5	These shows are a lot more normal than the MSG shows. All of this show is nice and well done, with a rocking end, but lacks jams.
-20-10-90	4	Bruce solo joining LiG to Box Of Rain. Unusual Eyes > Samson join. Mellow, short Star into drums. Lacks a bit in energy levels.
-22-10-90	3.5	My first show. First Valley Road. First set is not that badly done. Pre-drums is decent but lacks compared to previous tour.
-24-10-90	3	Edge has definitly come off a little since summer. They're even a bit sloppy post drums. Doesn't help the energy is not here.
-27-10-90	3.5	Again this is not a bad show but all the fun of summer seems to have gone away. Space is nice enough, and gets better at the end.
-28-10-90	3.5	Decent first set up until Stander On The Mountain. Second set was decent (good Victim) but lacked a jam. Heavens Door encore good.
-30-10-90	3.5	Good first set - best of the tour so far. Bruce solo solos are way too self-indulgent. Wierd phone call in drums. Not bad.
-31-10-90	3.5	Decent and long first set opens with Help > Slip. Second set is also long but lacks major highlights excepting maybe the Watchtower.
-01-11-90	3.5	Last night of Europe tour. Jerry has a terrible voice. Jam is long but lacks excitement. Weird start to Wharf Rat. Worst US Blues?
-03-12-90	3.5	Estimated good until Jerry (!) cuts it short. Terrapin mild car crash. Nice ending but lacking anything of real excitement.
-04-12-90	3.5	These shows seem all so similar. Eyes was decent but no major jams again and certainly no surprises. Long Other One post drums.
+25-02-90    4   Good "Last Time" - first for 25 years? No big jams, but very high quality post drums. Best Wharf Rat for a long time. Rocking.
+26-02-90    4   Good banter in the first set. Really long 30min Scarlet > Fire and long versions of all songs pre-drums. Laid back and decent.
+27-02-90    3.5 Victim drops a space section in the first set. First set, opening set 2 weirdness and the Dew are good but maybe a bit more needed.
+14-03-90    4   Great first set with first Loose Lucy since 74. Pre-drums has an interesting Playin' jam. Decent start to Spring 90 tour.
+15-03-90    4   Phils 50th bday. Very mellow, long jam out of Terrapin. Wharf Rat reminded me of the 70s. Great encore, best Revolution I heard.
+16-03-90    3.5 Killer Bird Song after BT Wind. Almost an Eyes jam out of Man Smart. Pre-drum jams seem to be the new norm. Could have had more.
+18-03-90    3.5 First set opens with a nice Shakedown but lacks surprises. Nice Truckin > Spoonful jam pre-drums. Great Morning Dew to finish.
+19-03-90    3.5 Picasso Moon can't seem to end! Very good Playin' is too short. Dropped off post drums to be honest, and needed a bit more energy.
+21-03-90    3.5 Victim > SOTM > Promised in first set? Probably the best part, along with the second set Crazy Fingers. Tour needs more jams.
+22-03-90    4   Good Scarlet > Fire. Jam after Truckin is a highlight, although short; same could be said for the Other One. Full Hey Jude.
+24-03-90    4   Great 2nd set pre-drums comes complete with a full Mind Left Body jam which along, with the rest of pre-drums, is the highlight. 
+25-03-90    3.5 Probably the longest Eyes since 77 or so to start set 2. Spoonful jam takes a short left turn. Ran out of steam post-drums.
+26-03-90    3.5 Don't like the new lyrics in BT Wind. Nothing of major note in this show, although nothing bad. Dew saves the day at end of set 2.
+28-03-90    3.5 First "The Weight". But that into Hey Pocky Way > Drums sums up this slight ho-hum show. Decent drums and Wharf Rat save the show.
+29-03-90    4.5 The Branford show. Eyes is great. Amazingly, once in Star, he holds them back if anything. A very, very good one trick pony.
+30-03-90    4   Best first set for a while. Pre drums jam is pretty decent - a good Playin' - although post drums is a little more rote. Enjoyable.
+01-04-90    4   Even better first set than last night, killer ending. This time post drums is better than pre, with a great Stella Blue.
+02-04-90    3.5 Average for the tour, even with a DDHNM (the weakest of the modern ones so far). Strange to have Last Time into drums, for sure.
+03-04-90    4.5 Excellent Row Jimmy (!). Brent is killing on the keys. Very jammy run into drums, culminates in an awesome Playin'. Killer.
+05-05-90    4   Great opening sequence and a very good first set. Quality continues into set 2, although post drums is less so. Decent show overall.
+06-05-90    4   Another great first set. Second set a bit up and down, with the Weight still in a pre-drums roll. Set 1 earns the makes here.
+08-06-90    4   Great Foolish Heart jam goes into killer Drums > Sapce. Post drums slacks a bit energy wise but overall this is a good show.
+09-06-90    3.5 Overall a very decent show but lacking a solid highlight. The opener of both sets was probably the best; another good Victim.
+10-06-90    4   Really good into drums with a cracking Eyes and good Playing jam. Best SOTM so far post-drums, and even the set 1 starter was good.
+15-06-90    4   Great Help > Slipknot to open. Really long show for the era. Around & Around doesn't want to end. Come for the energy, not the jams.
+16-06-90    4   Really, REALLY long jam out of Terrapin, which is mainly a Jerry space. This is a very weird second set, and that's a good thing.
+17-06-90    3.5 Sounds like the after-party to the night before, a bit up and down in places. Playing > Eyes and Shakedown are the highlights.
+23-06-90    4   Another robust pre-drums jam fest. Great Drums and space, also full of energy. I'm getting used to regularly having good shows.
+24-06-90    3.5 Starts decent but overall a bit more anonymous than recent shows. Sugar Mag goes off-key in the middle. Below average for the tour.
+04-07-90    3   Slighty anonymous start. Jerry and Phil in shorts. Unusual Scarlet > Fire after after 3 songs in second set. A bit so-so.
+06-07-90    4   Long and energetic He's Gone jam, beats most early 80's efforts. Rest of show is more normal. Around & Around still disappoints.
+08-07-90    3.5 Nice jam out of Terrapin and a laid back Eyes again. Not sure what Wang Dang Doodle after space was doing though. Not bad.
+10-07-90    4   Great Loser and killer Bird Song. Power cut in Promised Land! Great (and jammy) 2nd set. Space > Other One was particularly good.
+12-07-90    4.5 Long Star but it lacks a freakout session. Drums / space is excellent and the end is rocking. Definitly worth a listen.
+14-07-90    3.5 Really tight first set with good start and end. Killer "Step Back" to open set 2. Set 2 looks good on paper but is more pedestrian.
+16-07-90    4   Decent High Time in average first set. Another Sugar Mag > Scarlet. Great Truckin' jam pre-drums. Around x2 is back to short again.
+18-07-90    4   Awesome setlist. Laughing jam in drums / space. Pretty decent Other One > Dew combo at end of second set make this one stand out.
+19-07-90    3.5 Really good Victim > Foolish Heart to open the second set but the rest, despite a good set-list, was a lot more pedestrian.
+21-07-90    4   Killer, spacey Bird Song to end set 1. Solid show. 3 Playing in the bands! The end of set 2 was a decent treat and held energy.
+22-07-90    3.5 Good Stranger. Nice Estimated > Eyes pre drums. Backwards looping in space. The whole is nice but nothing of particular note.
+23-07-90    3.5 Brent's last show. Nice Truckin + jam to end first set. Another killer Victim. Terrapin jam could have been better. Was alright.
+07-09-90    3.5 Keys sound different right away. Long first set had extra verse in Masterpiece. Second set has long Playing jam. Average.
+08-09-90    4   Really good first set. Very meaty Eyes > Estimated > Terrapin pre drums. Good Stella Blue after drums. Solid, decent show.
+10-09-90    3.5 Slight unusual second set list spoiled this a little. Jamming blew a little hot and cold. Another decent Other One post drums.
+11-09-90    4.5 Killer HIAB to finish the first set. Stunning He's Gone > Spoonful jam - best ever? Rest of show can't match this monster.
+12-09-90    4   UJB > Space > Drums > Dew is 52 mins. Crikey! Rest of show is no slouch either, although not to the heights of the last night.
+14-09-90    4   Another crazy jam-fest in set 2, and the first set wasn't too bad either. Vince's high singing is a bit too high for my tastes.
+15-09-90    4   2 keyboards? Not sure if it works for me. This is a fairly high energy show, the setlist was decent and the jamming was alright.
+16-09-90    4.5 Really long Deal to end set 1. Intense, twisted He's Gone > Drums. Almost double-dips after SOTM. Crazy, even the Dew was good!
+18-09-90    4   Ripping opening. Best Picasso Moon to date. Jerry and Bruce led jam out of Foolish nearly hits Other One. Pretty good.
+19-09-90    4   Excellent jam out of Let It Grow into drums. Long second sets on this mini tour. Overall a very good show. Even Aroundx2 was decent.
+20-09-90    5   A 30-minute monster Dark Star after drums? What a difference a year makes. Jammiest post drums since '74? Absolutly epic show. 
+13-10-90    3   Really messy first set. Second set recovers a bit but is still a bit flat. Worst show of the year, but band seem to be enjoying it.
+17-10-90    3.5 Lacks anything really stand out but the band is good enough to carry it. Nice High Time in first set. First dodgy Vince sound.
+19-10-90    3.5 These shows are a lot more normal than the MSG shows. All of this show is nice and well done, with a rocking end, but lacks jams.
+20-10-90    4   Bruce solo joining LiG to Box Of Rain. Unusual Eyes > Samson join. Mellow, short Star into drums. Lacks a bit in energy levels.
+22-10-90    3.5 My first show. First Valley Road. First set is not that badly done. Pre-drums is decent but lacks compared to previous tour.
+24-10-90    3   Edge has definitly come off a little since summer. They're even a bit sloppy post drums. Doesn't help the energy is not here.
+27-10-90    3.5 Again this is not a bad show but all the fun of summer seems to have gone away. Space is nice enough, and gets better at the end.
+28-10-90    3.5 Decent first set up until Stander On The Mountain. Second set was decent (good Victim) but lacked a jam. Heavens Door encore good.
+30-10-90    3.5 Good first set - best of the tour so far. Bruce solo solos are way too self-indulgent. Wierd phone call in drums. Not bad.
+31-10-90    3.5 Decent and long first set opens with Help > Slip. Second set is also long but lacks major highlights excepting maybe the Watchtower.
+01-11-90    3.5 Last night of Europe tour. Jerry has a terrible voice. Jam is long but lacks excitement. Weird start to Wharf Rat. Worst US Blues?
+03-12-90    3.5 Estimated good until Jerry (!) cuts it short. Terrapin mild car crash. Nice ending but lacking anything of real excitement.
+04-12-90    3.5 These shows seem all so similar. Eyes was decent but no major jams again and certainly no surprises. Long Other One post drums.
 08-12-90
-09-12-90	3	Bird Song the best in an average first set. There's some length in the second set but it lacks excitement. Space was decent.
-12-12-90	4	Decent uptempo first set. Short Dark Star is not the best but nothing bad. Lacks some excitement but overall a nice show.
-13-12-90	3.5	An up and down show. Saint of Circumstance doesn't sit well but the start and end is good, with a weird end to Morning Dew.
-14-12-90	4	Another good uptempo first set. No Bruce. Nice jam out of He's Gone. Dark Star out of drums extends the space. Great Wharf Rat.
-27-12-90	4   Only an aud for the first set. Long Scarlet Fire. Stunning Estimated end jam. Hamza in drums. Messy last 2 songs though.
-28-12-90	4	Good first set, and 2nd opens with best China Rider for a long long time. Delightful jam out of He's Gone. End a little flat.
-30-12-90	4.5	Holy Moly what a setlist! Funny Vince vocal slip-up. Serious, dense Playin' jam. Terrapin post drums and a rocking end.
-31-12-90	4.5	Set list screams awesome. Decent first set with expected jammy Bird Song. Second set is one long party. Best New Years for a while.
+09-12-90    3   Bird Song the best in an average first set. There's some length in the second set but it lacks excitement. Space was decent.
+12-12-90    4   Decent uptempo first set. Short Dark Star is not the best but nothing bad. Lacks some excitement but overall a nice show.
+13-12-90    3.5 An up and down show. Saint of Circumstance doesn't sit well but the start and end is good, with a weird end to Morning Dew.
+14-12-90    4   Another good uptempo first set. No Bruce. Nice jam out of He's Gone. Dark Star out of drums extends the space. Great Wharf Rat.
+27-12-90    4   Only an aud for the first set. Long Scarlet Fire. Stunning Estimated end jam. Hamza in drums. Messy last 2 songs though.
+28-12-90    4   Good first set, and 2nd opens with best China Rider for a long long time. Delightful jam out of He's Gone. End a little flat.
+30-12-90    4.5 Holy Moly what a setlist! Funny Vince vocal slip-up. Serious, dense Playin' jam. Terrapin post drums and a rocking end.
+31-12-90    4.5 Set list screams awesome. Decent first set with expected jammy Bird Song. Second set is one long party. Best New Years for a while.
 
-19-02-91	4	Great version of New Speedway Boogie. Most jammed Crazy Fingers? Killer Black Peter. Whole show is pretty good as a year opener.
-20-02-91	4	28 minute Scarlet Fire? Drums > Jam > Space in 2nd set? Jam is unique (good) rapping jam. Very long 2nd set. End a little flat.
-21-02-91	4	These setlists recently are crazy. 15m Eyes after drums? One of the best year opening runs. Just a little more variety needed.
-17-03-91	4	Good space. Truckin' > New Speedway Boogie was pretty decent. First ever Rueben & Cherise. Killer Watchtower and Black Peter.
-18-03-91	4	First set average but pre-drums - especially the Terrapin - jams out pretty well. Baby blue encore was nice except for accordion.
-20-03-91	4	Really long and decent Eyes to open set 2. Whole is pretty decent, yet another one to add to the run of good 1991 starters.
-21-03-91	4.5	Best Victim so far - totally killer. Great jam into Stir It Up. I'm really struggling to critque this show, 1991 is really strong.
-23-03-91	4	A lot less cheese recently. This is (yet another) great Spring 91 show. Decent Playin' jam and a nice Dew > Saturday Night.
-24-03-91	3	Laid back or lack of energy in the first set. This extended into the second set and there were no real highlights. Band sound tired.
-25-03-91	3.5	Unusual jam where Jerry pushes Russian Lullaby after Spoonful but this lacked a bit of energy again. Rare Stones > PITB reprise.
-27-03-91	3.5	Vince very annoying on Reuben - just repeating the riff. Long Scarlet Fire but nothing really acheived lift-off. Good Space.
-28-03-91	3.5	Very short show, apparently Bobby was pissed off. Jerrys voice lacking power. Very good Terrapin encore improves the score.
-29-03-91	3.5	Sound dies in Masterpiece, ending first set early. Second set was decent but workmanlike. Touch Of Grey mini car-crash from Jerry.
-31-03-91	4.5	Bruce returns with decent keys. Killer Samson. 23 min Eyes into blistering Playing, even a Star tease there. Great space.
-01-04-91	4.5	Proper Dark Star is the real highlight, possibly the second best one of the modern era so far. Rest is decent, with good setlist.
-03-04-91	3.5	Average first set. Bit of a comedown from previous shows, even if there was nothing bad. Great Foolish Heart but not much else.
-04-04-91	4.5	Killer first set with great setlist. Smoking Help > Slip to start set 2. High energy raver from start to finish. Great show.
-05-04-91	3.5	First set starts lively but then eases. Interesting Stir It Up jam post Terrapin. Space is good but post drums lacks excitement.
-07-04-91	3.5	Nice end to first set. Short, but decent 2nd Playing jam in second set pre-drums. Space > Box Of Rain? Slightly subdued show.
-08-04-91	4	Good show from start to finish where the whole is more than the sum of the parts. Good Eyes and Morning Dew in second set.
-09-04-91	3	End of tour has a relaxed, almost mundane feel to it. Even the 20 min Foolish Heart sailed past me somewhat. Post drums best part.
-27-04-91	4	First set a bit so-so. Action picks up for second set with a great Playing > Uncle Johns. Great drums. Killer Black Peter again.
-28-04-91	3.5	Nice Bird Song with Santana in first set. Deal into drums? Weird space with fruit machines. Nice touches but no standout.
-03-05-91	3.5	Fairly decent from the Let It Grow. One of those shows with mellow jamming but no high-energy parts. Enjoyable but measured.
-04-05-91	4	Very mellow spacy jam out of Victim. Very nice Playin > UJB > Drums. Rock solid set from start to finish, encore was high energy.
-05-05-91	3.5	Jamming is decent enough in the second set - almost a Truckin' > Spanish, however Jerry is low in the mix or down on energy.
-10-05-91	3.5	Jerry is turned down for sections of set 1. Short but surpisingly powerful Truckin into New Speedway. Rest of show too mellow.
-11-05-91	3.5	Nothing too exciting in first set or pre-drums, but space is an ambient thriller. Jerry sounds slighty down in the energy dept.
-12-05-91	3.5	Super-long Deal to finish the first set. Another long jam in Terrapin didn't seem to go anywhere. Help > Slip decent. Mixed bag.
-01-06-91	3.5	Another really long Deal to end set one. Loving them. Set lists recently have looked jammy on paper but are lacking a bit of meat.
-06-06-91	3	I'd bet that Jerry is back on the H. Recent shows have become a lot more standard. Best part of this was, yet again, the space.
-07-06-91	3.5	Best first set for a while, with a great Stagger Lee. Raging FOTM. Rest of the show not quite as good, apart from SOTM ending.
-09-06-91	3	Jerry turned down too low. Drums / Space is really weird, more like S/D/S with Jerry missing the start. Nothing stood out.
-11-06-91	3.5	Best Victim? Short jam but still very good. Unusual Space > Playin' Reprise. This is a bit like last night and could be better.
-12-06-91	3	Summer is slipping badly compared to the years start. Jerry is turning down. Morning Dew to end is some reasonable compensation.
-14-06-91	4	First Dark Star for a while, although this one is far too short. Space and encore are great, but could have been a lot more.
-16-06-91	3.5	Jack Straw to open the 2nd set! Post drums lacks any real jam, but both the long space and Black Peter post drums jam out.
-17-06-91	4.5	First set starts with a 15m Eyes. Dark Star teases everywhere. Uncle John's meltdown excellent. Pretty good show, missing flow.
-19-06-91	4	Everything pre-drums is normal for the period: saved by the killer Stella Blue > Other One > JBG post drums. Other One is awesome.
-20-06-91	3.5	Decent Bird Song. Unusual split Throwing Stones in second set. I enjoyed the messy set list although musically only average.
-22-06-91	4	Not a bad show. Get this for the fairly decent Playing > Terrapin > D > S > Dark Star > Playing sandwich. Rest is average.
-24-06-91	4	Also not a bad show. Help > SLip to open set one and the Estimated > Jam > UJB was pretty decent. Also a nice Dew in the 2nd set.
-25-06-91	3.5	32 min Scarlet > Fire! That's mainly the highlight of the show, although Comes A Time out of drums was quite sweet. Average.
-28-06-91	3.5	First set not bad, even with Iko Iko in the middle. Have to enjoy the 1 min Star jam in Wharf Rat. Overall, a bit hit and miss.
-12-08-91	3	Very regular second set setlist. A middling show, but Jerry's singing on Terrapin was unusually enunciated. Otherwise so-so.
-13-08-91	3.5	First set was quite alright but the second set felt a bit by the numbers. Not very memorable, even if it wasn't actually bad.
-14-08-91	3	Short slightly boring first set. Trio of rain songs to start set 2. Crazy Fingers jam is reasonable, rest lacked adventure.
-16-08-91	3.5	First set Star! Scarlet > Victim > Fire! This should be a monster show but the Star is lazy and second set under delivers.
-17-08-91	3.5	Started well but then the first set got a little messy. Pre-drums so so, but space > Dew > Sat Night was a clear highlight.
-18-08-91	3	Unusual JGB to end first set. Deal to open 3nd set? Stranger > Drums? Weird pre-drums. Stripped back drums and a bit up and down.
-04-09-91	3.5	Killer Promised Land to end a decent first set. Long and decent Scarlet > Fire. Loses it's fire and energy after drums.
-05-09-91	3	A bit too normal for me. Like the mid 80s, filled with 8/9 minutes tracks that never go anywhere. 1991 can be very up and down.
-06-09-91	3.5	Setlist looks great on paper. More or less average except for the Terrapin. Not a fan of the short Dark Star jams. Not bad.
-08-09-91	3.5	Jam into drums was interesting, even if it was just another 8/9 minute Dark Star tease. Rest of show was more or less average.
-09-09-91	4	No real stand-outs but the vibe is excellent; the trio pre-drums and the Morning Dew are worth checking. Very solid 1991 show.
-10-09-91	4	Branford on sax for the whole show. Get for the Help > Slip. Rest is decent but isn't an instant classic. Good not great.
-12-09-91	3.5	Well constructed show, the playing was decent but really lacked a bit of fire. Pre drums have good songs but all too short.
-13-09-91	3.5	Best parts are the end of set 1 Bird Song and start of set 2 Victim. Long Scarlet Fire. Nothing wrong, needed more excitement.
-14-09-91	3	Great Promised Land and Jack Straw, with Bruce giving his all, but the show lacks spark the more further into the show you go.
-16-09-91	3.5	Uncle John's into drums and the resulting space were the highlights of a more average than normal 1991 show. Rare Attics as well.
-17-09-91	3	Rare unusual synth led drums ending (a bit like Vangelis) but this show lacks spark and excitement. Proficient but a bit dull.
-18-09-91	4	Good first set, and a really good run into drums, especially with the Terrapin. Morning Dew ending is not grade A but a good add.
-20-09-91	3.5	Another decent first set. Unique Help > Slip > Fire but nothing interesting in the transition. So What tease in another good space.
-21-09-91	3.5	Compentent but lacking excitement. A lot of the randomness of earlier in the year has gone. Eyes are still long versions though.
-22-09-91	3.5	Had a decent He's Gone post jam but it sure feels like some of the adventure of earlier in the year has gone. Needs more excitement.
-24-09-91	4	First Dark Star for a while. Short, and laid back but fairly decent, and leads into a good drums. 2 long Jerry songs after drums?
-25-09-91	4	Good Terrapin jam, despite missing Jerry. Mind Left Body tease out of space. Great setlist and generally a decent show overall.
-26-09-91	4.5	Very mellow and very decent Star to open set 2. There is a lot about this show to like about, especially maybe the flow.
-27-10-91	4	First show after Bill Grahams death. Absolutly killer first set. Good pre drums jam where Jerry is not the main guitar. Decent.
-28-10-91	3.5	Highlight of this show is the reasonably meaty Playin jam into drums. Rest of show is a lot more regular for the period.
-30-10-91	4	Pretty decent Eyes > Estimated > Terrapin  before drums. The rest of the show is not bad, just not as good as pre-drums.
-31-10-91	4	Short but laid back first set. Kesey rap in Dark Star is raw and chilling. Rest of show is decent but lacks energy near the end.
-03-11-91	3	Bill Graham Memorial. Popper is good, Fogerty is horribly out of tune, as is Bob in Wharf Rat. Huge show but not that good.
-27-12-91	4	First set ends nicely. Terrapin jam pre-drums was decent. Best drums of the 90s? They really stand out. Pity about Around x 2.
-28-12-91	5	Show is wrapped around a split Saturday Night. Really killer first set. Unique Playin > Same thing jam. Best 1991 show by far.
-30-12-91	4	Great first set with a top quality Bird Song to end. Second set standout Drums / Space with Airto. Vince is great this run.
-31-12-91	4	Final new years show. Subdued countdown. Nice Estimated > Drums. Nothing really stood out as especially good but a decent show.
+19-02-91    4   Great version of New Speedway Boogie. Most jammed Crazy Fingers? Killer Black Peter. Whole show is pretty good as a year opener.
+20-02-91    4   28 minute Scarlet Fire? Drums > Jam > Space in 2nd set? Jam is unique (good) rapping jam. Very long 2nd set. End a little flat.
+21-02-91    4   These setlists recently are crazy. 15m Eyes after drums? One of the best year opening runs. Just a little more variety needed.
+17-03-91    4   Good space. Truckin' > New Speedway Boogie was pretty decent. First ever Rueben & Cherise. Killer Watchtower and Black Peter.
+18-03-91    4   First set average but pre-drums - especially the Terrapin - jams out pretty well. Baby blue encore was nice except for accordion.
+20-03-91    4   Really long and decent Eyes to open set 2. Whole is pretty decent, yet another one to add to the run of good 1991 starters.
+21-03-91    4.5 Best Victim so far - totally killer. Great jam into Stir It Up. I'm really struggling to critque this show, 1991 is really strong.
+23-03-91    4   A lot less cheese recently. This is (yet another) great Spring 91 show. Decent Playin' jam and a nice Dew > Saturday Night.
+24-03-91    3   Laid back or lack of energy in the first set. This extended into the second set and there were no real highlights. Band sound tired.
+25-03-91    3.5 Unusual jam where Jerry pushes Russian Lullaby after Spoonful but this lacked a bit of energy again. Rare Stones > PITB reprise.
+27-03-91    3.5 Vince very annoying on Reuben - just repeating the riff. Long Scarlet Fire but nothing really acheived lift-off. Good Space.
+28-03-91    3.5 Very short show, apparently Bobby was pissed off. Jerrys voice lacking power. Very good Terrapin encore improves the score.
+29-03-91    3.5 Sound dies in Masterpiece, ending first set early. Second set was decent but workmanlike. Touch Of Grey mini car-crash from Jerry.
+31-03-91    4.5 Bruce returns with decent keys. Killer Samson. 23 min Eyes into blistering Playing, even a Star tease there. Great space.
+01-04-91    4.5 Proper Dark Star is the real highlight, possibly the second best one of the modern era so far. Rest is decent, with good setlist.
+03-04-91    3.5 Average first set. Bit of a comedown from previous shows, even if there was nothing bad. Great Foolish Heart but not much else.
+04-04-91    4.5 Killer first set with great setlist. Smoking Help > Slip to start set 2. High energy raver from start to finish. Great show.
+05-04-91    3.5 First set starts lively but then eases. Interesting Stir It Up jam post Terrapin. Space is good but post drums lacks excitement.
+07-04-91    3.5 Nice end to first set. Short, but decent 2nd Playing jam in second set pre-drums. Space > Box Of Rain? Slightly subdued show.
+08-04-91    4   Good show from start to finish where the whole is more than the sum of the parts. Good Eyes and Morning Dew in second set.
+09-04-91    3   End of tour has a relaxed, almost mundane feel to it. Even the 20 min Foolish Heart sailed past me somewhat. Post drums best part.
+27-04-91    4   First set a bit so-so. Action picks up for second set with a great Playing > Uncle Johns. Great drums. Killer Black Peter again.
+28-04-91    3.5 Nice Bird Song with Santana in first set. Deal into drums? Weird space with fruit machines. Nice touches but no standout.
+03-05-91    3.5 Fairly decent from the Let It Grow. One of those shows with mellow jamming but no high-energy parts. Enjoyable but measured.
+04-05-91    4   Very mellow spacy jam out of Victim. Very nice Playin > UJB > Drums. Rock solid set from start to finish, encore was high energy.
+05-05-91    3.5 Jamming is decent enough in the second set - almost a Truckin' > Spanish, however Jerry is low in the mix or down on energy.
+10-05-91    3.5 Jerry is turned down for sections of set 1. Short but surpisingly powerful Truckin into New Speedway. Rest of show too mellow.
+11-05-91    3.5 Nothing too exciting in first set or pre-drums, but space is an ambient thriller. Jerry sounds slighty down in the energy dept.
+12-05-91    3.5 Super-long Deal to finish the first set. Another long jam in Terrapin didn't seem to go anywhere. Help > Slip decent. Mixed bag.
+01-06-91    3.5 Another really long Deal to end set one. Loving them. Set lists recently have looked jammy on paper but are lacking a bit of meat.
+06-06-91    3   I'd bet that Jerry is back on the H. Recent shows have become a lot more standard. Best part of this was, yet again, the space.
+07-06-91    3.5 Best first set for a while, with a great Stagger Lee. Raging FOTM. Rest of the show not quite as good, apart from SOTM ending.
+09-06-91    3   Jerry turned down too low. Drums / Space is really weird, more like S/D/S with Jerry missing the start. Nothing stood out.
+11-06-91    3.5 Best Victim? Short jam but still very good. Unusual Space > Playin' Reprise. This is a bit like last night and could be better.
+12-06-91    3   Summer is slipping badly compared to the years start. Jerry is turning down. Morning Dew to end is some reasonable compensation.
+14-06-91    4   First Dark Star for a while, although this one is far too short. Space and encore are great, but could have been a lot more.
+16-06-91    3.5 Jack Straw to open the 2nd set! Post drums lacks any real jam, but both the long space and Black Peter post drums jam out.
+17-06-91    4.5 First set starts with a 15m Eyes. Dark Star teases everywhere. Uncle John's meltdown excellent. Pretty good show, missing flow.
+19-06-91    4   Everything pre-drums is normal for the period: saved by the killer Stella Blue > Other One > JBG post drums. Other One is awesome.
+20-06-91    3.5 Decent Bird Song. Unusual split Throwing Stones in second set. I enjoyed the messy set list although musically only average.
+22-06-91    4   Not a bad show. Get this for the fairly decent Playing > Terrapin > D > S > Dark Star > Playing sandwich. Rest is average.
+24-06-91    4   Also not a bad show. Help > SLip to open set one and the Estimated > Jam > UJB was pretty decent. Also a nice Dew in the 2nd set.
+25-06-91    3.5 32 min Scarlet > Fire! That's mainly the highlight of the show, although Comes A Time out of drums was quite sweet. Average.
+28-06-91    3.5 First set not bad, even with Iko Iko in the middle. Have to enjoy the 1 min Star jam in Wharf Rat. Overall, a bit hit and miss.
+12-08-91    3   Very regular second set setlist. A middling show, but Jerry's singing on Terrapin was unusually enunciated. Otherwise so-so.
+13-08-91    3.5 First set was quite alright but the second set felt a bit by the numbers. Not very memorable, even if it wasn't actually bad.
+14-08-91    3   Short slightly boring first set. Trio of rain songs to start set 2. Crazy Fingers jam is reasonable, rest lacked adventure.
+16-08-91    3.5 First set Star! Scarlet > Victim > Fire! This should be a monster show but the Star is lazy and second set under delivers.
+17-08-91    3.5 Started well but then the first set got a little messy. Pre-drums so so, but space > Dew > Sat Night was a clear highlight.
+18-08-91    3   Unusual JGB to end first set. Deal to open 3nd set? Stranger > Drums? Weird pre-drums. Stripped back drums and a bit up and down.
+04-09-91    3.5 Killer Promised Land to end a decent first set. Long and decent Scarlet > Fire. Loses it's fire and energy after drums.
+05-09-91    3   A bit too normal for me. Like the mid 80s, filled with 8/9 minutes tracks that never go anywhere. 1991 can be very up and down.
+06-09-91    3.5 Setlist looks great on paper. More or less average except for the Terrapin. Not a fan of the short Dark Star jams. Not bad.
+08-09-91    3.5 Jam into drums was interesting, even if it was just another 8/9 minute Dark Star tease. Rest of show was more or less average.
+09-09-91    4   No real stand-outs but the vibe is excellent; the trio pre-drums and the Morning Dew are worth checking. Very solid 1991 show.
+10-09-91    4   Branford on sax for the whole show. Get for the Help > Slip. Rest is decent but isn't an instant classic. Good not great.
+12-09-91    3.5 Well constructed show, the playing was decent but really lacked a bit of fire. Pre drums have good songs but all too short.
+13-09-91    3.5 Best parts are the end of set 1 Bird Song and start of set 2 Victim. Long Scarlet Fire. Nothing wrong, needed more excitement.
+14-09-91    3   Great Promised Land and Jack Straw, with Bruce giving his all, but the show lacks spark the more further into the show you go.
+16-09-91    3.5 Uncle John's into drums and the resulting space were the highlights of a more average than normal 1991 show. Rare Attics as well.
+17-09-91    3   Rare unusual synth led drums ending (a bit like Vangelis) but this show lacks spark and excitement. Proficient but a bit dull.
+18-09-91    4   Good first set, and a really good run into drums, especially with the Terrapin. Morning Dew ending is not grade A but a good add.
+20-09-91    3.5 Another decent first set. Unique Help > Slip > Fire but nothing interesting in the transition. So What tease in another good space.
+21-09-91    3.5 Compentent but lacking excitement. A lot of the randomness of earlier in the year has gone. Eyes are still long versions though.
+22-09-91    3.5 Had a decent He's Gone post jam but it sure feels like some of the adventure of earlier in the year has gone. Needs more excitement.
+24-09-91    4   First Dark Star for a while. Short, and laid back but fairly decent, and leads into a good drums. 2 long Jerry songs after drums?
+25-09-91    4   Good Terrapin jam, despite missing Jerry. Mind Left Body tease out of space. Great setlist and generally a decent show overall.
+26-09-91    4.5 Very mellow and very decent Star to open set 2. There is a lot about this show to like about, especially maybe the flow.
+27-10-91    4   First show after Bill Grahams death. Absolutly killer first set. Good pre drums jam where Jerry is not the main guitar. Decent.
+28-10-91    3.5 Highlight of this show is the reasonably meaty Playin jam into drums. Rest of show is a lot more regular for the period.
+30-10-91    4   Pretty decent Eyes > Estimated > Terrapin  before drums. The rest of the show is not bad, just not as good as pre-drums.
+31-10-91    4   Short but laid back first set. Kesey rap in Dark Star is raw and chilling. Rest of show is decent but lacks energy near the end.
+03-11-91    3   Bill Graham Memorial. Popper is good, Fogerty is horribly out of tune, as is Bob in Wharf Rat. Huge show but not that good.
+27-12-91    4   First set ends nicely. Terrapin jam pre-drums was decent. Best drums of the 90s? They really stand out. Pity about Around x 2.
+28-12-91    5   Show is wrapped around a split Saturday Night. Really killer first set. Unique Playin > Same thing jam. Best 1991 show by far.
+30-12-91    4   Great first set with a top quality Bird Song to end. Second set standout Drums / Space with Airto. Vince is great this run.
+31-12-91    4   Final new years show. Subdued countdown. Nice Estimated > Drums. Nothing really stood out as especially good but a decent show.
 
-22-02-92	3.5	Debut of So May Roads (good) and Wave To The Wind (wtf?). Good (long) drums. Killer Black Peter. Just a little too up and down.
-23-02-92	4	First versions of Way To Go Home (needs more pep) and Corrina. Great Playin > Terrapin leads to jungle drums. Mix was a bit so-so.
-24-02-92	4	Second set has all 4 new songs. Jam from starting from rare Other One pre drums is good. Hot drums. Oh shit, Wave to the Wind!
-01-03-92	3.5	Less adventurous show, only 34 or so minutes before drums. Nothing particulary bad, just lacked some energy and no decent jams.
-02-03-92	3	Pretty decent first set. Energy seemed to tail off significantly in the second set. Terrapin had half a jam. Around still sucks.
-03-03-92	3	Second set Playin' is decent. Best Wave To The Wind so far. Rest of show is pretty average and lacks a lot of energy.
-05-03-92	3.5	Unusual Help > Slip > Frank / Same Thing to start set 1. Vocal jam in He's Gone. A lot of energy gone since the new year shows.
-06-03-92	3.5	Bob references a computer virus. Keys are too loud but work well on Bird Song. Show is competent but certainly not spectacular.
-08-03-92	3	New songs are played frequently. Wave To The Wind has a weird potential but falls flat. Best So Many Roads so far. So-so.
-09-03-92	3.5	Corrina alomst stops before being jammed into a pretty anonymous Dark Star. Morning Dew mild car crash but Jerry makes up for it.
-11-03-92	3.5	It's All Over has strange new start and end. Suprisinglg energetic from end of set 1 with good Terrapin, Last Time and Black Peter.
-12-03-92	3.5	Great Sugar Mag ending. Show had some smooth grooves and decent energy, but nothing killer. Playing reprise into drums was unusual.
-13-03-92	3	Strangly disjointed pre-drum setlist ends with Wave To The Wind. Lacking energy throught the whole show, or is it simply relaxed?
-16-03-92	3	Great BT Wind ending in first set. A jam comes out of Watchtower because the energy level is low. A pretty weak low energy show.
-17-03-92	3	Very short 6 song first set. Lacking in any energy pre drums. No immediate highlights, although not particularly terrible.
-18-03-92	3	"Say your piece and piss off". Vince is way too loud in places. Terrible quality board. Nice set list fails to ignite anywhere.
-20-03-92	4	Reasonable first set. Decent Shakedown and the Star not too bad. It's pretty good compared to the rest of the Spring tour.
-21-03-92	3.5	Good Help > Slip to start the show. Best Terrapin jam for some time. Short show, only 76 minutes for the second set. Not bad.
-23-03-92	3.5	Monster Jack Straw to open first set. With the exception of Wave To The Wind, pre drums is good. Best version of Gloria?
-19-05-92	3.5	Reasonable Terrapin (which nowadays always seem to have a mini-jam out of). Drums stops midday and insults are exchanged. Not bad.
-20-05-92	3	Decent first set had good energy. Promised Land car crash. Jams are slipping out of the second set now. A little lackluster. 
-21-05-92	3	Bob starts horribly out of tune. 2nd set full of 10 minute songs. Energy there in parts but nothing major. Gloria was decent.
-23-05-92	3	Reminding me of 88 with the lack of any jams. Vince too loud in places, and lacking Jerry. This is competent but lacks excitement.
-24-05-92	3	Jerry's guitar is consistently too low and the keys are too high. 3 new 92 shows into drums. Eyes was best of the bunch.
-25-05-92	3	Why is Vince so loud and Jerry turned down? It kills the shows. Songs also seem too short in second set. Decent Attics though.
-29-05-92	3	Another low energy show. Phil stays on for the start of drums. Can't help but feel Jerry is using again. Bit of energy at the end.
-30-05-92	3.5	Nice trumpet in Spanish jam. Not a stellar show - jams don't gel again - but it is at least a mild step up from the rest of the month.
-31-05-92	2.5	Vince too loud and busy. Second set is again full of shortish songs. Jerry turns off when Steve Miller arrives. Pretty rough.
-06-06-92	3.5	Holy smokes I can hear Jerry! Best first set of 1992 so far. Second set keeps most of the energy but fails to dive deep.
-08-06-92	4	Again Jerry seems up for it. Decent but short first set. Nice Corrina jam and short Star after drums. Best show for a while.	
-09-06-92	3.5	Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quite decent, and it's not a bad show, just lacking excitement.
-11-06-92	3.5	Jerry has definitly turned his volume down for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
-12-06-92	3	Far too many short songs in the second set, although at least we can still hear Jerry. A bit meh, which is true of too much 92.
-14-06-92	3.5	Same post drums as 31/5, also with Steve Miller, but better Jerry. Picasso Moon is 50% Vince. Drums has some sort of drum machine.
-15-06-92	3.5	Very good versions of Bird Song and So Many Roads. Drums with drum machine again? Once again with Steve Miller for parts.
-17-06-92	3.5	Very long Deal to end first set. Suprisingly jammy Estimated pre drums. Rest of the show is more average, although not anonymous.
-18-06-92	3.5	Nice relaxed Eyes in the second set. 6 min Dark Star after drums, a slightly weak Morning Dew + Satisfaction makes for unusual show.
-20-06-92	3.5	Good for the era pre-drums selection - jammy and mellow. Steve Miller again (!) but only on the last song. Post drums not as good.
-22-06-92	3	4 minute Dark Star into drums kinda sums up the whole of this tour. A splash of Spanish Jam post drums isn't enough to raise the bar.
-23-06-92	3	Jerry shits the bed in Help > Slipknot. Collection of 6 minute songs pre drums. Largely a mixed bag of dissapointment.
-25-06-92	3	Steve Miller again! Lacks any decent jamming despite some decent guests. Also lacking some energy. So Many Roads was the highlight.
-26-06-92	4	Reasonable first set for a change (and 8 songs!). Decent, albeit short jam in the Playin'. Killer Wharf Rat end. Very decent for 92.
-28-06-92	3	Help Slip better than the previous time. But songs were quite short and it never broke out to anything major. Mainly underwhelming.
-29-06-92	3.5	Reasonable first set with decent So Many Roads. Good drums after fairly anonymous pre-drums. Stella > Sugar Mags is decent ending.
-01-07-92	3	Vince ruins Picasso Moon. First set a little low on energy but Bird Song good. Fuck me, Steve Miller again. Underwhelming.
-02-12-92	3	Mickey on congos? Quite like the sound. Makes it sound even less energetic though. Really struggles to gain traction. Bit boring.
-03-12-92	3.5	No full soundboard, very unusual this late. Great setlist for set 2. Bob has terrible voice. Reasonable, but had more potential.
-05-12-92	3	First set aud only. Short pre-drums. Nothing particularly wrong, but like a lot of 92 it really struggles with energy.
-06-12-92	4	Here Comes Sunshine opener. Actually a decent first set for a change. Messy Samson. Good Playin' Reprise. Loud Weir but decent.
-11-12-92	3.5	First set is reasonable, better than earlier in the year but still needs sharpness. Bob out of tune at the end is pretty nasty.
-12-12-92	4	Garcia nearly loses it in the first set but rallies for great Bird Song. Great jam out of drums starts in Dark Star. Decent.
-13-12-92	3.5	Nice set-list but fails to really catch fire. Post drums pretty short and the Dew failed to really light up. But a decent effort.
-16-12-92	4	Nice show in the main. Another Dark Star post drums, but this cuts just as it gets good. Bob overrules Jerry at Stella Blue end!
-17-12-92	3.5	This is a long show - like a new year! First set was ok. Long show but lacks any lengthy songs. Could do with more HC Sunshine.
+22-02-92    3.5 Debut of So May Roads (good) and Wave To The Wind (wtf?). Good (long) drums. Killer Black Peter. Just a little too up and down.
+23-02-92    4   First versions of Way To Go Home (needs more pep) and Corrina. Great Playin > Terrapin leads to jungle drums. Mix was a bit so-so.
+24-02-92    4   Second set has all 4 new songs. Jam from starting from rare Other One pre drums is good. Hot drums. Oh shit, Wave to the Wind!
+01-03-92    3.5 Less adventurous show, only 34 or so minutes before drums. Nothing particulary bad, just lacked some energy and no decent jams.
+02-03-92    3   Pretty decent first set. Energy seemed to tail off significantly in the second set. Terrapin had half a jam. Around still sucks.
+03-03-92    3   Second set Playin' is decent. Best Wave To The Wind so far. Rest of show is pretty average and lacks a lot of energy.
+05-03-92    3.5 Unusual Help > Slip > Frank / Same Thing to start set 1. Vocal jam in He's Gone. A lot of energy gone since the new year shows.
+06-03-92    3.5 Bob references a computer virus. Keys are too loud but work well on Bird Song. Show is competent but certainly not spectacular.
+08-03-92    3   New songs are played frequently. Wave To The Wind has a weird potential but falls flat. Best So Many Roads so far. So-so.
+09-03-92    3.5 Corrina alomst stops before being jammed into a pretty anonymous Dark Star. Morning Dew mild car crash but Jerry makes up for it.
+11-03-92    3.5 It's All Over has strange new start and end. Suprisinglg energetic from end of set 1 with good Terrapin, Last Time and Black Peter.
+12-03-92    3.5 Great Sugar Mag ending. Show had some smooth grooves and decent energy, but nothing killer. Playing reprise into drums was unusual.
+13-03-92    3   Strangly disjointed pre-drum setlist ends with Wave To The Wind. Lacking energy throught the whole show, or is it simply relaxed?
+16-03-92    3   Great BT Wind ending in first set. A jam comes out of Watchtower because the energy level is low. A pretty weak low energy show.
+17-03-92    3   Very short 6 song first set. Lacking in any energy pre drums. No immediate highlights, although not particularly terrible.
+18-03-92    3   "Say your piece and piss off". Vince is way too loud in places. Terrible quality board. Nice set list fails to ignite anywhere.
+20-03-92    4   Reasonable first set. Decent Shakedown and the Star not too bad. It's pretty good compared to the rest of the Spring tour.
+21-03-92    3.5 Good Help > Slip to start the show. Best Terrapin jam for some time. Short show, only 76 minutes for the second set. Not bad.
+23-03-92    3.5 Monster Jack Straw to open first set. With the exception of Wave To The Wind, pre drums is good. Best version of Gloria?
+19-05-92    3.5 Reasonable Terrapin (which nowadays always seems to have a mini-jam out of). Drums stops midday and insults are exchanged. Not bad.
+20-05-92    3   Decent first set had good energy. Promised Land car crash. Jams are slipping out of the second set now. A little lackluster. 
+21-05-92    3   Bob starts horribly out of tune. 2nd set full of 10 minute songs. Energy there in parts but nothing major. Gloria was decent.
+23-05-92    3   Reminding me of 88 with the lack of any jams. Vince too loud in places, and lacking Jerry. This is competent but lacks excitement.
+24-05-92    3   Jerry's guitar is consistently too low and the keys are too high. 3 new 92 shows into drums. Eyes was best of the bunch.
+25-05-92    3   Why is Vince so loud and Jerry turned down? It kills the shows. Songs also seem too short in second set. Decent Attics though.
+29-05-92    3   Another low energy show. Phil stays on for the start of drums. Can't help but feel Jerry is using again. Bit of energy at the end.
+30-05-92    3.5 Nice trumpet in Spanish jam. Not a stellar show - jams don't gel again - but it is at least a mild step up from the rest of the month.
+31-05-92    2.5 Vince too loud and busy. Second set is again full of shortish songs. Jerry turns off when Steve Miller arrives. Pretty rough.
+06-06-92    3.5 Holy smokes I can hear Jerry! Best first set of 1992 so far. Second set keeps most of the energy but fails to dive deep.
+08-06-92    4   Again Jerry seems up for it. Decent but short first set. Nice Corrina jam and short Star after drums. Best show for a while.    
+09-06-92    3.5 Vince's solos are crazy loud. Very harsh stereo in drums. Eyes is quite decent, and it's not a bad show, just lacking excitement.
+11-06-92    3.5 Jerry has definitly turned his volume down for the last few shows. Nice Playin' > Uncle Johns. A little flat post drums space.
+12-06-92    3   Far too many short songs in the second set, although at least we can still hear Jerry. A bit meh, which is true of too much 92.
+14-06-92    3.5 Same post drums as 31/5, also with Steve Miller, but better Jerry. Picasso Moon is 50% Vince. Drums has some sort of drum machine.
+15-06-92    3.5 Very good versions of Bird Song and So Many Roads. Drums with drum machine again? Once again with Steve Miller for parts.
+17-06-92    3.5 Very long Deal to end first set. Suprisingly jammy Estimated pre drums. Rest of the show is more average, although not anonymous.
+18-06-92    3.5 Nice relaxed Eyes in the second set. 6 min Dark Star after drums, a slightly weak Morning Dew + Satisfaction makes for unusual show.
+20-06-92    3.5 Good for the era pre-drums selection - jammy and mellow. Steve Miller again (!) but only on the last song. Post drums not as good.
+22-06-92    3   4 minute Dark Star into drums kinda sums up the whole of this tour. A splash of Spanish Jam post drums isn't enough to raise the bar.
+23-06-92    3   Jerry shits the bed in Help > Slipknot. Collection of 6 minute songs pre drums. Largely a mixed bag of dissapointment.
+25-06-92    3   Steve Miller again! Lacks any decent jamming despite some decent guests. Also lacking some energy. So Many Roads was the highlight.
+26-06-92    4   Reasonable first set for a change (and 8 songs!). Decent, albeit short jam in the Playin'. Killer Wharf Rat end. Very decent for 92.
+28-06-92    3   Help Slip better than the previous time. But songs were quite short and it never broke out to anything major. Mainly underwhelming.
+29-06-92    3.5 Reasonable first set with decent So Many Roads. Good drums after fairly anonymous pre-drums. Stella > Sugar Mags is decent ending.
+01-07-92    3   Vince ruins Picasso Moon. First set a little low on energy but Bird Song good. Fuck me, Steve Miller again. Underwhelming.
+02-12-92    3   Mickey on congos? Quite like the sound. Makes it sound even less energetic though. Really struggles to gain traction. Bit boring.
+03-12-92    3.5 No full soundboard, very unusual this late. Great setlist for set 2. Bob has terrible voice. Reasonable, but had more potential.
+05-12-92    3   First set aud only. Short pre-drums. Nothing particularly wrong, but like a lot of 92 it really struggles with energy.
+06-12-92    4   Here Comes Sunshine opener. Actually a decent first set for a change. Messy Samson. Good Playin' Reprise. Loud Weir but decent.
+11-12-92    3.5 First set is reasonable, better than earlier in the year but still needs sharpness. Bob out of tune at the end is pretty nasty.
+12-12-92    4   Garcia nearly loses it in the first set but rallies for great Bird Song. Great jam out of drums starts in Dark Star. Decent.
+13-12-92    3.5 Nice set-list but fails to really catch fire. Post drums pretty short and the Dew failed to really light up. But a decent effort.
+16-12-92    4   Nice show in the main. Another Dark Star post drums, but this cuts just as it gets good. Bob overrules Jerry at Stella Blue end!
+17-12-92    3.5 This is a long show - like a new year! First set was ok. Long show but lacks any lengthy songs. Could do with more HC Sunshine.
 
-24-01-93	3.5	Bird Songs have all been pretty long recently. Very decent Black Peter. Best parts were end of set 1 and start of set 2.
-25-01-93	3	Shakedown is the most jammy opening to a show in a long while. Rest is not as good. Bobby out of tune pre-drums. Ends with a whimper.
-26-01-93	3.5	With Carlos Santana post drums. Setlist looks like there is some major jamming but it turned not to be. Some fun, but not a classic.
-21-02-93	3	3 new songs, all a bit slow and lacking energy. This continues throughout the show. Samson > Drums? Subdued for the whole show.
-22-02-93	3	SBD mix is all over the place, with voices low and Bob high. Improved Wave To The Wind. Days Between was best part of show.
-23-02-93	3.5	Last show with Wolf. Best PITB jam for some time. Space onwards with Ornette Coleman. He's good, but a bit wasted on the songs.
-09-03-93	3.5	Another good Playing jam. Old school 2nd set setlist. Good Black Peter in the second half. Good show, missing a bit of spark.
-10-03-93	4	Good versions of 3 new songs into drums. Decent Mind Left Body into drums. Drums onward is relaxed but totally in control.
-11-03-93	4	Always good to open with Help > Slip! Drums and Space with Ken Nordine. Days Between is a great song. Quite enjoyable.
-14-03-93	3.5	First "I fought the law". Jerry forgets Touch Of Grey vocals. These shows are better than 92 but need some more jamming in them.
-16-03-93	3.5	Good pre-drums but a short and underwhelming post-drums ruins the mood. Strangly, Morning Dew runs out of steam at the end.
-17-03-93	4	Only 10 minutes, the Dark Star here actually cut short the excellent Playin' jam. Days Between again very good. LSD encore.
-18-03-93	3.5	With Bruce and a little too much accordian at times. Longish Terrapin Jam but nowadays longevity does not always mean much.
-20-03-93	3.5	Another long Bird Song. Decent enough, but takes far too long to get to the best parts, which is mainly the high energy end.
-21-03-93	3.5	End of space is really good, almost a mini-tiger. Whole show is very decent but lacks some jams, with too many shortish songs.
-22-03-93	3.5	Decent Help Slip as the first set starts well and is compentently played, but set 2 does not continue where the first left off.
-24-03-93	4.5	Good jam from Crazy Fingers into drums via an almost Playing reprise. Everything after drums is golden, and with a Spanish jam!
-25-03-93	4	Cracking Dew tops a pretty decent second set. Maybe too many new numbers (Way to go Home after space)? but a decent show overall.
-27-03-93	3.5	Final Casey Jones. Whole show is pretty reasonable but lacks any killer moments, although the rare Comes a Time was a highlight.
-28-03-93	3.5	Fairly normal show eclipsed by the best version of Attics post drums. Rest is fairly reasonable but Heavens Door encore is good.
-29-03-93	3	Fairly ho-hum show. 1993 so far ebbs and flows. Sometimes great but more often a little so-so. This is one of the latter.
-31-03-93	3.5	Playing > Uncle Johns pre-drums was nice, but too short. Long jamming has really gone now. Short post drums but Sugar Mag decent.
-01-04-93	3	Suffers from bad setlist syndrome, what with Wave to the Wind pre drums and Way To Go Home after. Also lacks a bit of energy. 
-02-04-93	3	Jerry's voice a little shot. Another ho hum show, with no obvious standouts. The band can shine in 93, they just don't do it often.
-04-04-93	3	Midnight Hour opener! Reasonable first set with decent Bird Song closer. Second set was like recent ones, no real surprises.
-05-04-93	2.5	Good set list with great Music > Deal ending. Second set list is pretty ropey, and SQ dips terribly. Worst 2nd set for some time.
-14-05-93	3	A Way To Go Home > Corrina seems to kill the second set pre-drums. Rest is as you'd expect from '93. Less new songs would be good.
-15-05-93	3.5	First set has really spacy Bird Song to close with. Argument off stage in drums: "You call that music?!". Actually has jamming.
-16-05-93	4	The setlist is great, and the playing is fairly decent for 93. Not a bad attempt even though Bobby's voice seems to die at the end.
-21-05-93	3	Typical 93 gets more typical as the year goes on. Not particularly special bad, but it has many mistakes (Estimated, He's Gone, Dew)
-22-05-93	3.5	Like the previous night, the first set is better than the 2nd. Corrina has a reasonable jam. Enjoyable drums and decent Stella Blue.
-23-05-93	3.5	Very decent Bird Song. Another very different drums, a bit Vangelis again. Run from Terrapin onwards is decent for the period.
-25-05-93	3	First set maybe better then the second. Pretty long Eyes opens up the second set but the rest of the set is far less exciting.
-26-05-93	4	Solid opener. Finally a long meaty jam - likely the best Playing since 1988 or so, and almost on a par with 73 versions.
-27-05-93	3.5	Setlist is pretty unusual. Picasso > Fire? Split Cassidy pre drums? Wave to the Wind is actually listenable. Not bad in parts.
-05-06-93	3.5	First set not bad, even with Easy answers. Estimated > Drums > Space is all good stuff. Stella Blue is a minor car crash.
-08-06-93	4	Spectacular car crash in Playin', of all songs. They make up for it in the jam after. Corrina post drums though. Not bad.
-09-06-93	3.5	Bobby's voice getting more raspy as the tour continues. Another decent first set. Short but good Terrapin jam. Good Wharf Rat.
-11-06-93	3	5 song first set, although has a pretty long 2nd set. Second set starts well but a long Corrina jam sucks the energy out.
-13-06-93	3	Killer Deal to end first set. Rest of 2nd set was a set of 9 minute songs with minimal jams. Acoustic guitar from Bob for LLR.
-15-06-93	3.5	All round not a bad show but no real killer highlights. However, there were no new songs and everything was pleasant enough.
-16-06-93	3	Don't Ease to end set 1 for 2 shows? Stella Blue and post drums was not too bad but there was a lack of excitement getting there. 
-18-06-93	3.5	Quite a few radio glitches through the PA. These shows recently feel like "Dead Lite". A decent setlist but lacks the unknown.
-19-06-93	3.5	Bob: "Less click please". Really good version of Standing On The Moon. Deal was also decent, rest of show a more usual 1993.
-21-06-93	3	Best So Many Roads to date. Second sets now are more like first sets with extended drums > space. Around x 2 end is not good.
-22-06-93	3.5	Setlist was decent, and that helps a lot this year. Retained some energy up to the encore. Limited exploration spoils things.
-23-06-93	4.5	Stunning, aggressive Terrapin jam into drums. Dark Star after drums is more like an appertif. Hunter's birthday, apparently.
-25-06-93	3	Entire show is with Bruce's accordian?! Bit lacking in jams but made up for in energy. Tails off in the second set. So-so.
-26-06-93	4	Nothing special until the Playin' jam, which is another decent one. Jam keeps going in Terrapin! Less exciting post drums.
-21-08-93	3.5	First show with Lightning bolt. Unusual (for the era) bluesy pre-drums second set. Nice but no real suprises or excitement.
-22-08-93	3	Bit by the numbers, despite that second set Help > Slip opening. Drums / space is getting very long. Could have been more dynamic.
-25-08-93	3.5	Terrapin is a little shaky to start but Jerry has great tone and energy for the outro jam. Hard to escape from that 93 vibe though.
-26-08-93	3	It's a bit mellow and not very jammy but this show had a nice relaxed vibe to it. Around x 2 at the end sucks all the energy.
-27-08-93	3.5	Another good Summer 93 Playin'. That and Terrapin are the songs of the year. Bob out of tune for the whole of post-drums.
-09-09-93	3.5	Not really very exciting, but it does have a killer Morning Dew to close set 2, and that's always a good thing in my book.
-10-09-93	3	Decent first set. Second set is again the normal 10 minute songs. Corrina again removes energy. Nice Attics post drums.
-12-09-93	3	First set was ok but there little of substance here. Seems the band can turn up for a couple of songs but not a whole set.
-13-09-93	3.5	Playin' > Dark Star is only 14 minutes? Terrapin jam that follows is much more substantial, and the post isn't too bad either.
-14-09-93	3	Jerry is missing lyrics more often. It's still the Grateful Dead, minus any real surprises and / or jamming of any significance.
-16-09-93	3	Rain opener. Not terrible but no real fire. The new songs are not that bad but it seems the band can't lean into them enough.
-17-09-93	3.5	Another show that is more a collection of songs. Run into drums not too bad. Unusual "That Would Be Something". Very good SOTM.
-18-09-93	3	Corrina > Drums yet again, feels like a missed oppurtunity. First set was ok but nothing grabbed. At least not many new songs.
-20-09-93	3.5	High energy opener starts a decent first set. Good space with singer Edie Brickell. Dew was decent, but no stand-outs.
-21-09-93	3.5	Decent first set. Another PITB > Terrapin in the second set, a fairly decent jam. Lacks fire after D/S though. Needs energy.
-22-09-93	4.5	Dave Murray is the best sax player to guest. The jams are short but they sure are spacey. Has to be the show of the year.
-24-09-93	3	Days Between was decent but the rest of this show was way more middling. Scarlet > Fire was long but really lacking energy.
-25-09-93	3	Foolish Heart and Corrina have some length but don't really go anywhere. Another I Fought The Law: encores in 93 are bad.
-26-09-93	3	Jerry plays a different tune in Maggies Farm. He's out of most of the first set. And then he raises the roof with SOTM to close!
-28-09-93	3.5	Stumbling over some words is starting to get common for Jerry. Show is normal except for another very beefy Playin pre-drums.
-29-09-93	3	T. Jed to close first set? Eyes 17 mins? Terrapin 26? Unfortunatly length does not mean excitement, and the jams are just space.
-30-09-93	3	Post drums Other One had some energy and fizz, rest of show bit more of a doozy. Certainly a consistent show seems beyond them.
-08-12-93	3	Decent set 2 setlist, although encore terrible as normal. Decent space and an unusual jam into Last Time (which is messed up).
-09-12-93	3	Drums with Airto and Flora; post drums with Ornette Coleman. They are the best bits, otherwise this show is pretty sub-par.
-10-12-93	3	Yawn-a-thon show despite the presence of Branford. Nothing is terrible, but there is also zero interaction with the sax player.
-12-12-93		
-13-12-93	3.5	Best LSD so far to start 2nd set. Decent Eyes and Days Between. It's not spectacular, but this is a pretty enjoyable show.
-17-12-93	3	Jerry mumbles a song every show. Jerry has new pitchshifter. Screw up in Help leads to decent Slipknot. Struggles for energy.
-18-12-93	4	Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic but very decent for 93.
-19-12-93	3	Another very long show for the last one of the year. Not a bad show but lacks highlights and Jerry is a bit all over the place.
+24-01-93    3.5 Bird Songs have all been pretty long recently. Very decent Black Peter. Best parts were end of set 1 and start of set 2.
+25-01-93    3   Shakedown is the most jammy opening to a show in a long while. Rest is not as good. Bobby out of tune pre-drums. Ends with a whimper.
+26-01-93    3.5 With Carlos Santana post drums. Setlist looks like there is some major jamming but it turned not to be. Some fun, but not a classic.
+21-02-93    3   3 new songs, all a bit slow and lacking energy. This continues throughout the show. Samson > Drums? Subdued for the whole show.
+22-02-93    3   SBD mix is all over the place, with voices low and Bob high. Improved Wave To The Wind. Days Between was best part of show.
+23-02-93    3.5 Last show with Wolf. Best PITB jam for some time. Space onwards with Ornette Coleman. He's good, but a bit wasted on the songs.
+09-03-93    3.5 Another good Playing jam. Old school 2nd set setlist. Good Black Peter in the second half. Good show, missing a bit of spark.
+10-03-93    4   Good versions of 3 new songs into drums. Decent Mind Left Body into drums. Drums onward is relaxed but totally in control.
+11-03-93    4   Always good to open with Help > Slip! Drums and Space with Ken Nordine. Days Between is a great song. Quite enjoyable.
+14-03-93    3.5 First "I fought the law". Jerry forgets Touch Of Grey vocals. These shows are better than 92 but need some more jamming in them.
+16-03-93    3.5 Good pre-drums but a short and underwhelming post-drums ruins the mood. Strangly, Morning Dew runs out of steam at the end.
+17-03-93    4   Only 10 minutes, the Dark Star here actually cut short the excellent Playin' jam. Days Between again very good. LSD encore.
+18-03-93    3.5 With Bruce and a little too much accordian at times. Longish Terrapin Jam but nowadays longevity does not always mean much.
+20-03-93    3.5 Another long Bird Song. Decent enough, but takes far too long to get to the best parts, which is mainly the high energy end.
+21-03-93    3.5 End of space is really good, almost a mini-tiger. Whole show is very decent but lacks some jams, with too many shortish songs.
+22-03-93    3.5 Decent Help Slip as the first set starts well and is compentently played, but set 2 does not continue where the first left off.
+24-03-93    4.5 Good jam from Crazy Fingers into drums via an almost Playing reprise. Everything after drums is golden, and with a Spanish jam!
+25-03-93    4   Cracking Dew tops a pretty decent second set. Maybe too many new numbers (Way to go Home after space)? but a decent show overall.
+27-03-93    3.5 Final Casey Jones. Whole show is pretty reasonable but lacks any killer moments, although the rare Comes a Time was a highlight.
+28-03-93    3.5 Fairly normal show eclipsed by the best version of Attics post drums. Rest is fairly reasonable but Heavens Door encore is good.
+29-03-93    3   Fairly ho-hum show. 1993 so far ebbs and flows. Sometimes great but more often a little so-so. This is one of the latter.
+31-03-93    3.5 Playing > Uncle Johns pre-drums was nice, but too short. Long jamming has really gone now. Short post drums but Sugar Mag decent.
+01-04-93    3   Suffers from bad setlist syndrome, what with Wave to the Wind pre drums and Way To Go Home after. Also lacks a bit of energy. 
+02-04-93    3   Jerry's voice a little shot. Another ho hum show, with no obvious standouts. The band can shine in 93, they just don't do it often.
+04-04-93    3   Midnight Hour opener! Reasonable first set with decent Bird Song closer. Second set was like recent ones, no real surprises.
+05-04-93    2.5 Good set list with great Music > Deal ending. Second set list is pretty ropey, and SQ dips terribly. Worst 2nd set for some time.
+14-05-93    3   A Way To Go Home > Corrina seems to kill the second set pre-drums. Rest is as you'd expect from '93. Less new songs would be good.
+15-05-93    3.5 First set has really spacy Bird Song to close with. Argument off stage in drums: "You call that music?!". Actually has jamming.
+16-05-93    4   The setlist is great, and the playing is fairly decent for 93. Not a bad attempt even though Bobby's voice seems to die at the end.
+21-05-93    3   Typical 93 gets more typical as the year goes on. Not particularly special bad, but it has many mistakes (Estimated, He's Gone, Dew)
+22-05-93    3.5 Like the previous night, the first set is better than the 2nd. Corrina has a reasonable jam. Enjoyable drums and decent Stella Blue.
+23-05-93    3.5 Very decent Bird Song. Another very different drums, a bit Vangelis again. Run from Terrapin onwards is decent for the period.
+25-05-93    3   First set maybe better then the second. Pretty long Eyes opens up the second set but the rest of the set is far less exciting.
+26-05-93    4   Solid opener. Finally a long meaty jam - likely the best Playing since 1988 or so, and almost on a par with 73 versions.
+27-05-93    3.5 Setlist is pretty unusual. Picasso > Fire? Split Cassidy pre drums? Wave to the Wind is actually listenable. Not bad in parts.
+05-06-93    3.5 First set not bad, even with Easy answers. Estimated > Drums > Space is all good stuff. Stella Blue is a minor car crash.
+08-06-93    4   Spectacular car crash in Playin', of all songs. They make up for it in the jam after. Corrina post drums though. Not bad.
+09-06-93    3.5 Bobby's voice getting more raspy as the tour continues. Another decent first set. Short but good Terrapin jam. Good Wharf Rat.
+11-06-93    3   5 song first set, although has a pretty long 2nd set. Second set starts well but a long Corrina jam sucks the energy out.
+13-06-93    3   Killer Deal to end first set. Rest of 2nd set was a set of 9 minute songs with minimal jams. Acoustic guitar from Bob for LLR.
+15-06-93    3.5 All round not a bad show but no real killer highlights. However, there were no new songs and everything was pleasant enough.
+16-06-93    3   Don't Ease to end set 1 for 2 shows? Stella Blue and post drums was not too bad but there was a lack of excitement getting there. 
+18-06-93    3.5 Quite a few radio glitches through the PA. These shows recently feel like "Dead Lite". A decent setlist but lacks the unknown.
+19-06-93    3.5 Bob: "Less click please". Really good version of Standing On The Moon. Deal was also decent, rest of show a more usual 1993.
+21-06-93    3   Best So Many Roads to date. Second sets now are more like first sets with extended drums > space. Around x 2 end is not good.
+22-06-93    3.5 Setlist was decent, and that helps a lot this year. Retained some energy up to the encore. Limited exploration spoils things.
+23-06-93    4.5 Stunning, aggressive Terrapin jam into drums. Dark Star after drums is more like an appertif. Hunter's birthday, apparently.
+25-06-93    3   Entire show is with Bruce's accordian?! Bit lacking in jams but made up for in energy. Tails off in the second set. So-so.
+26-06-93    4   Nothing special until the Playin' jam, which is another decent one. Jam keeps going in Terrapin! Less exciting post drums.
+21-08-93    3.5 First show with Lightning bolt. Unusual (for the era) bluesy pre-drums second set. Nice but no real suprises or excitement.
+22-08-93    3   Bit by the numbers, despite that second set Help > Slip opening. Drums / space is getting very long. Could have been more dynamic.
+25-08-93    3.5 Terrapin is a little shaky to start but Jerry has great tone and energy for the outro jam. Hard to escape from that 93 vibe though.
+26-08-93    3   It's a bit mellow and not very jammy but this show had a nice relaxed vibe to it. Around x 2 at the end sucks all the energy.
+27-08-93    3.5 Another good Summer 93 Playin'. That and Terrapin are the songs of the year. Bob out of tune for the whole of post-drums.
+09-09-93    3.5 Not really very exciting, but it does have a killer Morning Dew to close set 2, and that's always a good thing in my book.
+10-09-93    3   Decent first set. Second set is again the normal 10 minute songs. Corrina again removes energy. Nice Attics post drums.
+12-09-93    3   First set was ok but there little of substance here. Seems the band can turn up for a couple of songs but not a whole set.
+13-09-93    3.5 Playin' > Dark Star is only 14 minutes? Terrapin jam that follows is much more substantial, and the post isn't too bad either.
+14-09-93    3   Jerry is missing lyrics more often. It's still the Grateful Dead, minus any real surprises and / or jamming of any significance.
+16-09-93    3   Rain opener. Not terrible but no real fire. The new songs are not that bad but it seems the band can't lean into them enough.
+17-09-93    3.5 Another show that is more a collection of songs. Run into drums not too bad. Unusual "That Would Be Something". Very good SOTM.
+18-09-93    3   Corrina > Drums yet again, feels like a missed oppurtunity. First set was ok but nothing grabbed. At least not many new songs.
+20-09-93    3.5 High energy opener starts a decent first set. Good space with singer Edie Brickell. Dew was decent, but no stand-outs.
+21-09-93    3.5 Decent first set. Another PITB > Terrapin in the second set, a fairly decent jam. Lacks fire after D/S though. Needs energy.
+22-09-93    4.5 Dave Murray is the best sax player to guest. The jams are short but they sure are spacey. Has to be the show of the year.
+24-09-93    3   Days Between was decent but the rest of this show was way more middling. Scarlet > Fire was long but really lacking energy.
+25-09-93    3   Foolish Heart and Corrina have some length but don't really go anywhere. Another I Fought The Law: encores in 93 are bad.
+26-09-93    3   Jerry plays a different tune in Maggies Farm. He's out of most of the first set. And then he raises the roof with SOTM to close!
+28-09-93    3.5 Stumbling over some words is starting to get common for Jerry. Show is normal except for another very beefy Playin pre-drums.
+29-09-93    3   T. Jed to close first set? Eyes 17 mins? Terrapin 26? Unfortunatly length does not mean excitement, and the jams are just space.
+30-09-93    3   Post drums Other One had some energy and fizz, rest of show bit more of a doozy. Certainly a consistent show seems beyond them.
+08-12-93    3   Decent set 2 setlist, although encore terrible as normal. Decent space and an unusual jam into Last Time (which is messed up).
+09-12-93    3   Drums with Airto and Flora; post drums with Ornette Coleman. They are the best bits, otherwise this show is pretty sub-par.
+10-12-93    3   Yawn-a-thon show despite the presence of Branford. Nothing is terrible, but there is also zero interaction with the sax player.
+12-12-93        
+13-12-93    3.5 Best LSD so far to start 2nd set. Decent Eyes and Days Between. It's not spectacular, but this is a pretty enjoyable show.
+17-12-93    3   Jerry mumbles a song every show. Jerry has new pitchshifter. Screw up in Help leads to decent Slipknot. Struggles for energy.
+18-12-93    4   Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic but very decent for 93.
+19-12-93    3   Another very long show for the last one of the year. Not a bad show but lacks highlights and Jerry is a bit all over the place.
 
-25-02-94	3.5	No SBD - very rare nowadays. Slow burning gig gets slowly better as it goes. Surprisingly energetic at the end of the show.
-26-02-94	3.5	Another AUD. Eyes > Estimated > Terrapin is 49 minutes long! Estimated is decent. Bob does the SOTM solo. Not so bad.
-27-02-94	3.5	Infamous 40 second Cosmic Charlie tease. So very cruel. Very good UJB jam. Sombre, MIDI filled space. Rest was solid enough.
-04-03-94	3	First electric show with Bob playing acoustic? Musically ok but energetically very flat, especially the Throwing Stones end.
-06-03-94	3	Apparently the last show with soundman Dan Healy. Slightly new up-tempo Stella Blue ending. Rest of show was quite flat though.
-16-03-94	3.5	Opens real hot. Good set all the way to Easy Answers. Penultimate - and fast - Dark Star. Nice moments, needed a real highlight.
-17-03-94	3.5	Early 94 sounds like 93 and possibly better than 92. Decent Playin > Uncle Johns. Surprisingly good Dew to finish the 2nd set.
-18-03-94	3.5	Good first set sets up potential decent show but is nullified by lack of energy on the backend. Around x 2 always kills me now.
-20-03-94	3	Yet another AUD, and not great either. Had some energy in the second set but largely anonymous and the AUD did not help out.
-21-03-94	4	Car crash at end of Greatest Story. For the era, a killer set list. Monster of a Stella Blue, and best Lovelight since 1972.
-23-03-94	3.5	Another decent set list. Show is not as good as the previous night but the Jerry ballads hold up well and energy stays to the end.
-24-03-94	3	Another AUD, and it's not even a particularly good one. Show lacks cohesion and energy, and no Jerry ballad post drums. Boring.
-25-03-94	3	And still the AUD's continue, and this pretty bad as well. Hornsby all show, but annoyingly on accordian. Lacklustre show.
-27-03-94	3.5	Finally a SBD. Show starts well, dips in the middle but ends with a totally killer Morning Dew. Still, needed cohesion.
-28-03-94	3	Mainly an AUD again. Unusual GDTRFB into drums. Pretty tame thorughout, although not played badly. Lacks spark and energy.
-30-03-94	3.5	Final Dark Star. Classic setlist for the whole second set. Vince lazily does the Pigpen riff. Jams lack any depth or imagination.
-31-03-94	3.5	20 mins for both Eyes and space. 2nd set ends on SOTM. The usual lack of dynamics and jamming for the period, but longer.
-01-04-94	3	Picasso Moon almost falls apart. Songs now can be long but lacking in adventure. Drums / Space is too long - 31 minutes here!
-04-04-94	3.5	Opening Slipknot is a mess. What follows is mainly pretty decent. For 94, this is a good show. Terrapin jam is pretty good.
-06-04-94	2.5	Another AUD - not this many since 1979 or so. Also another SOTM 2nd set closer. Rest of show features almost no jamming.
-07-04-94	3	A 6 song second set - seems the norm. Eyes > Playing > Terrapin either too slow or butchered. Saved partly by the jam into drums.
-08-04-94	2.5	The flood of AUDs continue - and this is rough quality. Setlist is a turn off. Even has Around and then IFTL to exit. Not good.
-08-06-94	2.5	Another AUD. Many shouts of "Turn it up!". Pretty ropey, Samba In The Rain first time played as well. Jerry wakes up for SOTM.
-09-06-94	3	AUD seems to be the standard now. Deal is awful. Minor reggae jam after He's Gone. Jerry is sometimes there, sometimes not.
-10-06-94	2.5	Of course an AUD. Jerry is sometimes in the uncanny valley. Sugar Mag > Touch interesting. Clunky in places, and uneven throughout.
-13-06-94	3	This AUD is probably the worst of them all so far, and the show fails to exit. Morning Dew the only saving grace at the very end.
-14-06-94	3	Finally a SBD. So many modern songs. Not sure what to make of Samba In The Rain. 30 minutes of space! Average for Summer 94.
-17-06-94	3	First set Jerry is pretty absent. Samba isn't too bad but Jerry does not attack it at all. NFA has a proper stopped ending.
-18-06-94	3	Not particularly bad but it doesn't inspire in any way. Second set lacks energy throught. Drums and space are getting too long.
-19-06-94	3.5	Another 30min+ Scarlet Fire, but it doesn't go anywhere. for the period though, this is the first decent show for quite a while.
-24-06-94	2.5	Fairly rough aud considering the time period. Really nothing of excitement here, fluffed lyrics and low energy are everywhere.
-25-06-94	3	Not a bad show for 94 but tough to really say any of it was of quality. Lack of fire. If The Shoe Fits isn't too bad here.
-26-06-94	3.5	Second set is 117 minutes long! It actully has some jamming as well, unfortunatly Jerry doesn't add much and too many mistakes.
-01-07-94	3	"I Want To Tell You" new cover was fun. Playing jam was semi-decent, leading to a nice drums. On the whole not too bad for 94.
-02-07-94	3	Has some positives (mainly the setlist and the 2nd set opening Help > Slipknot) but gain falls down due to a lack of energy.
-03-07-94	3.5	Very short but the first set was ok. Second set has some energy. Drums was killer! Have to say Corrina post drums doesn't work.
-13-07-94	3	First set one of the best for some time. Show really dies after decent Truckin > New Speedway Boogie. Car crash in US Blues encore.
-16-07-94	2.5	Another AUD only. It's like the Grateful Dead, but on mogadon. Really no energy or attack. Drums still ok. Uninspiring.
-17-07-94	2.5	Sloppy, uninspired and lacking energy. Also, the audience tape wasn't that great. It's like a really lazy Jerry showing up here.
-19-07-94	4	Decent first set with some energy. PITB is quite clearly the jam of the year so far. Lacks energy after drums, but decent enough.
-20-07-94	3.5	First Childhoods End. Wtf? First Matilda was also a strange one. Great sounding tape. Good post drums including a rocking JB Goode.
-21-07-94	3	Help > Slip > Franklins into drums was the highlight of this faiely average 94 show. Low energy is again the mood killer.
-23-07-94	3	The Playin' > Terrapin jam was pretty reasonable but there's a lack of energy around it. Also, 25 minute space is definitly too long.
-24-07-94	2.5	Yet another AUD. Strange set-list, it's like none of the songs have a real flow in set 2. Lot of length, but lacking in fireworks.
-26-07-94	4	Second set starts with a decent China > Rider. Longest Estimated ever (20 mins). Very decent pre-drums. Really a decent show!
-27-07-94	2.5	Some length: Corrina 20m, Days Between 15m, Let It Grow 15m. Nothing much of interest in those sections though. Pretty boring.
-29-07-94	2.5	Bobby asks "Eternity?", crowd on AUD says no! First set is largely terrible. Second set is just plain boring mediocrity.
-31-07-94	3.5	First set doesn't start well but energy picks up later. For 1994, this was surprisingly high energy, just lacked Jerry solos.
-01-08-94	3.5	Jerry's last birthday show. Childhoods End is a bad song. The space is one of the best for a long long time. Good post-drums.
-03-08-94	2.5	Gets slated on archive but maybe for the setlist. It's not great and Jerry mainly fails to show. Foolish Heart was decent enough.
-04-08-94	2.5	Yet another AUD. 94 is the worst for this since 78. SQ ain't great and Jerry is mainly MIA. Arguing in the audience as well.
-16-09-94		Another rough aud for the first set.
-17-09-94
+25-02-94    3.5 No SBD - very rare nowadays. Slow burning gig gets slowly better as it goes. Surprisingly energetic at the end of the show.
+26-02-94    3.5 Another AUD. Eyes > Estimated > Terrapin is 49 minutes long! Estimated is decent. Bob does the SOTM solo. Not so bad.
+27-02-94    3.5 Infamous 40 second Cosmic Charlie tease. So very cruel. Very good UJB jam. Sombre, MIDI filled space. Rest was solid enough.
+04-03-94    3   First electric show with Bob playing acoustic? Musically ok but energetically very flat, especially the Throwing Stones end.
+06-03-94    3   Apparently the last show with soundman Dan Healy. Slightly new up-tempo Stella Blue ending. Rest of show was quite flat though.
+16-03-94    3.5 Opens real hot. Good set all the way to Easy Answers. Penultimate - and fast - Dark Star. Nice moments, needed a real highlight.
+17-03-94    3.5 Early 94 sounds like 93 and possibly better than 92. Decent Playin > Uncle Johns. Surprisingly good Dew to finish the 2nd set.
+18-03-94    3.5 Good first set sets up potential decent show but is nullified by lack of energy on the backend. Around x 2 always kills me now.
+20-03-94    3   Yet another AUD, and not great either. Had some energy in the second set but largely anonymous and the AUD did not help out.
+21-03-94    4   Car crash at end of Greatest Story. For the era, a killer set list. Monster of a Stella Blue, and best Lovelight since 1972.
+23-03-94    3.5 Another decent set list. Show is not as good as the previous night but the Jerry ballads hold up well and energy stays to the end.
+24-03-94    3   Another AUD, and it's not even a particularly good one. Show lacks cohesion and energy, and no Jerry ballad post drums. Boring.
+25-03-94    3   And still the AUD's continue, and this pretty bad as well. Hornsby all show, but annoyingly on accordian. Lacklustre show.
+27-03-94    3.5 Finally a SBD. Show starts well, dips in the middle but ends with a totally killer Morning Dew. Still, needed cohesion.
+28-03-94    3   Mainly an AUD again. Unusual GDTRFB into drums. Pretty tame thorughout, although not played badly. Lacks spark and energy.
+30-03-94    3.5 Final Dark Star. Classic setlist for the whole second set. Vince lazily does the Pigpen riff. Jams lack any depth or imagination.
+31-03-94    3.5 20 mins for both Eyes and space. 2nd set ends on SOTM. The usual lack of dynamics and jamming for the period, but longer.
+01-04-94    3   Picasso Moon almost falls apart. Songs now can be long but lacking in adventure. Drums / Space is too long - 31 minutes here!
+04-04-94    3.5 Opening Slipknot is a mess. What follows is mainly pretty decent. For 94, this is a good show. Terrapin jam is pretty good.
+06-04-94    2.5 Another AUD - not this many since 1979 or so. Also another SOTM 2nd set closer. Rest of show features almost no jamming.
+07-04-94    3   A 6 song second set - seems the norm. Eyes > Playing > Terrapin either too slow or butchered. Saved partly by the jam into drums.
+08-04-94    2.5 The flood of AUDs continue - and this is rough quality. Setlist is a turn off. Even has Around and then IFTL to exit. Not good.
+08-06-94    2.5 Another AUD. Many shouts of "Turn it up!". Pretty ropey, Samba In The Rain first time played as well. Jerry wakes up for SOTM.
+09-06-94    3   AUD seems to be the standard now. Deal is awful. Minor reggae jam after He's Gone. Jerry is sometimes there, sometimes not.
+10-06-94    2.5 Of course an AUD. Jerry is sometimes in the uncanny valley. Sugar Mag > Touch interesting. Clunky in places, and uneven throughout.
+13-06-94    3   This AUD is probably the worst of them all so far, and the show fails to exit. Morning Dew the only saving grace at the very end.
+14-06-94    3   Finally a SBD. So many modern songs. Not sure what to make of Samba In The Rain. 30 minutes of space! Average for Summer 94.
+17-06-94    3   First set Jerry is pretty absent. Samba isn't too bad but Jerry does not attack it at all. NFA has a proper stopped ending.
+18-06-94    3   Not particularly bad but it doesn't inspire in any way. Second set lacks energy throught. Drums and space are getting too long.
+19-06-94    3.5 Another 30min+ Scarlet Fire, but it doesn't go anywhere. for the period though, this is the first decent show for quite a while.
+24-06-94    2.5 Fairly rough aud considering the time period. Really nothing of excitement here, fluffed lyrics and low energy are everywhere.
+25-06-94    3   Not a bad show for 94 but tough to really say any of it was of quality. Lack of fire. If The Shoe Fits isn't too bad here.
+26-06-94    3.5 Second set is 117 minutes long! It actully has some jamming as well, unfortunatly Jerry doesn't add much and too many mistakes.
+01-07-94    3   "I Want To Tell You" new cover was fun. Playing jam was semi-decent, leading to a nice drums. On the whole not too bad for 94.
+02-07-94    3   Has some positives (mainly the setlist and the 2nd set opening Help > Slipknot) but gain falls down due to a lack of energy.
+03-07-94    3.5 Very short but the first set was ok. Second set has some energy. Drums was killer! Have to say Corrina post drums doesn't work.
+13-07-94    3   First set one of the best for some time. Show really dies after decent Truckin > New Speedway Boogie. Car crash in US Blues encore.
+16-07-94    2.5 Another AUD only. It's like the Grateful Dead, but on mogadon. Really no energy or attack. Drums still ok. Uninspiring.
+17-07-94    2.5 Sloppy, uninspired and lacking energy. Also, the audience tape wasn't that great. It's like a really lazy Jerry showing up here.
+19-07-94    4   Decent first set with some energy. PITB is quite clearly the jam of the year so far. Lacks energy after drums, but decent enough.
+20-07-94    3.5 First Childhoods End. Wtf? First Matilda was also a strange one. Great sounding tape. Good post drums including a rocking JB Goode.
+21-07-94    3   Help > Slip > Franklins into drums was the highlight of this faiely average 94 show. Low energy is again the mood killer.
+23-07-94    3   The Playin' > Terrapin jam was pretty reasonable but there's a lack of energy around it. Also, 25 minute space is definitly too long.
+24-07-94    2.5 Yet another AUD. Strange set-list, it's like none of the songs have a real flow in set 2. Lot of length, but lacking in fireworks.
+26-07-94    4   Second set starts with a decent China > Rider. Longest Estimated ever (20 mins). Very decent pre-drums. Really a decent show!
+27-07-94    2.5 Some length: Corrina 20m, Days Between 15m, Let It Grow 15m. Nothing much of interest in those sections though. Pretty boring.
+29-07-94    2.5 Bobby asks "Eternity?", crowd on AUD says no! First set is largely terrible. Second set is just plain boring mediocrity.
+31-07-94    3.5 First set doesn't start well but energy picks up later. For 1994, this was surprisingly high energy, just lacked Jerry solos.
+01-08-94    3.5 Jerry's last birthday show. Childhoods End is a bad song. The space is one of the best for a long long time. Good post-drums.
+03-08-94    2.5 Gets slated on archive but maybe for the setlist. It's not great and Jerry mainly fails to show. Foolish Heart was decent enough.
+04-08-94    2.5 Yet another AUD. 94 is the worst for this since 78. SQ ain't great and Jerry is mainly MIA. Arguing in the audience as well.
+16-09-94    3   Another rough aud for the first set. Gets better for the 2nd set. No ballad post drums, but 3 rockers deliver surprising energy.
+17-09-94    3.5 Jerry has shown up! A reasonable first set and a good Playin' to open set 2. Stella Blue and Baby Blue encore are pretty good.
 18-09-94
 24-09-94
 27-09-94
@@ -1822,12 +1822,12 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 End of everything should be around 1950 shows
 Goal for this: June 2020
 
-1635: Oct 2019	Actual: 1650
-1670: Nov 2019	Actual: 1678
-1705: Dec 2019	Actual: 1713
-1740: Jan 2020	Actual: 1750
-1775: Feb 2020	Actual: 1772 ('71: 295)
-1810: Mar 2020	
+1635: Oct 2019  Actual: 1650
+1670: Nov 2019  Actual: 1678
+1705: Dec 2019  Actual: 1713
+1740: Jan 2020  Actual: 1750
+1775: Feb 2020  Actual: 1772 ('71: 295)
+1810: Mar 2020  
 1845: Apr 2020
 1880: May 2020
 1915: May 2020
