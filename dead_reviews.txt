@@ -1801,14 +1801,14 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-10-94	2.5	Jerry goes too early in Saint. Vince is doing more and more solos. Last Comes A Time might be the highlight of a rough show.
 10-10-94	2.5	Worst Loose Lucy? It's a shambles. Jerry teeters on screwups quite a few times. Post drums better, except IFTL clunker encore.
 11-10-94	3	Even these Miller boards aren't great quality. Jerry stays out for drums. Less mistakes than the last few shows at least.
-13-10-94
-14-10-94
-15-10-94
-17-10-94
-18-10-94
-19-10-94
-29-11-94
-30-11-94
+13-10-94	3.5	First set starts well, although Weir's sound is more effect than guitar. Overall this is a decent show, helped by the setlist.
+14-10-94	3.5	Very long and pretty decent Scarlet > Fire. Afterwards, dodgy setlist. Jerry is using the pitch shifter too much nowadays.
+15-10-94	3	These MSG shows are decent for the era. This is like the last few, decent but slight unexciting. Almost no jamming here though.
+17-10-94	4	A bit up and down but more up than down and the ups are great for 94. Encore with Dylan, "Everyone must get stoned!". Great!
+18-10-94	3	Good start and first except for mood killer Childhood's End. Rest of show has a reasonable setlist but is devoid of excitement.
+19-10-94	3.5	Last ever MSG show. Nice and relaxed first set. Setlist is pretty decent with a long Terrapin. Decent end to the show as well.
+29-11-94	2.5	Rough aud. Decent if unusual setlist (Baba O'Riley > TNK > Drums!?). Show was very short. Playing jam was the best part. So-so.
+30-11-94	2.5	Another aud. Ticked along in the typical 'bad '94' fashion, almmost no jamming and Jerry low in the mix. Estimated wasn't too bad.
 01-12-94
 08-12-94
 09-12-94
@@ -1828,7 +1828,7 @@ Goal for this: June 2020
 1705: Dec 2019  Actual: 1713
 1740: Jan 2020  Actual: 1750
 1775: Feb 2020  Actual: 1772 ('71: 295)
-1810: Mar 2020  
+1810: Mar 2020  Actual: 1813 ('71: 303)
 1845: Apr 2020
 1880: May 2020
 1915: May 2020
