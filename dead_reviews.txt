@@ -160,7 +160,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-05-69    4   Star through 11 was very good, unfortunatly a 30 minute Lovelight again.
 24-05-69    4   Starts with 30 minutes of Lovelight! But the ending was good.
 29-05-69    4   Terrible quality in large areas, but the Other One suite was pretty energetic.
-30-05-69
+30-05-69	4.5	Wild, ragged and a little bit out of tune. Pretty decent, perhaps just a little too crazy! Bob does a solo in Lovelight.
 31-05-69    4.5 Better quality and better Lovelight both help in this nice show.
 05-06-69    5   Relaxed pacing, tunes, melodies... a nice show in admist the chaos.
 06-06-69    2.5 No Jerry until the final Lovelight! This must be unique.
@@ -169,10 +169,10 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 13-06-69    3.5 A bit of flute somewhere. The Lovelights continue to be a bit lazy.
 14-06-69    3.5 Lovelight 3 times? Seems to be 2 shows joined.
 21-06-69    2.5 First set abysmal quality. Second set short, dominated by Lovelight.
-22-06-69
+22-06-69	3.5	2 songs are from a flaky SBD but the rest is a real struggle to listen to. Star > Other One > St. Stephen though.
 27-06-69    4   Nice Dark Star is the single highlight. Some strange songs.
 28-06-69    2   Some strange songs and a subdued (but 30 minutes!) Lovelight. No highlights.
-03-07-69
+03-07-69	4	Short and a stange list but very unusually for 69 the really slow songs are clearly the best. Great High Time.
 04-07-69    3   Bit of a mixed bag; slower, with less energy. I actually almost enjoyed the Lovelight.
 05-07-69    4   Nice Dark Star in there, some decent jamming.
 07-07-69    5   First Dark Star to lose itself to some degree. Great show.
@@ -183,14 +183,12 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 16-08-69    2.5 Woodstock. No real spark, and a long ass break in the middle.
 21-08-69    4   Quite mellow, and an improvement. With added flute on some tracks.
 23-08-69    5   Best Dark Star so far, even the massive Lovelight was good. Solid show.
-24-08-69
-28-08-69
 29-08-69    3   Jerry sings Good Lovin'. Dominated by a massive Lovelight.
 30-08-69    4   Good Dark Star, although the rest is a bit hit and miss.
-01-09-69
+01-09-69	4.5	Starts with a fairly quiet first few songs, and then a pedal to the metal Grateful Dead finish. Even Lovelight was good!
 06-09-69    2.5 Another Jerry Good Lovin'. Fragments of a show?
-07-09-69
-26-09-69
+07-09-69	3	Grateful Dead and the Airplane take requests? What a unique setlist! Not really a GD show though.
+26-09-69		This is a particularly rough aud. So rough I can't hear the audience.
 27-09-69
 29-09-69
 30-09-69
@@ -336,17 +334,16 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 08-04-71	4	Really hard stereo but decent quality. First Second That Emotion. Short but pretty sweet Dark Star, and a decent run to the end.
 10-04-71	3.5	Guitar heavy sound. The mix makes it hard to enjoy as you really just get the Jerry and Bobby show. Good Lovin' the best song.
 12-04-71	4	Consistent SBDs make a big difference from 70'. Horrible cut in Hard To Handle. Phil is awesome. No big jams, but sounds great!
-13-04-71	4	At a Catholic youth center! Hi energy throughout, although again this lacks any meaty jams. Phil is awesome throughout.
+13-04-71	4	At a Catholic youth centre! Hi energy throughout, although again this lacks any meaty jams. Phil is awesome throughout.
 14-04-71	4.5	"Just exactly perfect". Great first set, nice SBD, face-melting Other One, Jerry talks to the crowd, Bobby takes a solo. Phew!
 15-04-71	3.5	Great quality again but this was really a long first set, the only jam being a long Good Lovin' that didn't appear too special.
 17-04-71	3.5	Sound quality issues are a thing of the past. Crowd seems really up for it here. Most crazy Pig raps are really good tonight!
 22-04-71	3.5	Decent show. Jerry is not happy about being shut down 45 minutes into the set 2. Good Lovin' is the jam. Show like a full 1st set.
 24-04-71	4	"Can't you see how beautiful this all is?" and it's hard to argue, although it's yet 71 with no major jamming. Sounds great though.
-25-04-71
-26-04-71
-27-04-71
-28-04-71
-29-04-71
+25-04-71	3.5	Pigpen raps with rhymes. "Where were you Dark Star people 2 years ago?" says Jerry. Again it's jams that are again lacking.
+27-04-71	3	With the Beach boys. Otherwise this really is like 2 first sets. Beach boys stuff is fun, but not really musically. Little boring.
+28-04-71	4.5	High energy set. Band sound like they are having fun. TC drops in for half a set. Dew, Star, Other One, St Stephen in the same set?
+29-04-71	4	Maybe longest show up to this date? Killer Hard To Handle. Very tough to rate: excellent throughout, with a one short awesome jam.
 29-05-71
 30-05-71
 21-06-71
@@ -1919,11 +1916,11 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 19-02-95	3.5	First Alabama for a while, although a little slow. Largely upbeat despite that. Quite high energy, this show surprised me a bit.
 20-02-95	3.5	Decent first set. Whole show is remarkably decent, even Jerry shows up. Setlist was decent as well. Not a bad start to the year.
 21-02-95	3.5	Salt Lake City is fun opener. In fact, best first set for a while. This is most awake Jerry I've heard for some time. Not bad!
-25-02-95
-26-02-95
-17-03-95
-18-03-95
-19-03-95
+25-02-95	3	Terrible, boomy audience from 1995. Great. There was a part in SBD and it didn't too bad. But the rest was hard to listen to.
+26-02-95	3	With Dave Murray. Sounds decent, except that Jerry is largely MIA for most of the show. SBD mix wasn't great. Not terrible.
+17-03-95	3.5	Start of 95 seems better than the end of 94. This is average, but that's good for these times. The LSD encore is the best yet.
+18-03-95	3.5	Continues decent 95. New cover "All Too Much" is a bit messy, but Playin' jam is best for a while. Excellent visions. Nearly a 4.
+19-03-95	3.5	First Unbroken Chain. It's not great but it hangs together just fine. Rest of show lacks risk taking but everyone seems on board.
 22-03-95
 23-03-95
 24-03-95
@@ -1965,8 +1962,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-07-95
 
 
-21 April 2020: 147 shows left, estimated end: July 3rd 2020
-Current shows left: 138
+21 April 2020: 147 shows left, estimated end: August 3rd 2020
+Current shows left: 117
 
 Problem Shows:
 	17-04-69: Download series Vol 12
