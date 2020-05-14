@@ -188,19 +188,18 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 01-09-69	4.5	Starts with a fairly quiet first few songs, and then a pedal to the metal Grateful Dead finish. Even Lovelight was good!
 06-09-69    2.5 Another Jerry Good Lovin'. Fragments of a show?
 07-09-69	3	Grateful Dead and the Airplane take requests? What a unique setlist! Not really a GD show though.
-26-09-69		This is a particularly rough aud. So rough I can't hear the audience.
-27-09-69
-29-09-69
-30-09-69
-05-10-69
-24-10-69
+26-09-69	2.5	This is a particularly rough aud. So rough I can't hear the audience. Jam sounds OK but far too hissy, almost unlistenable.
+27-09-69	2	Terrible sound quality, no jams, lacking highlights. One for completists only. Opening Morning Dew is best part of this tape.
+29-09-69	4	Another hissy aud, but it does contain "The Seven". You can also hear Weir on a 69 aud, which is maybe even more unusual.
+30-09-69	4	Swirl, hiss, inaudible vocals. Weir up in the mix again. First China > Rider. Cleans up a bit towards the end. Short but sweet.
+24-10-69	3	No swirl, less hiss, faraway sound, murky, boomy and too short. Quality too harsh to be of fun, although arguments on stage are fun.
 25-10-69    4   Some sound issues, and it could do with a little more fire.
 26-10-69    3   Nice but predictable. Like a first set.
 31-10-69    3.5 Sound quality is bad. Mostly like a first set again, except stupid long Lovelight.
 01-11-69    3   New songs, more first-set like. But nothing stood out here.
 02-11-69    4   Nice Dark Star, rest needs a little more fire.
 07-11-69    4   Although it does have the Star > Other One > Lovelight combo!
-08-11-69
+08-11-69	4.5	This 69 show has a mellow Star that then goes through a series of jams into Feedback. 37 min Caution > Feedback!
 15-11-69    2.5 Terrible quality. Washington's teeth story. 42 minute Lovelight.
 21-11-69    2.5 Lots of hiss, no big jams.
 04-12-69
@@ -344,9 +343,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 27-04-71	3	With the Beach boys. Otherwise this really is like 2 first sets. Beach boys stuff is fun, but not really musically. Little boring.
 28-04-71	4.5	High energy set. Band sound like they are having fun. TC drops in for half a set. Dew, Star, Other One, St Stephen in the same set?
 29-04-71	4	Maybe longest show up to this date? Killer Hard To Handle. Very tough to rate: excellent throughout, with a one short awesome jam.
-29-05-71
-30-05-71
-21-06-71
+29-05-71	4	Famous "LSD punch" show. Show had a much more modern set-list layout. Dodgy aud for set 1, improves in set 2. Decent Other One.
+30-05-71	4	Just half the show, despite being in pristine quality. Only real substance is the Truckin' > Lovelight, but it's all done very well.
+21-06-71	4	Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks a adventure and otherworldness.
 02-07-71
 31-07-71
 04-08-71
@@ -1908,7 +1907,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-12-94	3	A SBD, but Jerry sounds ill and forgets words. Horrible out-of-tune keys at Fire start. 64 mins pre-drums! Not totally shabby.
 11-12-94	3	Jerry can't play Slipknot but otherwise first set not too bad. Overall not that bad a show for the period, Days Between was good.
 12-12-94	3	Of course an aud. I would say this was "standard 94" - not a good thing. The Bird Song was decent, rest average. Long 2nd set.
-15-12-94	2.5	Oh god, another AUD! More new songs = worse show. Show is also quite short. booby on acoustic in space. Not very exciting.
+15-12-94	2.5	Oh god, another AUD! More new songs = worse show. Show is also quite short. Bobby on acoustic in space. Not very exciting.
 16-12-94	4	Last show with Branford. Only first set is aud, thank god. A proper "out there" jam in Estimated. Even post drums is decent.
 18-12-94	2.5	A matrix aud, although the quality is iffy. First set is unremarkable. Seems to be a show where the band go through the motions.
 19-12-94	3	Finally a SBD. 27 minutes of space is far too much! Other than the show is servicable, the highlight being the Days Between.
@@ -1921,9 +1920,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 17-03-95	3.5	Start of 95 seems better than the end of 94. This is average, but that's good for these times. The LSD encore is the best yet.
 18-03-95	3.5	Continues decent 95. New cover "All Too Much" is a bit messy, but Playin' jam is best for a while. Excellent visions. Nearly a 4.
 19-03-95	3.5	First Unbroken Chain. It's not great but it hangs together just fine. Rest of show lacks risk taking but everyone seems on board.
-22-03-95
-23-03-95
-24-03-95
+22-03-95	3	Cracking Straw to open with. Energy dies down a bit afterward. Not really a bad show, but a better source would be an improvement.
+23-03-95	3.5	Another Unbroken Chain sends the crowd wild, and is also a highlight here. Setlist isn't great, but overall mellow and decent.
+24-03-95	3.5	Last High Time. Decent sound board with a hot start. I keep expecting the worst but these shows are all reasonably listenable.
 26-03-95
 27-03-95
 29-03-95
@@ -1963,7 +1962,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 
 21 April 2020: 147 shows left, estimated end: August 3rd 2020
-Current shows left: 117
+Current shows left: 103
 
 Problem Shows:
 	17-04-69: Download series Vol 12
