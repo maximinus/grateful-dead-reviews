@@ -199,15 +199,14 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 01-11-69    3   New songs, more first-set like. But nothing stood out here.
 02-11-69    4   Nice Dark Star, rest needs a little more fire.
 07-11-69    4   Although it does have the Star > Other One > Lovelight combo!
-08-11-69	4.5	This 69 show has a mellow Star that then goes through a series of jams into Feedback. 37 min Caution > Feedback!
+08-11-69	4.5	This 69 show has a mellow Star that then goes through a series of jams into Feedback. 37 min Caution > Feedback! Tuning to end?
 15-11-69    2.5 Terrible quality. Washington's teeth story. 42 minute Lovelight.
 21-11-69    2.5 Lots of hiss, no big jams.
-04-12-69
-05-12-69
-07-12-69
-12-12-69
-12-12-69
-13-12-69
+04-12-69	3.5	Starts with an invite to Altamont. First mention of Sam Cutler. Not a great SBD. Unfortunatly cut up as well. Unfortunate.
+05-12-69	3	Bass heavy but reasonable audience. Taper sings in Cosmic Charlie. Proto Playin > UJB jam. Super slow Baby Blue to finish.
+07-12-69	3	Night after Altamont. The Eleven is the highlight of a subdued show. Ropey aud, and the Lovelight is a bit too long at 30 minutes.
+12-12-69	4	Is this the night before as well? 3 hours! Great quality but it takes 2 hours to get the good stuff, an Alligator > Caution jam.
+13-12-69	4	A decent quality board. Honest, quality Dead that suffers from no real jamming except in yet another mammoth Lovelight. Decent.
 19-12-69
 20-12-69
 21-12-69
@@ -311,7 +310,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 28-12-70    3.5 Nice quality in the main and some jams are decent, but nothing really cuts loose. Once again, the Pig songs are the best.
 31-12-70    3   Source is half aud, half sbd, and a little all over the place. Recently setlists a little crazy. Good Lovin' saves the day.
 
-21-01-71    4   Aud with a faraway sound. Other jam was pretty good, but tough to listen to. A very partial SBD exists. Would like to see more.
+21-01-71    4   Aud with a faraway sound. Other One jam was pretty good, but tough to listen to. A very partial SBD exists. Would like to see more.
 22-01-71    3   Dreadful audience, you really need to be a fan to listen! Sounds like a fun show. Decent but no jamming really.
 24-01-71    3.5 Setlists nowadays are really all over the place. This is reasonably well done stuff but lacks a bit of adventure. Also short.
 18-02-71    4.5 First ever Betty board! Where did this amazing band suddenly spring from? This is a cracker of a show. The beautiful jam!
@@ -346,13 +345,13 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 29-05-71	4	Famous "LSD punch" show. Show had a much more modern set-list layout. Dodgy aud for set 1, improves in set 2. Decent Other One.
 30-05-71	4	Just half the show, despite being in pristine quality. Only real substance is the Truckin' > Lovelight, but it's all done very well.
 21-06-71	4	Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks a adventure and otherworldness.
-02-07-71
-31-07-71
-04-08-71
-05-08-71
-06-08-71
-07-08-71
-14-08-71
+02-07-71	4	Yet another very high quality show from 71 - closing of the Fillmore West - that never quite goes fully over the edge at any point.
+31-07-71	4.5	First glowsticks. Killer Star in 1st set! This show has everything but the chaotic 71 setlist order fails it. Overall really good.
+04-08-71	3.5	At Owsley's prison, and stacked with bass. Overall this is a really well played, very long first set. Even Lovelight was short.
+05-08-71	4	Mainly a lovely quality. Excellent early version of Sugaree. Other Onbe > wharf Rat is the stand out, again like a long first set.
+06-08-71	4.5	Killer Hard To Handle. Even more killer Other One (though a little short). The jams are generally excellent but far too short.
+07-08-71		Dicks Picks #35
+14-08-71		Great show for Phil fans, he's everywhere on this killer board.
 15-08-71
 23-08-71
 24-08-71
@@ -1923,13 +1922,12 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 22-03-95	3	Cracking Straw to open with. Energy dies down a bit afterward. Not really a bad show, but a better source would be an improvement.
 23-03-95	3.5	Another Unbroken Chain sends the crowd wild, and is also a highlight here. Setlist isn't great, but overall mellow and decent.
 24-03-95	3.5	Last High Time. Decent sound board with a hot start. I keep expecting the worst but these shows are all reasonably listenable.
-26-03-95
-27-03-95
-29-03-95
-30-03-95
-01-04-95
-02-04-95
-04-04-95
+26-03-95	3.5	Another reasonable first set. It's All Too Much is a bit hit and miss. Best Other One for some time. Best 95 show so far.
+27-03-95	4	Short setlists, long songs. Jerry sounds like he is crying in So Many Roads. Insane Playin > UJB jam. A true 1995 scorcher!
+30-03-95	3	This spring is perfectly reasonable, and better than all of 94. Weirdly fast Schoolgirl. So-so, although Visions was decent.
+01-04-95	3	Wind in drums may be the highlight of this show which is far too laid back and lacks excitement. It's not bad, just unexitciting.
+02-04-95	3.5	Short but enjoyable first set. Jerry is mainly with us. Overall a reasonable show. Best saved for the Unbroken Chain encore.
+04-04-95		Unfortunatly an audience.
 05-04-95
 07-04-95
 19-05-95
@@ -1961,9 +1959,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 09-07-95
 
 
-21 April 2020: 147 shows left, estimated end: August 3rd 2020
-Current shows left: 103
-
+21 April 2020: 147 shows left, estimated end: July 8rd 2020
+Current shows left: 80
 Problem Shows:
 	17-04-69: Download series Vol 12
+	07-08-71: Dicks Picks 35
 	06-10-77: Archive entry is corrupt
