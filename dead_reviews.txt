@@ -207,8 +207,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 07-12-69	3	Night after Altamont. The Eleven is the highlight of a subdued show. Ropey aud, and the Lovelight is a bit too long at 30 minutes.
 12-12-69	4	Is this the night before as well? 3 hours! Great quality but it takes 2 hours to get the good stuff, an Alligator > Caution jam.
 13-12-69	4	A decent quality board. Honest, quality Dead that suffers from no real jamming except in yet another mammoth Lovelight. Decent.
-19-12-69
-20-12-69
+19-12-69	4	First ever acoustic is just Jerry + Bob for 4 numbers. Decent, and also the resulting set after is pretty decent.
+20-12-69		Unfortunatly, this is an overcompressed, hissy sbd. Musically not too bad, however the first Speedway Boogie has terrible singing.
 21-12-69
 26-12-69    4   Billy misses first set. First acoustic set? Strange, but Star saves the day!
 28-12-69    4   No massive jams, but its punchy sound and great dialogue make this worth it.
@@ -351,10 +351,10 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 05-08-71	4	Mainly a lovely quality. Excellent early version of Sugaree. Other Onbe > wharf Rat is the stand out, again like a long first set.
 06-08-71	4.5	Killer Hard To Handle. Even more killer Other One (though a little short). The jams are generally excellent but far too short.
 07-08-71		Dicks Picks #35
-14-08-71		Great show for Phil fans, he's everywhere on this killer board.
-15-08-71
-23-08-71
-24-08-71
+14-08-71	4.5	Great show for Phil fans, he's everywhere on this killer board. Like a lot of 71, when they jam they go for it, but a bit too short.
+15-08-71	4.5	Another quality SBD. Snippet of White Rabbit played for audience member. Killer second set, a bit short but oh so very sweet.
+23-08-71		Issue with archive - revisit
+24-08-71		Dicks Picks #35
 26-08-71
 19-10-71
 21-10-71
@@ -1927,8 +1927,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 30-03-95	3	This spring is perfectly reasonable, and better than all of 94. Weirdly fast Schoolgirl. So-so, although Visions was decent.
 01-04-95	3	Wind in drums may be the highlight of this show which is far too laid back and lacks excitement. It's not bad, just unexitciting.
 02-04-95	3.5	Short but enjoyable first set. Jerry is mainly with us. Overall a reasonable show. Best saved for the Unbroken Chain encore.
-04-04-95		Unfortunatly an audience.
-05-04-95
+04-04-95	2.5	Unfortunatly an audience. Hard to get past that distant sound. A 17min Iko?? This is not a fun listen, largely due to the tape.
+05-04-95	3	Another Matilda. Not helped by having out of tune Vince. Unexiting, but Jerry is still mostly there and the Dew wasn't too bad.
 07-04-95
 19-05-95
 20-05-95
@@ -1960,8 +1960,10 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
-Current shows left: 80
+Current shows left: 77
 Problem Shows:
 	17-04-69: Download series Vol 12
 	07-08-71: Dicks Picks 35
+	23-08-71: Archive entry seems to not work
+	24-08-71: Dicks Picks 35
 	06-10-77: Archive entry is corrupt
