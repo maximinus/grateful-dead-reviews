@@ -142,7 +142,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 13-04-69    4   Enjoyable, not so much ragged energy. Cuts, unfortunatly.
 14-04-69    3.5 Too short to tell you much. China Cat is back though!
 15-04-69    4   Hand-held mic, bad but not utterly dreadful. Fairly standard for the era (pretty ripping!) but the SQ stands in the way.
-17-04-69	3.5	Quite short and the quality (although a matrix) isn't great, although you can hear the keys. Ripping energy as per usual.
+17-04-69    3.5 Quite short and the quality (although a matrix) isn't great, although you can hear the keys. Ripping energy as per usual.
 18-04-69    3   Nothing stand-out, really, and a few more short songs. A bit messy.
 20-04-69    4   Only major dissapointment was the Lovelight.
 21-04-69    4   First set too many short songs, and DS did not stand out. Otherwise good.
@@ -150,9 +150,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-04-69    3.5 Something about this didn't inspire me. Setlists are starting to change though.
 25-04-69    3   Mainly a massive Lovelight, and a terrible Yellow Dog story.
 26-04-69    3.5 These Lovelights are getting longer and longer.
-27-04-69	4	Long meaty set with some decent jamming. A long Lovelight, but split as open and end. Again jamming a little repetitive.
-02-05-69	4	Fast, very furious and full of energy, but unfortunatly a bit short. No real long songs. The Eleven was the highlight.
-03-05-69		You can actually hear the organ on this show.
+27-04-69    4   Long meaty set with some decent jamming. A long Lovelight, but split as open and end. Again jamming a little repetitive.
+02-05-69    4   Fast, very furious and full of energy, but unfortunatly a bit short. No real long songs. The Eleven was the highlight.
+03-05-69        You can actually hear the organ on this show.
 07-05-69    3.5 Jerry singing Good Lovin'! Jeez these Lovelights go on forever.
 10-05-69    4   The highlights are mainly the Dark Stars in these shows.
 11-05-69    4.5 The tape warbles, cuts, shakes and smokes energy.
@@ -160,7 +160,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-05-69    4   Star through 11 was very good, unfortunatly a 30 minute Lovelight again.
 24-05-69    4   Starts with 30 minutes of Lovelight! But the ending was good.
 29-05-69    4   Terrible quality in large areas, but the Other One suite was pretty energetic.
-30-05-69	4.5	Wild, ragged and a little bit out of tune. Pretty decent, perhaps just a little too crazy! Bob does a solo in Lovelight.
+30-05-69    4.5 Wild, ragged and a little bit out of tune. Pretty decent, perhaps just a little too crazy! Bob does a solo in Lovelight.
 31-05-69    4.5 Better quality and better Lovelight both help in this nice show.
 05-06-69    5   Relaxed pacing, tunes, melodies... a nice show in admist the chaos.
 06-06-69    2.5 No Jerry until the final Lovelight! This must be unique.
@@ -169,10 +169,10 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 13-06-69    3.5 A bit of flute somewhere. The Lovelights continue to be a bit lazy.
 14-06-69    3.5 Lovelight 3 times? Seems to be 2 shows joined.
 21-06-69    2.5 First set abysmal quality. Second set short, dominated by Lovelight.
-22-06-69	3.5	2 songs are from a flaky SBD but the rest is a real struggle to listen to. Star > Other One > St. Stephen though.
+22-06-69    3.5 2 songs are from a flaky SBD but the rest is a real struggle to listen to. Star > Other One > St. Stephen though.
 27-06-69    4   Nice Dark Star is the single highlight. Some strange songs.
 28-06-69    2   Some strange songs and a subdued (but 30 minutes!) Lovelight. No highlights.
-03-07-69	4	Short and a stange list but very unusually for 69 the really slow songs are clearly the best. Great High Time.
+03-07-69    4   Short and a stange list but very unusually for 69 the really slow songs are clearly the best. Great High Time.
 04-07-69    3   Bit of a mixed bag; slower, with less energy. I actually almost enjoyed the Lovelight.
 05-07-69    4   Nice Dark Star in there, some decent jamming.
 07-07-69    5   First Dark Star to lose itself to some degree. Great show.
@@ -185,31 +185,31 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-08-69    5   Best Dark Star so far, even the massive Lovelight was good. Solid show.
 29-08-69    3   Jerry sings Good Lovin'. Dominated by a massive Lovelight.
 30-08-69    4   Good Dark Star, although the rest is a bit hit and miss.
-01-09-69	4.5	Starts with a fairly quiet first few songs, and then a pedal to the metal Grateful Dead finish. Even Lovelight was good!
+01-09-69    4.5 Starts with a fairly quiet first few songs, and then a pedal to the metal Grateful Dead finish. Even Lovelight was good!
 06-09-69    2.5 Another Jerry Good Lovin'. Fragments of a show?
-07-09-69	3	Grateful Dead and the Airplane take requests? What a unique setlist! Not really a GD show though.
-26-09-69	2.5	This is a particularly rough aud. So rough I can't hear the audience. Jam sounds OK but far too hissy, almost unlistenable.
-27-09-69	2	Terrible sound quality, no jams, lacking highlights. One for completists only. Opening Morning Dew is best part of this tape.
-29-09-69	4	Another hissy aud, but it does contain "The Seven". You can also hear Weir on a 69 aud, which is maybe even more unusual.
-30-09-69	4	Swirl, hiss, inaudible vocals. Weir up in the mix again. First China > Rider. Cleans up a bit towards the end. Short but sweet.
-24-10-69	3	No swirl, less hiss, faraway sound, murky, boomy and too short. Quality too harsh to be of fun, although arguments on stage are fun.
+07-09-69    3   Grateful Dead and the Airplane take requests? What a unique setlist! Not really a GD show though.
+26-09-69    2.5 This is a particularly rough aud. So rough I can't hear the audience. Jam sounds OK but far too hissy, almost unlistenable.
+27-09-69    2   Terrible sound quality, no jams, lacking highlights. One for completists only. Opening Morning Dew is best part of this tape.
+29-09-69    4   Another hissy aud, but it does contain "The Seven". You can also hear Weir on a 69 aud, which is maybe even more unusual.
+30-09-69    4   Swirl, hiss, inaudible vocals. Weir up in the mix again. First China > Rider. Cleans up a bit towards the end. Short but sweet.
+24-10-69    3   No swirl, less hiss, faraway sound, murky, boomy and too short. Quality too harsh to be of fun, although arguments on stage are fun.
 25-10-69    4   Some sound issues, and it could do with a little more fire.
 26-10-69    3   Nice but predictable. Like a first set.
 31-10-69    3.5 Sound quality is bad. Mostly like a first set again, except stupid long Lovelight.
 01-11-69    3   New songs, more first-set like. But nothing stood out here.
 02-11-69    4   Nice Dark Star, rest needs a little more fire.
 07-11-69    4   Although it does have the Star > Other One > Lovelight combo!
-08-11-69	4.5	This 69 show has a mellow Star that then goes through a series of jams into Feedback. 37 min Caution > Feedback! Tuning to end?
+08-11-69    4.5 This 69 show has a mellow Star that then goes through a series of jams into Feedback. 37 min Caution > Feedback! Tuning to end?
 15-11-69    2.5 Terrible quality. Washington's teeth story. 42 minute Lovelight.
 21-11-69    2.5 Lots of hiss, no big jams.
-04-12-69	3.5	Starts with an invite to Altamont. First mention of Sam Cutler. Not a great SBD. Unfortunatly cut up as well. Unfortunate.
-05-12-69	3	Bass heavy but reasonable audience. Taper sings in Cosmic Charlie. Proto Playin > UJB jam. Super slow Baby Blue to finish.
-07-12-69	3	Night after Altamont. The Eleven is the highlight of a subdued show. Ropey aud, and the Lovelight is a bit too long at 30 minutes.
-12-12-69	4	Is this the night before as well? 3 hours! Great quality but it takes 2 hours to get the good stuff, an Alligator > Caution jam.
-13-12-69	4	A decent quality board. Honest, quality Dead that suffers from no real jamming except in yet another mammoth Lovelight. Decent.
-19-12-69	4	First ever acoustic is just Jerry + Bob for 4 numbers. Decent, and also the resulting set after is pretty decent.
-20-12-69		Unfortunatly, this is an overcompressed, hissy sbd. Musically not too bad, however the first Speedway Boogie has terrible singing.
-21-12-69
+04-12-69    3.5 Starts with an invite to Altamont. First mention of Sam Cutler. Not a great SBD. Unfortunatly cut up as well. Unfortunate.
+05-12-69    3   Bass heavy but reasonable audience. Taper sings in Cosmic Charlie. Proto Playin > UJB jam. Super slow Baby Blue to finish.
+07-12-69    3   Night after Altamont. The Eleven is the highlight of a subdued show. Ropey aud, and the Lovelight is a bit too long at 30 minutes.
+12-12-69    4   Is this the night before as well? 3 hours! Great quality but it takes 2 hours to get the good stuff, an Alligator > Caution jam.
+13-12-69    4   A decent quality board. Honest, quality Dead that suffers from no real jamming except in yet another mammoth Lovelight. Decent.
+19-12-69    4   First ever acoustic is just Jerry + Bob for 4 numbers. Decent, and also the resulting set after is pretty decent.
+20-12-69    3   Unfortunatly, this is an overcompressed, hissy sbd. Musically not too bad, however the first Speedway Boogie has terrible singing.
+21-12-69    3   Short, and the singing is a little off key. The Other One summons some excitement, but this is a little boring.
 26-12-69    4   Billy misses first set. First acoustic set? Strange, but Star saves the day!
 28-12-69    4   No massive jams, but its punchy sound and great dialogue make this worth it.
 29-12-69    4   Jams appearing in some new songs straight out the box. Wildly different from early '69.
@@ -323,50 +323,50 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 14-03-71    4   Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
 18-03-71    4   Come for the 2 mini-jams in the second set (with the final ever feedback). Well done but repeats a lot of songs from recent gigs.
 20-03-71    3.5 Again similar to recent shows, and the best bits are largely the Pig-centered jam tunes. Lovelight has a crazy over the top ending.
-21-03-71	3	Aud, but not too bad for the era (just too hissy). Only just over 30 minutes. Sounds ok but really too short to be decent.
-24-03-71	3.5	Good quality. Strange to get the longest jam in the first set. New songs still a bit hit and miss. Lacks a bit of depth or pathos.
-04-04-71	3.5 A bit like the previous show. This sounds great and there is nothing exactly wrong, but it lacks any real meaty highlights.
-05-04-71	4	Good show but a little all the place setwise. Jams are slightly hindered when they hit new songs. Lovelight is good and again long.
-06-04-71	3.5	It's a decent show, quite long and in good quality, but it again lacks jamming. The Truckin' encore is an indicator of the future.
-07-04-71	3.5	Another show in good quality and well played. It again lacks jams, but this may be due to the terrible cut after drums. Middling.
-08-04-71	4	Really hard stereo but decent quality. First Second That Emotion. Short but pretty sweet Dark Star, and a decent run to the end.
-10-04-71	3.5	Guitar heavy sound. The mix makes it hard to enjoy as you really just get the Jerry and Bobby show. Good Lovin' the best song.
-12-04-71	4	Consistent SBDs make a big difference from 70'. Horrible cut in Hard To Handle. Phil is awesome. No big jams, but sounds great!
-13-04-71	4	At a Catholic youth centre! Hi energy throughout, although again this lacks any meaty jams. Phil is awesome throughout.
-14-04-71	4.5	"Just exactly perfect". Great first set, nice SBD, face-melting Other One, Jerry talks to the crowd, Bobby takes a solo. Phew!
-15-04-71	3.5	Great quality again but this was really a long first set, the only jam being a long Good Lovin' that didn't appear too special.
-17-04-71	3.5	Sound quality issues are a thing of the past. Crowd seems really up for it here. Most crazy Pig raps are really good tonight!
-22-04-71	3.5	Decent show. Jerry is not happy about being shut down 45 minutes into the set 2. Good Lovin' is the jam. Show like a full 1st set.
-24-04-71	4	"Can't you see how beautiful this all is?" and it's hard to argue, although it's yet 71 with no major jamming. Sounds great though.
-25-04-71	3.5	Pigpen raps with rhymes. "Where were you Dark Star people 2 years ago?" says Jerry. Again it's jams that are again lacking.
-27-04-71	3	With the Beach boys. Otherwise this really is like 2 first sets. Beach boys stuff is fun, but not really musically. Little boring.
-28-04-71	4.5	High energy set. Band sound like they are having fun. TC drops in for half a set. Dew, Star, Other One, St Stephen in the same set?
-29-04-71	4	Maybe longest show up to this date? Killer Hard To Handle. Very tough to rate: excellent throughout, with a one short awesome jam.
-29-05-71	4	Famous "LSD punch" show. Show had a much more modern set-list layout. Dodgy aud for set 1, improves in set 2. Decent Other One.
-30-05-71	4	Just half the show, despite being in pristine quality. Only real substance is the Truckin' > Lovelight, but it's all done very well.
-21-06-71	4	Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks a adventure and otherworldness.
-02-07-71	4	Yet another very high quality show from 71 - closing of the Fillmore West - that never quite goes fully over the edge at any point.
-31-07-71	4.5	First glowsticks. Killer Star in 1st set! This show has everything but the chaotic 71 setlist order fails it. Overall really good.
-04-08-71	3.5	At Owsley's prison, and stacked with bass. Overall this is a really well played, very long first set. Even Lovelight was short.
-05-08-71	4	Mainly a lovely quality. Excellent early version of Sugaree. Other Onbe > wharf Rat is the stand out, again like a long first set.
-06-08-71	4.5	Killer Hard To Handle. Even more killer Other One (though a little short). The jams are generally excellent but far too short.
-07-08-71		Dicks Picks #35
-14-08-71	4.5	Great show for Phil fans, he's everywhere on this killer board. Like a lot of 71, when they jam they go for it, but a bit too short.
-15-08-71	4.5	Another quality SBD. Snippet of White Rabbit played for audience member. Killer second set, a bit short but oh so very sweet.
-23-08-71		Issue with archive - revisit
-24-08-71		Dicks Picks #35
-26-08-71	5	This is like the longest first set ever. Bob sings the "Colorado Rain" verse in Rider. Totally killer killer jam in Other One.
-19-10-71
-21-10-71
-22-10-71
-23-10-71
-24-10-71
-26-10-71
-27-10-71
-29-10-71
-30-10-71
-31-10-71
-06-11-71
+21-03-71    3   Aud, but not too bad for the era (just too hissy). Only just over 30 minutes. Sounds ok but really too short to be decent.
+24-03-71    3.5 Good quality. Strange to get the longest jam in the first set. New songs still a bit hit and miss. Lacks a bit of depth or pathos.
+04-04-71    3.5 A bit like the previous show. This sounds great and there is nothing exactly wrong, but it lacks any real meaty highlights.
+05-04-71    4   Good show but a little all the place setwise. Jams are slightly hindered when they hit new songs. Lovelight is good and again long.
+06-04-71    3.5 It's a decent show, quite long and in good quality, but it again lacks jamming. The Truckin' encore is an indicator of the future.
+07-04-71    3.5 Another show in good quality and well played. It again lacks jams, but this may be due to the terrible cut after drums. Middling.
+08-04-71    4   Really hard stereo but decent quality. First Second That Emotion. Short but pretty sweet Dark Star, and a decent run to the end.
+10-04-71    3.5 Guitar heavy sound. The mix makes it hard to enjoy as you really just get the Jerry and Bobby show. Good Lovin' the best song.
+12-04-71    4   Consistent SBDs make a big difference from 70'. Horrible cut in Hard To Handle. Phil is awesome. No big jams, but sounds great!
+13-04-71    4   At a Catholic youth centre! Hi energy throughout, although again this lacks any meaty jams. Phil is awesome throughout.
+14-04-71    4.5 "Just exactly perfect". Great first set, nice SBD, face-melting Other One, Jerry talks to the crowd, Bobby takes a solo. Phew!
+15-04-71    3.5 Great quality again but this was really a long first set, the only jam being a long Good Lovin' that didn't appear too special.
+17-04-71    3.5 Sound quality issues are a thing of the past. Crowd seems really up for it here. Most crazy Pig raps are really good tonight!
+22-04-71    3.5 Decent show. Jerry is not happy about being shut down 45 minutes into the set 2. Good Lovin' is the jam. Show like a full 1st set.
+24-04-71    4   "Can't you see how beautiful this all is?" and it's hard to argue, although it's yet 71 with no major jamming. Sounds great though.
+25-04-71    3.5 Pigpen raps with rhymes. "Where were you Dark Star people 2 years ago?" says Jerry. Again it's jams that are again lacking.
+27-04-71    3   With the Beach boys. Otherwise this really is like 2 first sets. Beach boys stuff is fun, but not really musically. A little boring.
+28-04-71    4.5 High energy set. Band sound like they are having fun. TC drops in for half a set. Dew, Star, Other One, St Stephen in the same set?
+29-04-71    4   Maybe longest show up to this date? Killer Hard To Handle. Very tough to rate: excellent throughout, with a one short awesome jam.
+29-05-71    4   Famous "LSD punch" show. Show had a much more modern set-list layout. Dodgy aud for set 1, improves in set 2. Decent Other One.
+30-05-71    4   Just half the show, despite being in pristine quality. Only real substance is the Truckin' > Lovelight, but it's all done very well.
+21-06-71    4   Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks adventure and otherworldness.
+02-07-71    4   Yet another very high quality show from 71 - closing of the Fillmore West - that never quite goes fully over the edge at any point.
+31-07-71    4.5 First glowsticks. Killer Star in 1st set! This show has everything but the chaotic 71 setlist order fails it. Overall really good.
+04-08-71    3.5 At Owsley's prison, and stacked with bass. Overall this is a really well played, very long first set. Even Lovelight was short.
+05-08-71    4   Mainly a lovely quality. Excellent early version of Sugaree. Other Onbe > wharf Rat is the stand out, again like a long first set.
+06-08-71    4.5 Killer Hard To Handle. Even more killer Other One (though a little short). The jams are generally excellent but far too short.
+07-08-71        Dicks Picks #35
+14-08-71    4.5 Great show for Phil fans, he's everywhere on this killer board. Like a lot of 71, when they jam they go for it, but a bit too short.
+15-08-71    4.5 Another quality SBD. Snippet of White Rabbit played for audience member. Killer second set, a bit short but oh so very sweet.
+23-08-71    4   These summer shows are pretty good. Band are tighter than the spring and the jamming is coming back. Especially in these Other Ones!
+24-08-71        Dicks Picks #35
+26-08-71    5   This is like the longest first set ever. Bob sings the "Colorado Rain" verse in Rider. Totally killer killer jam in Other One.
+19-10-71    4   Keiths first show and 5 new songs! First Playin' to have a jam. All the new songs are played with high energy. Jams were lacking.
+21-10-71    4   SQ is awesome. PITB is short but it's not messing about now. Star short and sweet. Keith a bit too loud in the mix. Decent show.
+22-10-71    4.5 Again has that 71 vibe of a really long first set, but everything is really well done. Then they slap a 30 minute Other One down!
+23-10-71    3.5 This is definitly 2 long first sets. Also the audience sound unfriendly at times. Ultimatly well played but lacking spark.
+24-10-71    4   Another "1971 first set", but they are really well played. Decent Star but it's literally the only jam. St.Stephen's now short.
+26-10-71    4.5 The first set is so long that they have to cut the second set short. Still, it features another killer Other One. Rocking end.
+27-10-71    4   Another welcome for Keith. And yet another long, very well played first set. The new songs are all bedding in very well.
+29-10-71    3.5 When the jamming stops, the scores suffer. None of this is bad, but this is another show that is too much first set material.
+30-10-71    3   Really similar setlist to the previous night, really you could say it's more or less exactly the same show! Last night was better.
+31-10-71    4.5 Show has more of a first/second set split in the setlist. Great - not stellar - Dark Star, crushing ending rocks to the finish line.
+06-11-71    3.5 A 20 minute Other One suite but the jamming didn't really go anywhere, despite being quite furious. Keith's piano a little broken.
 07-11-71
 11-11-71
 12-11-71
@@ -448,7 +448,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 19-02-73    4.5 Great second set.
 21-02-73    4   High quality, no big jam.
 22-02-73    4.5 Great PITB, very solid. Almost a great.
-24-02-73    ?   Fragment of 10 minutes. Who knows?
+24-02-73    4.5 Dreadful aud, great SBD. Cut up, maybe half the show. Could be a monster hidden inside.
 26-02-73    4.5 Nice, relaxed, great sound.
 28-02-73    4.5 Bad SQ, horrible cuts. Best Eyes so far.
 15-03-73    4   Only 1/2 show, Playin end fucked up. Jam and OO was good.
@@ -1387,7 +1387,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 13-02-88    3   First set ends with Loser? Seemed to be a bit of a warm-up for the start of the year. Short, strange post Good Lovin jam.
 14-02-88    3   Fairly normal show. Space was quite nice. Recently setlists have become more predictable; also there is still a lack of jamming.
-16-02-88    
+16-02-88    3   Competent but as usual for the era lacking in any form of jamming. Also really short, second set is only ~75 minutes.
 17-02-88    3   Bog standard show showing the more mundane parts of 1987. Songs decent enough, but missing big energy and jamming.
 16-03-88    4   Really solid first set. Decent Playing for the period. Pre-drums has jamming! Big improvement from the February shows.
 17-03-88    3.5 First Fantasy > Hey Jude. Not as good as the previous night, but overall not bad and the Hey Jude was definitly a plus.
@@ -1860,7 +1860,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 25-06-94    3   Not a bad show for 94 but tough to really say any of it was of quality. Lack of fire. If The Shoe Fits isn't too bad here.
 26-06-94    3.5 Second set is 117 minutes long! It actully has some jamming as well, unfortunatly Jerry doesn't add much and too many mistakes.
 01-07-94    3   "I Want To Tell You" new cover was fun. Playing jam was semi-decent, leading to a nice drums. On the whole not too bad for 94.
-02-07-94    3   Has some positives (mainly the setlist and the 2nd set opening Help > Slipknot) but gain falls down due to a lack of energy.
+02-07-94    3   Has some positives (mainly the setlist and the 2nd set opening Help > Slipknot) but again falls down due to a lack of energy.
 03-07-94    3.5 Very short but the first set was ok. Second set has some energy. Drums was killer! Have to say Corrina post drums doesn't work.
 13-07-94    3   First set one of the best for some time. Show really dies after decent Truckin > New Speedway Boogie. Car crash in US Blues encore.
 16-07-94    2.5 Another AUD only. It's like the Grateful Dead, but on mogadon. Really no energy or attack. Drums still ok. Uninspiring.
@@ -1879,68 +1879,68 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 04-08-94    2.5 Yet another AUD. 94 is the worst for this since 78. SQ ain't great and Jerry is mainly MIA. Arguing in the audience as well.
 16-09-94    3   Another rough aud for the first set. Gets better for the 2nd set. No ballad post drums, but 3 rockers deliver surprising energy.
 17-09-94    3.5 Jerry has shown up! A reasonable first set and a good Playin' to open set 2. Stella Blue and Baby Blue encore are pretty good.
-18-09-94	3	Most of this show is pretty average, but the So Many Roads is excellent, although very foreboding. You can sense the end here.
-24-09-94	3.5	Phil & Friends show. Reminds of that acoustic show in 78, although the song choices here are a less surprising. Worth a listen.
-27-09-94	3	Seems to be an uptick from Jerry recently, at least I can hear him here. Better than summer, best song is the closing SOTM.
-28-09-94	2.5	Whilst these shows are better than Summer 94, that does not say a lot. Even when Jerry shows up, little of excitement happens.
-29-09-94	3	Not a fan of the pitch bender. Long LiG to finish set one and some jams into drums. Spanish jam was ok but nothing else hit me.
-01-10-94	3	Long 2nd set - nearly 2 hours! A lot of songs tried something but no real spark was formed, although the Terrapin wasn't bad.
-02-10-94	3	These current shows are better than summer but all lack some spark. Best of the bunch here is the Truckin' jam and outro.
-03-10-94	3.5	First set is not bad and has a good Bird Song. Second set had unusual setlist and managed to be pretty decent for a change.
-05-10-94	4	This show contains a decent first set, a wide awake Jerry, a serious jam in UJB and drums with Jerry. What a great show for 94!
-06-10-94	3	Another AUD. Starts similar to previous night, although setlist is worse. High energy at start of 2nd set. Nice pre-drums.
-07-10-94	2.5	Yet another AUD. First 2 songs are ok, then it just dies on it's feet. Dew at end of second set helps out just a little.
-09-10-94	2.5	Jerry goes too early in Saint. Vince is doing more and more solos. Last Comes A Time might be the highlight of a rough show.
-10-10-94	2.5	Worst Loose Lucy? It's a shambles. Jerry teeters on screwups quite a few times. Post drums better, except IFTL clunker encore.
-11-10-94	3	Even these Miller boards aren't great quality. Jerry stays out for drums. Less mistakes than the last few shows at least.
-13-10-94	3.5	First set starts well, although Weir's sound is more effect than guitar. Overall this is a decent show, helped by the setlist.
-14-10-94	3.5	Very long and pretty decent Scarlet > Fire. Afterwards, dodgy setlist. Jerry is using the pitch shifter too much nowadays.
-15-10-94	3	These MSG shows are decent for the era. This is like the last few, decent but slight unexciting. Almost no jamming here though.
-17-10-94	4	A bit up and down but more up than down and the ups are great for 94. Encore with Dylan, "Everyone must get stoned!". Great!
-18-10-94	3	Good start and first except for mood killer Childhood's End. Rest of show has a reasonable setlist but is devoid of excitement.
-19-10-94	3.5	Last ever MSG show. Nice and relaxed first set. Setlist is pretty decent with a long Terrapin. Decent end to the show as well.
-29-11-94	2.5	Rough aud. Decent if unusual setlist (Baba O'Riley > TNK > Drums!?). Show was very short. Playing jam was the best part. So-so.
-30-11-94	2.5	Another aud. Ticked along in the typical 'bad '94' fashion, almmost no jamming and Jerry low in the mix. Estimated wasn't too bad.
-01-12-94	2	Aud. Most aud tapes since 1971 or so. Bird Song has some length. Ropey quality, no jamming and Jerry is out of it. Boring.
-08-12-94	2.5	Of course another aud, sounding a little distance. Jerry is half there. Largely anonymous, except for the LSD out of Other One.
-09-12-94	3	A SBD, but Jerry sounds ill and forgets words. Horrible out-of-tune keys at Fire start. 64 mins pre-drums! Not totally shabby.
-11-12-94	3	Jerry can't play Slipknot but otherwise first set not too bad. Overall not that bad a show for the period, Days Between was good.
-12-12-94	3	Of course an aud. I would say this was "standard 94" - not a good thing. The Bird Song was decent, rest average. Long 2nd set.
-15-12-94	2.5	Oh god, another AUD! More new songs = worse show. Show is also quite short. Bobby on acoustic in space. Not very exciting.
-16-12-94	4	Last show with Branford. Only first set is aud, thank god. A proper "out there" jam in Estimated. Even post drums is decent.
-18-12-94	2.5	A matrix aud, although the quality is iffy. First set is unremarkable. Seems to be a show where the band go through the motions.
-19-12-94	3	Finally a SBD. 27 minutes of space is far too much! Other than the show is servicable, the highlight being the Days Between.
+18-09-94    3   Most of this show is pretty average, but the So Many Roads is excellent, although very foreboding. You can sense the end here.
+24-09-94    3.5 Phil & Friends show. Reminds of that acoustic show in 78, although the song choices here are a less surprising. Worth a listen.
+27-09-94    3   Seems to be an uptick from Jerry recently, at least I can hear him here. Better than summer, best song is the closing SOTM.
+28-09-94    2.5 Whilst these shows are better than Summer 94, that does not say a lot. Even when Jerry shows up, little of excitement happens.
+29-09-94    3   Not a fan of the pitch bender. Long LiG to finish set one and some jams into drums. Spanish jam was ok but nothing else hit me.
+01-10-94    3   Long 2nd set - nearly 2 hours! A lot of songs tried something but no real spark was formed, although the Terrapin wasn't bad.
+02-10-94    3   These current shows are better than summer but all lack some spark. Best of the bunch here is the Truckin' jam and outro.
+03-10-94    3.5 First set is not bad and has a good Bird Song. Second set had unusual setlist and managed to be pretty decent for a change.
+05-10-94    4   This show contains a decent first set, a wide awake Jerry, a serious jam in UJB and drums with Jerry. What a great show for 94!
+06-10-94    3   Another AUD. Starts similar to previous night, although setlist is worse. High energy at start of 2nd set. Nice pre-drums.
+07-10-94    2.5 Yet another AUD. First 2 songs are ok, then it just dies on it's feet. Dew at end of second set helps out just a little.
+09-10-94    2.5 Jerry goes too early in Saint. Vince is doing more and more solos. Last Comes A Time might be the highlight of a rough show.
+10-10-94    2.5 Worst Loose Lucy? It's a shambles. Jerry teeters on screwups quite a few times. Post drums better, except IFTL clunker encore.
+11-10-94    3   Even these Miller boards aren't great quality. Jerry stays out for drums. Less mistakes than the last few shows at least.
+13-10-94    3.5 First set starts well, although Weir's sound is more effect than guitar. Overall this is a decent show, helped by the setlist.
+14-10-94    3.5 Very long and pretty decent Scarlet > Fire. Afterwards, dodgy setlist. Jerry is using the pitch shifter too much nowadays.
+15-10-94    3   These MSG shows are decent for the era. This is like the last few, decent but slight unexciting. Almost no jamming here though.
+17-10-94    4   A bit up and down but more up than down and the ups are great for 94. Encore with Dylan, "Everyone must get stoned!". Great!
+18-10-94    3   Good start and first except for mood killer Childhood's End. Rest of show has a reasonable setlist but is devoid of excitement.
+19-10-94    3.5 Last ever MSG show. Nice and relaxed first set. Setlist is pretty decent with a long Terrapin. Decent end to the show as well.
+29-11-94    2.5 Rough aud. Decent if unusual setlist (Baba O'Riley > TNK > Drums!?). Show was very short. Playing jam was the best part. So-so.
+30-11-94    2.5 Another aud. Ticked along in the typical 'bad '94' fashion, almmost no jamming and Jerry low in the mix. Estimated wasn't too bad.
+01-12-94    2   Aud. Most aud tapes since 1971 or so. Bird Song has some length. Ropey quality, no jamming and Jerry is out of it. Boring.
+08-12-94    2.5 Of course another aud, sounding a little distance. Jerry is half there. Largely anonymous, except for the LSD out of Other One.
+09-12-94    3   A SBD, but Jerry sounds ill and forgets words. Horrible out-of-tune keys at Fire start. 64 mins pre-drums! Not totally shabby.
+11-12-94    3   Jerry can't play Slipknot but otherwise first set not too bad. Overall not that bad a show for the period, Days Between was good.
+12-12-94    3   Of course an aud. I would say this was "standard 94" - not a good thing. The Bird Song was decent, rest average. Long 2nd set.
+15-12-94    2.5 Oh god, another AUD! More new songs = worse show. Show is also quite short. Bobby on acoustic in space. Not very exciting.
+16-12-94    4   Last show with Branford. Only first set is aud, thank god. A proper "out there" jam in Estimated. Even post drums is decent.
+18-12-94    2.5 A matrix aud, although the quality is iffy. First set is unremarkable. Seems to be a show where the band go through the motions.
+19-12-94    3   Finally a SBD. 27 minutes of space is far too much! Other than the show is servicable, the highlight being the Days Between.
 
-19-02-95	3.5	First Alabama for a while, although a little slow. Largely upbeat despite that. Quite high energy, this show surprised me a bit.
-20-02-95	3.5	Decent first set. Whole show is remarkably decent, even Jerry shows up. Setlist was decent as well. Not a bad start to the year.
-21-02-95	3.5	Salt Lake City is fun opener. In fact, best first set for a while. This is most awake Jerry I've heard for some time. Not bad!
-25-02-95	3	Terrible, boomy audience from 1995. Great. There was a part in SBD and it didn't too bad. But the rest was hard to listen to.
-26-02-95	3	With Dave Murray. Sounds decent, except that Jerry is largely MIA for most of the show. SBD mix wasn't great. Not terrible.
-17-03-95	3.5	Start of 95 seems better than the end of 94. This is average, but that's good for these times. The LSD encore is the best yet.
-18-03-95	3.5	Continues decent 95. New cover "All Too Much" is a bit messy, but Playin' jam is best for a while. Excellent visions. Nearly a 4.
-19-03-95	3.5	First Unbroken Chain. It's not great but it hangs together just fine. Rest of show lacks risk taking but everyone seems on board.
-22-03-95	3	Cracking Straw to open with. Energy dies down a bit afterward. Not really a bad show, but a better source would be an improvement.
-23-03-95	3.5	Another Unbroken Chain sends the crowd wild, and is also a highlight here. Setlist isn't great, but overall mellow and decent.
-24-03-95	3.5	Last High Time. Decent sound board with a hot start. I keep expecting the worst but these shows are all reasonably listenable.
-26-03-95	3.5	Another reasonable first set. It's All Too Much is a bit hit and miss. Best Other One for some time. Best 95 show so far.
-27-03-95	4	Short setlists, long songs. Jerry sounds like he is crying in So Many Roads. Insane Playin > UJB jam. A true 1995 scorcher!
-30-03-95	3	This spring is perfectly reasonable, and better than all of 94. Weirdly fast Schoolgirl. So-so, although Visions was decent.
-01-04-95	3	Wind in drums may be the highlight of this show which is far too laid back and lacks excitement. It's not bad, just unexitciting.
-02-04-95	3.5	Short but enjoyable first set. Jerry is mainly with us. Overall a reasonable show. Best saved for the Unbroken Chain encore.
-04-04-95	2.5	Unfortunatly an audience. Hard to get past that distant sound. A 17min Iko?? This is not a fun listen, largely due to the tape.
-05-04-95	3	Another Matilda. Not helped by having out of tune Vince. Unexiting, but Jerry is still mostly there and the Dew wasn't too bad.
-07-04-95
-19-05-95
-20-05-95
-21-05-95
-24-05-95
-25-05-95
-26-05-95
-28-05-95
-29-05-95
-02-06-95
-03-06-95
-04-06-95
+19-02-95    3.5 First Alabama for a while, although a little slow. Largely upbeat despite that. Quite high energy, this show surprised me a bit.
+20-02-95    3.5 Decent first set. Whole show is remarkably decent, even Jerry shows up. Setlist was decent as well. Not a bad start to the year.
+21-02-95    3.5 Salt Lake City is fun opener. In fact, best first set for a while. This is most awake Jerry I've heard for some time. Not bad!
+25-02-95    3   Terrible, boomy audience from 1995. Great. There was a part in SBD and it didn't too bad. But the rest was hard to listen to.
+26-02-95    3   With Dave Murray. Sounds decent, except that Jerry is largely MIA for most of the show. SBD mix wasn't great. Not terrible.
+17-03-95    3.5 Start of 95 seems better than the end of 94. This is average, but that's good for these times. The LSD encore is the best yet.
+18-03-95    3.5 Continues decent 95. New cover "All Too Much" is a bit messy, but Playin' jam is best for a while. Excellent visions. Nearly a 4.
+19-03-95    3.5 First Unbroken Chain. It's not great but it hangs together just fine. Rest of show lacks risk taking but everyone seems on board.
+22-03-95    3   Cracking Straw to open with. Energy dies down a bit afterward. Not really a bad show, but a better source would be an improvement.
+23-03-95    3.5 Another Unbroken Chain sends the crowd wild, and is also a highlight here. Setlist isn't great, but overall mellow and decent.
+24-03-95    3.5 Last High Time. Decent sound board with a hot start. I keep expecting the worst but these shows are all reasonably listenable.
+26-03-95    3.5 Another reasonable first set. It's All Too Much is a bit hit and miss. Best Other One for some time. Best 95 show so far.
+27-03-95    4   Short setlists, long songs. Jerry sounds like he is crying in So Many Roads. Insane Playin > UJB jam. A true 1995 scorcher!
+30-03-95    3   This spring is perfectly reasonable, and better than all of 94. Weirdly fast Schoolgirl. So-so, although Visions was decent.
+01-04-95    3   Wind in drums may be the highlight of this show which is far too laid back and lacks excitement. It's not bad, just unexitciting.
+02-04-95    3.5 Short but enjoyable first set. Jerry is mainly with us. Overall a reasonable show. Best saved for the Unbroken Chain encore.
+04-04-95    2.5 Unfortunatly an audience. Hard to get past that distant sound. A 17min Iko?? This is not a fun listen, largely due to the tape.
+05-04-95    3   Another Matilda. Not helped by having out of tune Vince. Unexiting, but Jerry is still mostly there and the Dew wasn't too bad.
+07-04-95    2.5 Final spring tour show. Long pre-drums. Well played but lacking any energy or creativity. Best, again, was the Unbroken Chain.
+19-05-95    2.5 Aud to start the last tour. No dynamics from the tape. Jerry's guitar is just about there for the fills. PITB was not too bad.
+20-05-95    2.5 Another aud. Hope to get some SBDs on this tour. Generally poor, low energy and Jerry is missing, expect for the Dew at the end.
+21-05-95    3   First SBD of the summer tour. The quality certainly helps. Not a terrible show, the Spanish Jam > Other One is the highlight.
+24-05-95    3.5 Decent and long Bird Song. Same could be said of the Estimated in the second set. Good show, much better if it was all SBD.
+25-05-95    2.5 Unexciting and lacking in energy. The end of drums into start of space was the best, with a slight techno feel. Last Wheel.
+26-05-95    3   Eternity is not a fun song. Rated by some as show of the year. I don't think so, but it isn't bad for 1995. PITB short but sweet.
+28-05-95    3   Decent opener, and overall first set is decent. Star hint out of space. As recent shows, largely unexciting but not terrible.
+29-05-95    3   Everybody's favourite - a summer 95 aud. Actually reasonable quality though, and energy retains itself to the end. Not too bad.
+02-06-95    4   With the Guyoto Monks. Atonal Bird Song, proper GD. He's Gone jam tries something. Monks are great. The highs are unique and good.
+03-06-95    3   Another (decent) aud. Please, no more Eternity. Servicable, with no surprises. Setlist is pretty decent, except for the Samba.
+04-06-95    4   Rare appearence of the feted Dark Star > Other One combo. But it doesn't jam too hard and goes back to first set material.
 15-06-95
 18-06-95
 19-06-95
@@ -1960,10 +1960,18 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
-Current shows left: 77
-Problem Shows:
-	17-04-69: Download series Vol 12
-	07-08-71: Dicks Picks 35
-	23-08-71: Archive entry seems to not work
-	24-08-71: Dicks Picks 35
-	06-10-77: Archive entry is corrupt
+ 4 June  2020: 73 shows left, estimated end:  July 16th
+Current shows left: 54
+
+Missing Shows:
+    03-05-69: Unscored
+    11-02-69: Live at the Fillmore East
+    17-04-69: Download series Vol 12
+    07-08-71: Dicks Picks 35
+    24-08-71: Dicks Picks 35
+    21-07-74: Missed
+    06-10-77: Archive entry is corrupt (?)
+    24-04-81: Another show with John Kahn on bass
+    16-02-88: Missed
+    08-12-90: Missed
+    12-12-93: Missed
