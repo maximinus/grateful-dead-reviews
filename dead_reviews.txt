@@ -152,7 +152,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 26-04-69    3.5 These Lovelights are getting longer and longer.
 27-04-69    4   Long meaty set with some decent jamming. A long Lovelight, but split as open and end. Again jamming a little repetitive.
 02-05-69    4   Fast, very furious and full of energy, but unfortunatly a bit short. No real long songs. The Eleven was the highlight.
-03-05-69        You can actually hear the organ on this show.
+03-05-69    4   You can actually hear the organ on this show. High energy playing, although it's not the whole show.
 07-05-69    3.5 Jerry singing Good Lovin'! Jeez these Lovelights go on forever.
 10-05-69    4   The highlights are mainly the Dark Stars in these shows.
 11-05-69    4.5 The tape warbles, cuts, shakes and smokes energy.
@@ -367,12 +367,12 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 30-10-71    3   Really similar setlist to the previous night, really you could say it's more or less exactly the same show! Last night was better.
 31-10-71    4.5 Show has more of a first/second set split in the setlist. Great - not stellar - Dark Star, crushing ending rocks to the finish line.
 06-11-71    3.5 A 20 minute Other One suite but the jamming didn't really go anywhere, despite being quite furious. Keith's piano a little broken.
-07-11-71
-11-11-71
-12-11-71
-14-11-71
-15-11-71
-17-11-71
+07-11-71    4   Rare appearence of the feted Dark Star > Other One combo. But it doesn't jam too hard and goes back to first set material.
+11-11-71    3.5 This really is entirely like a long first set! It also suffers from a very standard setlis order as well. Well played but weak.
+12-11-71    4   Other One is already going places 4 minutes in. Great jam in Big Railroad Blues (!). Rest of show is a lot more normal 71 fare.
+14-11-71    4   Second set has a more traditional setlist and longish jam, although a little short. Worth a listen, they even split the Other One.
+15-11-71    5   The second part of Dark Star has the jam of the year. The second has a unique best-of-class jam out of NFA. Best show of the year.
+17-11-71    4   Audio is a bit iffy. Best Playin' so far. Band are having fun. Could be a great show if SQ was less erratic. Ramble On Rose encore?
 20-11-71
 01-12-71
 02-12-71
@@ -920,7 +920,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-03-81    4   Good overall show with good first set and decent versions of Playin' and Stella Blue.
 24-03-81    4   Sound quality just so-so, but a nice mellow jam in He's Gone. Screw up in encore - Jerry says sorry.
 28-03-81    3.5 Rockpalast show, notable for that great Sugaree and Pete Townshend appearence. Better on video.
-24-04-81
+25-04-81    3.5    No Brent or Phil, with added John Kahn. Short acoustic set. Nicely played but not that special.
 30-04-81    3.5 Nice Estimated and Shakedown, but speedy Eyes. Show kinda goes downhill shortly into the 2nd set.
 01-05-81    3.5 Continuing the long running "nice but not naughty" run of shows lacking bite. Stranger was good.
 02-05-81    3.5 Still a little cruising. The NFA was a hint to the future though, with Bobby pushing the audience.
@@ -1220,7 +1220,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 02-07-85    3   Quite short for both sets. Terrapin before drums is the highlight at 13 minutes long. Lovely car crash in Brokedown Palace.
 13-07-85    3   Bizarre Sat. Night > Fire opener. Again in 1985 the changes are more in the setlist than in the music. Nasty static on SBD.
 14-07-85    3   Eyes managed to sneak over the 10 minute line. End of drums and into space was good (although drums cut). Short on improv.
-24-08-85    3   Infamous Boreal Ridge show. PA has many issues. Car crash HIAB is great. Not    entirely dreadful, but not a great show.
+24-08-85    3   Infamous Boreal Ridge show. PA has many issues. Car crash HIAB is great. Not entirely dreadful, but not a great show.
 30-08-85    3.5 Much less issues than the previous show. Quite "clean"; practically no adventure at all. Nice Good Lovin and Dew though.
 31-08-85    3.5 The best audio is a pretty windy aud unfortunatly. Highlights were the LiG, Estimated and the encore. Nothing exceptional.
 02-09-85    3.5 Decent energy opener. Killer bass in Uncle (!). Great Playin' and an averted Don't Need Love. Show could not sustain itself.
@@ -1282,7 +1282,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 10-05-86    3   Didn't have the lows of some recent shows but missed the minor highs as well. Let It Grow was probably the best moment.
 11-05-86    3.5 Phil and Jerry speak at the start! Best 80's Dancin' in first set? Low energy in the second set. Strange double encore.
 20-06-86    2.5 Bob introduces the band at the end in a cheesy way, the best thing about this show. Space was boring and Quinn is getting old.
-21-06-86    3   Clifford Stoll was here. Almost ambient drums > space. Saint with no Sailor. Like a of 86, Jerry seems lethargic.
+21-06-86    3   Clifford Stoll was here. Almost ambient drums > space. Saint with no Sailor. Like a lot of 86, Jerry seems lethargic.
 22-06-86    3   Second set opens with Fire On The Mountain! Quite a lot of songs and not short but it seems the band are done by the 2nd set.
 26-06-86    2.5 One long set, which is nearly 2 hours long. Worst aud for a long, long time. Really, nothing at all stood out here.
 28-06-86    3.5 Second set looks good on paper, and pre-drums is definitly quite nice. Unfortunatly rest of the show is more normal '86.
@@ -1940,11 +1940,11 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 29-05-95    3   Everybody's favourite - a summer 95 aud. Actually reasonable quality though, and energy retains itself to the end. Not too bad.
 02-06-95    4   With the Guyoto Monks. Atonal Bird Song, proper GD. He's Gone jam tries something. Monks are great. The highs are unique and good.
 03-06-95    3   Another (decent) aud. Please, no more Eternity. Servicable, with no surprises. Setlist is pretty decent, except for the Samba.
-04-06-95    4   Rare appearence of the feted Dark Star > Other One combo. But it doesn't jam too hard and goes back to first set material.
-15-06-95
-18-06-95
-19-06-95
-21-06-95
+04-06-95    3   Setlist is pretty decent but nothing is played with any attack. Total train wreck Victim. Thankfully improves a bit after that.
+15-06-95    2.5 All the tapes of this show are pretty rough. New cover Rumblin' & Tumblin' is a car crash. Largely lifeless and forgetfull.
+18-06-95    3   Energy is kinda there for this one; Stagger Lee and China Rider are decent. Jerry messes up Wharf Rat. It's all over the place.
+19-06-95    2   Never have I ever heard Jerry so low in the mix as this second set. He's literally inaudible. The band battle on somehow. Dreadful.
+21-06-95        Final Dew; final versions now are getting common.
 22-06-95
 24-06-95
 25-06-95
@@ -1960,18 +1960,18 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 
 
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
- 4 June  2020: 73 shows left, estimated end:  July 16th
-Current shows left: 54
+  4 June 2020: 73 shows left, estimated end:  July 16th
+  2 July 2020: 44 shows left, estimated end:  August 1st
+Current shows left: 43
 
 Missing Shows:
-    03-05-69: Unscored
     11-02-69: Live at the Fillmore East
     17-04-69: Download series Vol 12
     07-08-71: Dicks Picks 35
     24-08-71: Dicks Picks 35
     21-07-74: Missed
     06-10-77: Archive entry is corrupt (?)
-    24-04-81: Another show with John Kahn on bass
+    25-04-81: Another show with John Kahn on bass
     16-02-88: Missed
     08-12-90: Missed
     12-12-93: Missed
