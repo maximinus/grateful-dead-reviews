@@ -373,8 +373,8 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 14-11-71    4   Second set has a more traditional setlist and longish jam, although a little short. Worth a listen, they even split the Other One.
 15-11-71    5   The second part of Dark Star has the jam of the year. The second has a unique best-of-class jam out of NFA. Best show of the year.
 17-11-71    4   Audio is a bit iffy. Best Playin' so far. Band are having fun. Could be a great show if SQ was less erratic. Ramble On Rose encore?
-20-11-71
-01-12-71
+20-11-71	4	First set not as good as recent efforts. Second set features a fairly long and robust Other One. Another China Cat jam in NFA.
+01-12-71	4.5	First set is a dreadful aud, excellent sbd for the second though. Other One gets to space real fast. First real hint of the future.
 02-12-71
 04-12-71
 05-12-71
@@ -1944,9 +1944,9 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 15-06-95    2.5 All the tapes of this show are pretty rough. New cover Rumblin' & Tumblin' is a car crash. Largely lifeless and forgetfull.
 18-06-95    3   Energy is kinda there for this one; Stagger Lee and China Rider are decent. Jerry messes up Wharf Rat. It's all over the place.
 19-06-95    2   Never have I ever heard Jerry so low in the mix as this second set. He's literally inaudible. The band battle on somehow. Dreadful.
-21-06-95        Final Dew; final versions now are getting common.
-22-06-95
-24-06-95
+21-06-95    2.5 Keys out of tune for rough Scarlet > Fire. Saving grace is the final Morning Dew: "I guess it does matter, anyway". Heavy shit.
+22-06-95	2	Last Help > Slip. Another aud. Horrible MSN as Jerry gives up. Jerry can't play Samba. Long and messy Terrapin. Out of tune in places.
+24-06-95	3	With Hornsby. He might be the most upbeat player. Jerry sounding sad in So Many Roads. Not that hot. Black Muddy River sums things up.
 25-06-95
 27-06-95
 28-06-95
@@ -1962,7 +1962,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
   4 June 2020: 73 shows left, estimated end:  July 16th
   2 July 2020: 44 shows left, estimated end:  August 1st
-Current shows left: 43
+Current shows left: 40
 
 Missing Shows:
     11-02-69: Live at the Fillmore East
