@@ -376,7 +376,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 20-11-71    4   First set not as good as recent efforts. Second set features a fairly long and robust Other One. Another China Cat jam in NFA.
 01-12-71    4.5 First set is a dreadful aud, excellent sbd for the second though. Other One gets to space real fast. First real hint of the future.
 02-12-71    3.5 Blistering Big Railroad Blues. Largely cooking throughout, and notable for the total lack of jamming. Pip and Lovelight are back.
-04-12-71
+04-12-71	4	Great version of Smokestack with Pigpen. Very spacey but short Other Jam is the notable highlight. Bobby screams too much sometimes.
 05-12-71
 06-12-71
 07-12-71
@@ -920,7 +920,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 23-03-81    4   Good overall show with good first set and decent versions of Playin' and Stella Blue.
 24-03-81    4   Sound quality just so-so, but a nice mellow jam in He's Gone. Screw up in encore - Jerry says sorry.
 28-03-81    3.5 Rockpalast show, notable for that great Sugaree and Pete Townshend appearence. Better on video.
-25-04-81    3.5    No Brent or Phil, with added John Kahn. Short acoustic set. Nicely played but not that special.
+25-04-81    3.5	No Brent or Phil, with added John Kahn. Short acoustic set. Nicely played but not that special.
 30-04-81    3.5 Nice Estimated and Shakedown, but speedy Eyes. Show kinda goes downhill shortly into the 2nd set.
 01-05-81    3.5 Continuing the long running "nice but not naughty" run of shows lacking bite. Stranger was good.
 02-05-81    3.5 Still a little cruising. The NFA was a hint to the future though, with Bobby pushing the audience.
@@ -1603,7 +1603,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 01-11-90    3.5 Last night of Europe tour. Jerry has a terrible voice. Jam is long but lacks excitement. Weird start to Wharf Rat. Worst US Blues?
 03-12-90    3.5 Estimated good until Jerry (!) cuts it short. Terrapin mild car crash. Nice ending but lacking anything of real excitement.
 04-12-90    3.5 These shows seem all so similar. Eyes was decent but no major jams again and certainly no surprises. Long Other One post drums.
-08-12-90
+08-12-90	3	First set lacks some spark, which unfortunatly extends out to the second set as well. Setlist is good but the execution fails.
 09-12-90    3   Bird Song the best in an average first set. There's some length in the second set but it lacks excitement. Space was decent.
 12-12-90    4   Decent uptempo first set. Short Dark Star is not the best but nothing bad. Lacks some excitement but overall a nice show.
 13-12-90    3.5 An up and down show. Saint of Circumstance doesn't sit well but the start and end is good, with a weird end to Morning Dew.
@@ -1962,7 +1962,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
   4 June 2020: 73 shows left, estimated end:  July 16th
   2 July 2020: 44 shows left, estimated end:  August 1st
-Current shows left: 40
+Current shows left: 33
 
 Missing Shows:
     11-02-69: Live at the Fillmore East
@@ -1971,7 +1971,4 @@ Missing Shows:
     24-08-71: Dicks Picks 35
     21-07-74: Missed
     06-10-77: Archive entry is corrupt (?)
-    25-04-81: Another show with John Kahn on bass
-    16-02-88: Missed
-    08-12-90: Missed
     12-12-93: Missed
