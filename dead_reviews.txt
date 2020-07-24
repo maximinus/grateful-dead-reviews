@@ -384,11 +384,11 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 10-12-71    4   Every single show is hot now. For this one, they add some jams! Decent Good Lovin, great Other One. Blistering end to the 2nd set.
 14-12-71    4.5 It looks like the same set list as the last show. Delightful, playful Other One. Almost a second set. Wonderfully relaxed vibe.
 15-12-71    4.5 A bit short, and goes into Deal, but the Dark Star is pretty good. First Lovelight surprises as well. Overall, a very decent show.
-31-12-71
+31-12-71    4   Decent show overall but lacks a little bit compared to recent efforts. Not quite a countdown, but the show to feel like a New Years.
 
-02-01-72
-05-03-72
-21-03-72
+02-01-72    3.5 Has a Good Lovin' that tops 15 minutes but everything else is a buttery smooth first set. Really needed some exploration in there.
+05-03-72    3.5 Rough tape. Wavy Gravy passes a single beer around the audience. Sounds like a wild party, but like the previous show, no real jams.
+21-03-72        First Playing to really get out there (and nearly 10 minutes). Some lovely free-roaming jamming. Not quite spacey enough for me.
 22-03-72
 23-03-72
 25-03-72
@@ -638,7 +638,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 29-09-77    3.5 Also not so inspiring.
 01-10-77    3   What can you do if nothing inspires? Nothing stand-out.
 02-10-77    3.5 Nothing wrong, nothing right.
-06-10-77        TODO: Archive not correct.
+06-10-77    4   Sources are strange. All sounds typical 77 but the NFA > Black Peter is great. Crazy key change back into NFA. Partial show.
 07-10-77    4   Only has partial show (about 90 mins). Still a pretty cracking set list and has plenty of energy.
 09-10-77    4.5 First real drums, great Sugaree and Truckin'
 11-10-77    3.5 A little too mellow, especially the Eyes onward. Starter Help > Slipknot was probably the highlight. Nice rhythm changes in Deal.
@@ -1952,7 +1952,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 28-06-95    3   Another AUD. Whilst the setlist isn't actually too bad, there really is no sparkle at all. Also space at 21 minutes does nothing.
 30-06-95    3.5 More AUD recordings. 4 rain songs in a row. Best first set for a while. Second set is average, except the excellent SOTM set closer.
 02-07-95    2.5 Gatecrashers suck. Yet another AUD. First set is unexciting. Last Scarlet > Fire. More or less terrible for ost of the 2nd set.
-05-07-95
+05-07-95    3.5 Stranger wasn't too bad, rest of the set so-so. Garcia is there. Playin Reprise pre drums, and post not too shabby. Not a bad show. 
 06-07-95
 08-07-95
 09-07-95
@@ -1961,7 +1961,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
   4 June 2020: 73 shows left, estimated end:  July 16th
   2 July 2020: 44 shows left, estimated end:  August 1st
-Current shows left: 20
+Current shows left: 16
 
 Missing Shows:
     11-02-69: Live at the Fillmore East
@@ -1969,5 +1969,4 @@ Missing Shows:
     07-08-71: Dicks Picks 35
     24-08-71: Dicks Picks 35
     21-07-74: Missed
-    06-10-77: Archive entry is corrupt (?)
     12-12-93: Missed
