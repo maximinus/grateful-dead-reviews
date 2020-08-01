@@ -392,7 +392,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 22-03-72	3.5	13 min Playin! That's the standout, in a show with a 30 min Caution! Just missing a sense of structure. Mainly first set material.
 25-03-72	4	With Bo Diddly, which is ok but doesn't showcase the Dead. Dead open with 2 rarities. Once the weirdness is over, a nice show.
 26-03-72	4.5	Cracking setlist - set 2 looks like a set 2! First major Truckin' jam. Other One jam goes places. Pretty decent from start to finish.
-27-03-72
+27-03-72	4	Mainly a long first set, except for a totally stunning Playin' jam. What follows is decent but cannot match the energy or passion.
 28-03-72
 07-04-72	4.5	Sam Cutler sounds tired in intro. Decent first set with no stand-out. Joyfull, effortless playing. Ramble on Rose is in the wrong place.
 				The jam this evening is a pretty mighty Other One split by El Paso, although the first half is the better. Playing was a touch short.
@@ -2014,6 +2014,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 21 April 2020: 147 shows left, estimated end: July 8rd 2020
   4 June 2020: 73 shows left, estimated end:  July 16th
   2 July 2020: 44 shows left, estimated end:  August 1st
+   1 Aug 2020: 18 shows left, estimated end:  August 14th
 Current shows left: 18
 
 Missing Shows:
