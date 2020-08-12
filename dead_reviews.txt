@@ -121,7 +121,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 06-02-69    4   Nice, though previous night was better
 07-02-69a   4   Early show. Short, Dark Star was the highlight.
 07-02-69b   3.5 Short songs, although they all jam.
-11-02-69        Only on "Live At The Fillmore East"
+11-02-69    4.5 "Fuck the teeth", as Jerry just wishes to blast into jamming as quick as possible. Fiery, but even the standalone songs are done well.
 12-02-69    4.5 Nice fiery Alligator. No song seems to stand alone.
 14-02-69    4   Bad sound but show wasn't bad.
 15-02-69    5   Good development of the Dark Star, and feels almost like a full show.
@@ -142,7 +142,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 13-04-69    4   Enjoyable, not so much ragged energy. Cuts, unfortunatly.
 14-04-69    3.5 Too short to tell you much. China Cat is back though!
 15-04-69    4   Hand-held mic, bad but not utterly dreadful. Fairly standard for the era (pretty ripping!) but the SQ stands in the way.
-17-04-69    3.5 Quite short and the quality (although a matrix) isn't great, although you can hear the keys. Ripping energy as per usual.
+17-04-69    4   Other than being quite mellow in places, this is normal 69 madness in exellent sound quality.
 18-04-69    3   Nothing stand-out, really, and a few more short songs. A bit messy.
 20-04-69    4   Only major dissapointment was the Lovelight.
 21-04-69    4   First set too many short songs, and DS did not stand out. Otherwise good.
@@ -350,11 +350,11 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 04-08-71    3.5 At Owsley's prison, and stacked with bass. Overall this is a really well played, very long first set. Even Lovelight was short.
 05-08-71    4   Mainly a lovely quality. Excellent early version of Sugaree. Other Onbe > wharf Rat is the stand out, again like a long first set.
 06-08-71    4.5 Killer Hard To Handle. Even more killer Other One (though a little short). The jams are generally excellent but far too short.
-07-08-71        Dicks Picks #35
+07-08-71    3.5 Can't see why this is Dicks Picks #35. The SQ is killer but again it suffers from no major jamming. As a first set it's excellent.
 14-08-71    4.5 Great show for Phil fans, he's everywhere on this killer board. Like a lot of 71, when they jam they go for it, but a bit too short.
 15-08-71    4.5 Another quality SBD. Snippet of White Rabbit played for audience member. Killer second set, a bit short but oh so very sweet.
 23-08-71    4   These summer shows are pretty good. Band are tighter than the spring and the jamming is coming back. Especially in these Other Ones!
-24-08-71        Dicks Picks #35
+24-08-71    3.5 Again don't understand why this is a Dicks Picks. It's slightly better than the 7th though, it has a semi-decent short Other One jam.
 26-08-71    5   This is like the longest first set ever. Bob sings the "Colorado Rain" verse in Rider. Totally killer killer jam in Other One.
 19-10-71    4   Keiths first show and 5 new songs! First Playin' to have a jam. All the new songs are played with high energy. Jams were lacking.
 21-10-71    4   SQ is awesome. PITB is short but it's not messing about now. Star short and sweet. Keith a bit too loud in the mix. Decent show.
@@ -384,17 +384,17 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 10-12-71    4   Every single show is hot now. For this one, they add some jams! Decent Good Lovin, great Other One. Blistering end to the 2nd set.
 14-12-71    4.5 It looks like the same set list as the last show. Delightful, playful Other One. Almost a second set. Wonderfully relaxed vibe.
 15-12-71    4.5 A bit short, and goes into Deal, but the Dark Star is pretty good. First Lovelight surprises as well. Overall, a very decent show.
-31-12-71    4   Decent show overall but lacks a little bit compared to recent efforts. Not quite a countdown, but the show to feel like a New Years.
+31-12-71    4   Decent show overall but lacks a little bit compared to recent efforts. Not quite a countdown, but first show to feel like a New Years.
 
 02-01-72    3.5 Has a Good Lovin' that tops 15 minutes but everything else is a buttery smooth first set. Really needed some exploration in there.
 05-03-72    3.5 Rough tape. Wavy Gravy passes a single beer around the audience. Sounds like a wild party, but like the previous show, no real jams.
 21-03-72    4   First Playing to really get out there (and nearly 10 minutes). Some lovely free-roaming jamming. Not quite spacey enough for me.
 22-03-72	3.5	13 min Playin! That's the standout, in a show with a 30 min Caution! Just missing a sense of structure. Mainly first set material.
-23-03-72
+23-03-72    4   Another long first set. As per usual, mainly excellent. All the jamming comes in the Dark Star but it doesn't really go that far out.
 25-03-72	4	With Bo Diddly, which is ok but doesn't showcase the Dead. Dead open with 2 rarities. Once the weirdness is over, a nice show.
 26-03-72	4.5	Cracking setlist - set 2 looks like a set 2! First major Truckin' jam. Other One jam goes places. Pretty decent from start to finish.
 27-03-72	4	Mainly a long first set, except for a totally stunning Playin' jam. What follows is decent but cannot match the energy or passion.
-28-03-72
+28-03-72    4.5 Long, killer Other One dominates second set, and the finishing songs are a rocking end. Everything before is merely very well played.
 07-04-72	4.5	Sam Cutler sounds tired in intro. Decent first set with no stand-out. Joyfull, effortless playing. Ramble on Rose is in the wrong place.
 				The jam this evening is a pretty mighty Other One split by El Paso, although the first half is the better. Playing was a touch short.
 				Inspired Pig + Bobby duet singing at close of NFA. Rocking end, awesome start to the tour. The band sound confident, even slighty cocky
@@ -421,7 +421,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 				listening to. I've now got used to the Europe '72 sound.
 21-04-72	4.5	Bremen. Filmed in a TV studio. Shortest show of the year is goofy, laid back and not really taken seriously till the Dead attempt
 				to hit warp speed in A Truckin > Other One that simply gets weirder as the clock runs down. The video quality of this show is a
-				major standout for 1972, being both high quality and in a TV show. This is pure, joyous '72 Dead but treating it as a show doesn't
+				major standout for 1972, being both high quality and in a TV studio. This is pure, joyous '72 Dead but treating it as a show doesn't
 				work. The Dead played for the cameras, but they did that very very well.
 24-04-72	4.5	Serious tiger meltdown in Star, possibly the deepest of the tour so far. Show has one of those annoying mini-sets after the main
 				jam, 25+ minutes that could easily be removed and would likely make the show better, or at leat more concise. The split Star has
@@ -441,10 +441,10 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 				Mini-set after the jam fades a bit at the end but the final Saturday Night ends with a crescendo that can crack concrete.
 04-05-72	4	Great Dark Star split jam but the appearence of a mini-second set at the end again doesn.t really work. First set is again very good,
 				this time the Good Lovin' was the stand-out Pig number.
-07-05-72		Bickershaw festival.
-10-05-72
-11-05-72
-13-05-72
+07-05-72	5	This show has pretty much everything. Killer jams in Playin and Other One; 2nd set has a Star > Other One jam. The Other One goes deep.
+10-05-72    4.5 Even the second set mini first-set cannot blight the Truckin' > Other One jam that precedes it. The rest is just brilliant Euro 72.
+11-05-72    5   6 mins into the first set and we are in space! 2nd set open with Dew. Long, LONG Star is entertaining throughout. Killer show all over.
+13-05-72        Biggest issue with these shows is you know where the jams will come.
 16-05-72
 18-05-72
 23-05-72
@@ -1874,7 +1874,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
 08-12-93    3   Decent set 2 setlist, although encore terrible as normal. Decent space and an unusual jam into Last Time (which is messed up).
 09-12-93    3   Drums with Airto and Flora; post drums with Ornette Coleman. They are the best bits, otherwise this show is pretty sub-par.
 10-12-93    3   Yawn-a-thon show despite the presence of Branford. Nothing is terrible, but there is also zero interaction with the sax player.
-12-12-93        
+12-12-93    3.5 First set was so-so, but second set was overall decent. No real jams but there was a nice flow. Even Truckin' was decent.  
 13-12-93    3.5 Best LSD so far to start 2nd set. Decent Eyes and Days Between. It's not spectacular, but this is a pretty enjoyable show.
 17-12-93    3   Jerry mumbles a song every show. Jerry has new pitchshifter. Screw up in Help leads to decent Slipknot. Struggles for energy.
 18-12-93    4   Possible longest ever UJB at 23 mins, however the lengthy outro jam lacks fire. Maybe not a classic but very decent for 93.
@@ -2016,12 +2016,7 @@ xx-xx-68    3.5 Un-labbeled vault tapes (id: 9426); many shows, all very similar
   4 June 2020: 73 shows left, estimated end:  July 16th
   2 July 2020: 44 shows left, estimated end:  August 1st
    1 Aug 2020: 18 shows left, estimated end:  August 14th
-Current shows left: 18
+Current shows left: 10
 
 Missing Shows:
-    11-02-69: Live at the Fillmore East
-    17-04-69: Download series Vol 12
-    07-08-71: Dicks Picks 35
-    24-08-71: Dicks Picks 35
     21-07-74: Missed
-    12-12-93: Missed
