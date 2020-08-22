@@ -30,7 +30,6 @@ def getScores():
     return years
 
 
-
 def average(scores):
     results = []
     avg_range = 40
@@ -50,27 +49,71 @@ def average(scores):
     return results
 
 
-if __name__ == '__main__':
+def getAverage():
     scores = getScores()
     flattened_scores = scores.pop(0)
     for i in scores:
         flattened_scores.extend(i)
 
     averaged = average(flattened_scores)
-
-    #line_chart = pygal.Line()
-    #line_chart.title = 'Browser usage evolution (in %)'
-    #line_chart.x_labels = map(str, range(2002, 2013))
-    #line_chart.add('Firefox', [None, None,    0, 16.6,   25,   31, 36.4, 45.5, 46.3, 42.8, 37.1])
-    #line_chart.add('Chrome',  [None, None, None, None, None, None,    0,  3.9, 10.8, 23.8, 35.3])
-    #line_chart.add('IE',      [85.8, 84.6, 84.7, 74.5,   66, 58.6, 54.7, 44.8, 36.2, 26.6, 20.1])
-    #line_chart.add('Others',  [14.2, 15.4, 15.3,  8.9,    9, 10.4,  8.9,  5.8,  6.7,  6.8,  7.5])
-    
-    #line_chart = pygal.Line()
     line_chart = pygal.Line()
-    line_chart.title = 'Show Ratings'
-    #line_chart.x_labels = map(str, range(0, len(flattened_scores)))
+    line_chart.title = 'Show Rating, 40 show moving average'
+    line_chart.show_legend = False
+    line_chart.human_readable = True
+    line_chart.x_labels = map(str, range(65, 96))
     line_chart.add('Rating', averaged)
     line_chart.render_to_file('chart3.svg')
 
-    print(float(sum(flattened_scores)) / float(len(flattened_scores)))
+
+def getYears():
+    scores = getScores()
+    # get average per year
+    avg_years = []
+    for i in scores:
+        avg_years.append(sum([float(x) for x in i]) / len(i))
+
+    bar_chart = pygal.Line(range=(2.6, 4.6))
+    bar_chart.title = 'Average Score Per Year'
+    bar_chart.add('Score', avg_years)
+    bar_chart.show_legend = False
+    bar_chart.human_readable = True
+    bar_chart.render_to_file('years.svg')
+
+
+def getStacked():
+    scores = getScores()
+    # get per year
+    years = []
+    for i in scores:
+        total = [0 for x in range(9)]
+        for j in i:
+            single_score = int(j * 2) - 2
+            total[single_score] += 1
+        years.append(total)
+    # we need these as a %
+    new_years = []
+    for i in years:
+        total = sum(i)
+        new_years.append([(float(x) / float(total)) * 100 for x in i])
+    years = new_years
+
+    bar_chart = pygal.StackedBar()
+    bar_chart.title = 'Rating Types % / Year'
+    bar_chart.x_labels = map(str, range(65, 96))
+    bar_chart.add('1.0', [x[0] for x in years])
+    bar_chart.add('1.5', [x[1] for x in years])
+    bar_chart.add('2.0', [x[2] for x in years])
+    bar_chart.add('2.5', [x[3] for x in years])
+    bar_chart.add('3.0', [x[4] for x in years])
+    bar_chart.add('3.5', [x[5] for x in years])
+    bar_chart.add('4.0', [x[6] for x in years])
+    bar_chart.add('4.5', [x[7] for x in years])
+    bar_chart.add('5.0', [x[8] for x in years])
+    bar_chart.human_readable = True
+    bar_chart.render_to_file('stacked_years.svg')
+
+
+if __name__ == '__main__':
+    getAverage()
+    getYears()
+    getStacked()
