@@ -6,6 +6,9 @@ A-E: How good the show from the start to the end.
   +: Above average sound quality
   -: Below average sound quality
 
+History:
+19-10-20	Line 68
+
 02-10-80	D3	First set is a very high quality acoustic set, complete with band argument. Second set quality is a little
 				ropey. Playin unusually fades and stops in third set. A little too low energy, the first set is terrific though.
 12-05-74    D4	Below par for a 74 first set. Apparently it was super windy. Second set features a winding Other Jam but
@@ -42,48 +45,79 @@ A-E: How good the show from the start to the end.
 				Could be seen as "classic E72" but the Other One is pretty special. Slightly ruined by the ugly "2nd set first set" end.
 14-06-76	C4	Fundamentally feels like it's stuck in one vibe. Granted I like that vibe but some movement would be good. Pretty much
 				all done decently except Around x 2. The standout by far is a 13 minute Slipknot - doesn't wander far but an unusual jam.
-07-01-78	B4	Weirdly this is a solid show up until the long Dancin' jame, which kind of zones out for a long period. Same thing happens
+07-01-78	B4	Weirdly this is a solid show up until the long Dancin' jam, which kind of zones out for a long period. Same thing happens
 				in pretty much both long jams. However, show as a whole is pretty decent. It's quite the rocker in parts.
-09-10-89		First set is merely decent, more of an apertif for the main second set. Unusual start to set 2. Energy level from Dark
-				Star onwards is crazy. Fades a little post drums.
+09-10-89	A2	First set is merely decent, more of an apertif for the main second set. Unusual start to set 2. Energy level from Dark
+				Star onwards is crazy. Fades a little post DDHNM. Hard pressed to find a more joyous second set. Best of the 80s?
+09-05-79	D3	Crazy high energy Trucking for about 5 seconds that itself rides in from a He's Gone that improbably passes through
+				a Masterpiece jam on it's way. Unfortunatly it's audience only but the tape is reasonable excepting some audience noise.
+25-01-69	B2	Perhaps uniquely, TC is mixed quite loud in parts. Ihe mix is a little all over the place, but highlights the playing
+				weirdly - it's more calm than most 69. The songs are a bit shorter but this helps the intensity. Short but very decent.
+31-12-76	B3	Long, killer Playin' jam in the 77 style ends first set. Long 2nd set - the setlist ducks and swerves while still
+				punching pretty hard for most songs. Dew is excellent. it just misses that touch of jamming depth lacking in 76 shows.
+27-12-81	C4	Top notch 80s first set, even has a Christmas tuning. Killer Passenger. Energy wanes a little post drums but finishes on
+				a good note. This show is what you expect for the period, excellent playing but lacking somewhat in adventure.
+22-06-91	C3	This era is a little too busy for me, what with 2 keyboards and all the MIDI. Bruce keeps trying to insert Dark Star riffs,
+				which is a little tiresome. decent Terrapin. Overall it's a pretty solid example of a decent show from the period.
+16-11-70 	D4	Great quality for the year and comes with decent quests as well. Echoing what would come next year, the show fails to have
+				a go at a decent jam. You get 10 minutes of the Other One near the end. The show is a great example of typical 70 though.
+09-07-89	C3	Great opening and decent energy level. Setlist is not the greatest. However it's all pretty well done - even the NFA at
+				the end of the show is a real rager. Also features a decent-for-the-era version of Truckin' to head into drums with.
+02-09-78   	D3	Nice jam in second set starts with a 28 minute Scarlet > Fire. The former is a great version, but after that is all slowly
+				descends to the typical late 70s heroin chic jam. Only one song after drums / space. Nice grooves but little exploration.
+21-02-69	C2	Well jammed 69; not as furious as expected but still highly competent. The eleven might be the highlight, a 20 minute version
+				that doesn't go into feedback when you might expect it to. Final song is a Dew that might be the best version of the 60's.
+09-09-74 	D3	This is a show that needs a decent upgrade. The patches are rough. For 74, this lacks any real out there jams, although
+				the vibe is good and the playing largely on form. However it lacks space and constant to and fro audio changes aren't good.
+21-04-78	B3	Heck of a setlist. Pretty good difference between the slow and fast songs. First set is fairly playful and has a really
+				decent Funiculi tuning. Killer Music Never Stopped. 2nd set has a decent story to tell in the jamming. Jerry smokes too much!
+31-03-87	D4	Crikes, the energy coming off this first set is pretty crazy, and the Estimated jam isn't bad. It however lacks a bit of
+				flow between songs, as well as a bit of length. Excellent party tape maybe, this era really lacks in jamming and space.
+15-04-70	D3 	Pretty rocking Other One in the middle of a very decent 1970 show. I mean, the sound quality is pretty good, there are very
+				few cuts and even the singing is largely decent.  Unfortunatly, it's merely "pretty good", and a little too short. 
+28-12-90	D4	It's a good late 90's show but I didn't find it to be especially superior. It apparently has a mind left body jam but
+				like a lot of later shows these thematic jams can be very hit and miss. Post drums lascked some excitement as well.
+30-09-69   	D3-	Hot damn, it's an audience tape from 69, so we are already struggling. It's also only 35 minutes long. First China Cat
+				Rider though. If this was a full show in good quality, it might have a been a ripper. Today, it is more of a "what if..."
+19-06-91	E4	The post-drums song selection is quite a killer end to the show, but on it's own is not enough to raise this show to
+				the heights you expect. At this late date, Jerry sounds strained and the music lacks some decent audio seperation.
+18-09-70 	B2	You can discount almost the whole first set (missing), and half the second (terrible aud). However, it still has a
+				killer acoustic Truckin, and a magnificent Dancing / Stephen / NFA / Good Lovin' jam. If only we had the full show!
+10-02-79	B4	Very professional late 70s GD. Second set starts witha mellow yet fairly tight Scarlet > Fire. The setlist is very
+				good, and iconic of the time. Solid from start to finish, although no jam goes really deep, despite early space trying.
+23-04-77	B3+	Excellent quality audio. Very decent setlist that is both full of good songs and inventive. Jams are typical 77 but
+				have an overall excellent groove to them. Reminds me a little of 76 with the mood and tempo but also has the 77 sound.
+26-08-71	D2	For 71, this has a pretty incredible Other One. However, that's the only jam and there are about 20 other songs! Like
+				many many 1971 shows this is more like an extended first set. So just go for the highlights on this tape, they're good.
+05-11-70	C3-	For an 1970 audience tape this is acceptable, but it is still an old audience tape. Ned Lagins first show - you can't
+				hear him - has a pretty	crazy setlist: Trucking > Other One > Star > Stephen. Would be an awesome show in decent quality.
+08-05-81	C4	Nicely played show throughout where the standout is clearly the 30 minute Terrapin > Playin. Kesey on Harmonica adds
+				excitement in drums space. Suffers a little from the show sounding largely the same pace wide from start to end.
+11-09-73	C3	It's a horns show, but they mostly stay out of the way (when they do appear, it is mainly annoying). The show is pretty
+				mellow, and that includes most of the Star excepting the ridiculous bass solo into Dew. Unfortunate cut to aud at end.
+17-02-82	C4	This is a pretty solid show for the era, containg a decent setlist, a sprinkling of jamming and reasonable energy. It
+				is blighted by that 80's "keep the same mode" feeling. Decent end to the second set keeps the fun going. Some mild cuts.
+13-12-69	E3	A smidgen of hiss but the tape is decent. Very relaxed band here who aren't jamming. Some tuning issues at the start
+				but it develops into what we would later call a good first set. Any jamming appears in the massive Lovelight.
+22-03-73	B3	Well structured and played 73 show lacks a big jam and makes up for it with a slew of 15 minute ones. Pretty much
+				everything is played well, as you expect, but it could with bringing a touch more to the table - non of the jams get deep.
+09-11-73	C2	This show has some stunning moments but there is a lot of first set material to get through. It suffers a bit from
+				start / stop paralysis. - it starts getting good and then is interrupted. Clearly the highlights are Playin and Eyes.
+27-08-72	??	Kesey's Farm. Not sure I can rate this show. The video is the best GD video that exists, and I've held that opinion
+				for the last 25 or so years. Pretty much everything is good, but I never listen to this as a show. Time to fix this?
+07-10-77	D4	Great 77 show. Terrapin is slightly butchered and the whole first set is missing, but it's a decent passage from Playin'
+				onwards. As expected from the period, there is no big jam - althougth Playin tries - but the energy and feel are good.
+17-11-73	D3	The fame of this show sits on the PITB > UJB > Dew > UJB > PITB sandwich. However I have to say the first part was a jam
+				that meandered a little too much and the UJB seemed to for want of a lack of imagination. Could have been so much more.
+24-06-84	D5	Opening Dancin' is a little fun. Playing jam in set 2 is good for the year. However, Jerry's voice is totally shot and
+				Bob's doesn't sound much better. When you add a few guitar flubs the package doesn't hold up with the other shows here.
+28-06-76	D4	Show is not helped by a few lengthy aud cuts. It is has a slightly choppy setlist that teases potential jams. The Dancin'
+				is decent and as a show it more or less works but overall lacks a bit of fizz and energy. Happiness is Drumming?
+06-12-81	C4	Decent energy and really no duff versions at all. The space in particular is really good, but unfortunatly only lasts
+				4 minutes. In earlier times a 10 minute jam could have been squeezed out of that. Slightly missed opportunity.
 
-09-05-79   4 Phil wears a Pigpen t-shirt. Great Masterpiece tease/jam. 2nd set much better than the first.
-25-01-69   4 The madness is real.
-31-12-76 4.5 Best show of the year, but still not quite a 5!
-27-12-81   4 Bobby's singing extends into the jam in Playin' - which is a good version. Weak end to the show though.
-22-06-91   4 Not a bad show. Get this for the fairly decent Playing > Terrapin > D > S > Dark Star > Playing sandwich. Rest is average.
-03-03-71   4 Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.
-16-11-70 4.5 Awesome quality for 70, and with Steve Winwood! Sounds like a real fun show.
-09-07-89   4 Opens with high energy. Awesome Bird Song to end first set. Best Truckin' jam of the 80's so far. Energy level off the charts!
-02-09-78   4 Good jam pre-drums, only 1 song after space which is an out-of-tune Sugar Mag.
-21-02-69 4.5 Long songs, and Lovelight was a little too long. But DS + Eleven both good.
-09-09-74 4.5 Tough. Short show, nearly a 5. Cut up a bit too much.
-21-04-78   4 Best drums and space of the year so far. A step up from recent shows.
-03-05-72   4 First sets now really are similar - they are all great. What makes things stand out is usually a killer Pig tune or a jammy Playin'.
-31-03-87   4 Jerry really tries to twist the jam out of Estimated. Best Aroundx2 since the 70s? Like a steamroller to the head.
-15-04-70 4.5 Super fast intense jam out of Cryptical.
-28-12-90   4 Good first set, and 2nd opens with best China Rider for a long long time. Delightful jam out of He's Gone. End a little flat.
-30-09-69   4 Swirl, hiss, inaudible vocals. Weir up in the mix again. First China > Rider. Cleans up a bit towards the end. Short but sweet.
-19-06-91   4 Everything pre-drums is normal for the period: saved by the killer Stella Blue > Other One > JBG post drums. Other One is awesome.
-18-09-70 4.5 Best acoustic Truckin'. Show gets better and better; first set is mostly missing though.
-10-02-79 4.5 Noisy aud again. Eyes has got pretty fast recently. We're hotting up on this tour!
-23-04-77 4.5 Rocking and good.
-26-08-71   5 This is like the longest first set ever. Bob sings the "Colorado Rain" verse in Rider. Totally killer killer jam in Other One.
-05-11-70 4.5 First show with Ned Lagin. Awesome set list. Terrible SQ. Possibly a 5 if the SQ was better.
-08-05-81   4 Awesome setlist. Only 1 hour for first set. As a show, better than 2 nights ago, but lacked a crazy jam.
-11-09-73   4 First horns (only a little). Phil great in Dark Star.
-13-12-69   4 A decent quality board. Honest, quality Dead that suffers from no real jamming except in yet another mammoth Lovelight. Decent.
-22-03-73 4.5 Nearly 5! Star > Eyes, Star a little short.
-09-11-73   4 Needs more review. A few cuts.
-27-08-72 4.5 First bass solo.
-17-02-82   4 Straight out of the gate, and great quality as well! Good high energy - would reccomend.
-16-05-72 4.5 Shorter show because of radio broadcast. More concise, sped up slighty? Still manages to go places. Weir dedicates Sugar Mag to Frankie.
-17-11-73   4 Song selection solid...just needs more.
-07-10-77   4 Only has partial show (about 90 mins). Still a pretty cracking set list and has plenty of energy.
-24-06-84   4 Jerry hints Dancin' about 15 times. Excellent Minglewood. Playin' > China is great, and post drums retains energy.
-28-06-76 4.5 Eyes 6 minute intro, and bass solo at end. Only 'Happiness Is Drumming'. Solid throughout.
-06-12-81   4 Nothing wrong with this show, with a really good space, maybe the best of the year. Also good Sugaree.
 20-09-90   5 A 30-minute monster Dark Star after drums? What a difference a year makes. Jammiest post drums since '74? Absolutly epic show.
+16-05-72 4.5 Shorter show because of radio broadcast. More concise, sped up slighty? Still manages to go places. Weir dedicates Sugar Mag to Frankie.
 25-10-73   5 Another crazy second set!
 17-10-94   4 A bit up and down but more up than down and the ups are great for 94. Encore with Dylan, "Everyone must get stoned!". Great!
 22-01-78   5 Cooking second set, even hotter after the close encounters jam. Best solo Jerry.
@@ -102,6 +136,9 @@ A-E: How good the show from the start to the end.
 04-04-69 4.5 Very good show, lovely Eleven > Feedback.
 24-06-73   5 Phil 'er up! Great Star > Eyes.
 31-03-80   4 Some songs missing. First Stranger. Quite a fun audience. Great set list.
+
+1 Year Done
+
 04-06-77   4 Fantastic setlist for the 2nd set; which was good, but felt like a greatest hits collection.
 24-10-72   4 Nice, but too short (fragments).
 05-08-74   5 Now THIS is what a Truckin' jam should be like!
@@ -177,6 +214,9 @@ A-E: How good the show from the start to the end.
 18-10-74 4.5 Seastones > Star! Although end of set 2 is anti-climatic.
 31-08-80   4 Solid first set. Excellent Comes A Time. Fan rips out Jerry's cables in the encore, causing a Bobby solo.
 13-12-78   4 Lovely Playin' in this one. Late 78 is definitly a step up from the summer.
+
+2 Years Done
+
 01-03-69   5 Absolutly crushing New Potato Caboose follows frantic Other One. Possibly more jammed in the first set, but set 2 is no slouch.
 14-06-91   4 First Dark Star for a while, although this one is far too short. Space and encore are great, but could have been a lot more.
 14-07-70   4 Finally, not an aud! Best acoustic of 1970 so far. Lots of cuts in 2nd set though.
@@ -252,6 +292,9 @@ A-E: How good the show from the start to the end.
 01-04-90   4 Even better first set than last night, killer ending. This time post drums is better than pre, with a great Stella Blue.
 09-05-77   4 Almost 4.5, very smooth as well.
 20-10-67   4 Recording sessions. Hissy, but well worth it. First Cryptical.
+
+3 Years Done
+
 21-08-69   4 Quite mellow, and an improvement. With added flute on some tracks.
 19-05-74   4 Can't remember anything bad, but no major stand-outs.
 10-10-76 4.5 I'd venture to say that was actually a good show!
@@ -278,6 +321,7 @@ A-E: How good the show from the start to the end.
 04-05-80   4 Good setlist, with nice little Playing jam. 1980 seems repetitive but this is just about a 4.
 30-08-70   4 Cracking Easy Wind on this short TV show. Worth watching.
 27-12-91   4 First set ends nicely. Terrapin jam pre-drums was decent. Best drums of the 90s? They really stand out. Pity about Around x 2.
+03-03-71   4 Pigpen's organ is very loud in places. However the sound stabalises and gets a lot better. Decent jamming, final few songs so-so.
 19-07-89   4 Rocking Deal and great first set. This run is a bit of tease with no major jams. Pretty glorious run overall though.
 27-12-90   4 Only an aud for the first set. Long Scarlet Fire. Stunning Estimated end jam. Hamza in drums. Messy last 2 songs though.
 12-09-87   4 Great first set. Second set was no slouch either. Another good Morning Dew, and a double encore to follow.
@@ -325,6 +369,9 @@ A-E: How good the show from the start to the end.
 10-11-85   4 Excellent Stranger to end the first set. High energy pre-drums. Short on adventure but put together well as a whole.
 04-05-77   4 Jerry out of tune at start. Get this for the dreamy Playin' jam at the end of the 2nd set.
 22-02-73 4.5 Great PITB, very solid. Almost a great.
+
+4 Years Done
+
 24-04-78   4 Monkey drums and space is probably the best so far. The rest of the set is similar to early 78 stuff.
 07-11-69   4 Although it does have the Star > Other One > Lovelight combo!
 17-10-78   4 Jerry asked for banjo lessons in space. Wonderful IIHTWTG, and a show with nice structure.
@@ -362,6 +409,7 @@ A-E: How good the show from the start to the end.
 21-11-70   4 Also listed as Ned's first show. Nice, but really too short. Nice late Cosmic Charlie.
 23-10-73   5 Sublime set 2. Fight stops encore!
 16-12-78   4 Says aud but sounds like Matrix! Overall nice energy and long songs. But not cutting enough.
+03-05-72   4 First sets now really are similar - they are all great. What makes things stand out is usually a killer Pig tune or a jammy Playin'.
 07-05-78   4 Nothing in particular stood apart from the great MNS, but overall not a bad show at all.
 21-06-71   4 Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks adventure and otherworldness.
 27-10-91   4 First show after Bill Grahams death. Absolutly killer first set. Good pre drums jam where Jerry is not the main guitar. Decent.
@@ -401,6 +449,9 @@ A-E: How good the show from the start to the end.
 31-12-84   4 Crazy Shakedown opener. Throwing Stones jam is now complete. Show is out the door like a rocket, eases off later on.
 16-12-94   4 Last show with Branford. Only first set is aud, thank god. A proper "out there" jam in Estimated. Even post drums is decent.
 23-05-72 4.5 Playin' almost went a little spacey. Star takes a little while to get there but goes to the right places. Great laid back Dew.
+
+5 Years Done
+
 15-10-76   4 Keeps the energy. Not bad, but only just a 4
 29-05-71   4 Famous "LSD punch" show. Show had a much more modern set-list layout. Dodgy aud for set 1, improves in set 2. Decent Other One.
 19-09-90   4 Excellent jam out of Let It Grow into drums. Long second sets on this mini tour. Overall a very good show. Even Aroundx2 was decent.
@@ -476,6 +527,9 @@ A-E: How good the show from the start to the end.
 27-01-68   4 Sounds like the end of 23-01, from where it cuts. Very short.
 29-06-80   4 Enjoyed this one, even though it lacked in jams (the normal complaint for this period).
 21-03-94   4 Car crash at end of Greatest Story. For the era, a killer set list. Monster of a Stella Blue, and best Lovelight since 1972.
+
+6 Years Done
+
 23-05-69   4 Star through 11 was very good, unfortunatly a 30 minute Lovelight again.
 30-11-73 4.5 SQ is great. Hints of greatness. Needs more jams!
 25-05-77   4 Another 4? The setlists are become a bit more modern.
@@ -533,6 +587,9 @@ A-E: How good the show from the start to the end.
 23-10-89   4 Starts great - the Stranger is excellent. Pre drums a little so-so but post drums is great. Best Lovelight since 72? Killer encore.
 04-02-78   4 Only audience for first set. Jams are decent but lack the edge of the previous night. NFA manages to add a chord in the final chorus!
 24-02-71   4 Really nice mellow vibe in the first set, unfortunatly it extends a little too long. Killer Lovelight to finish though.
+
+7 Years Done
+
 01-10-76   4 Good show, just needs some more energy. Great jam in Slipknot, maybe best yet.
 04-07-81   4 What a setlist! Excellent Playing', with Bob led guitar jam at end. One more 4th of July.
 06-09-83   4 Red Rocks 83. Help > Slip > Franklins into a Playin sandwich? Yes please! Throwing Stones jams are great recently.
@@ -626,6 +683,9 @@ A-E: How good the show from the start to the end.
 26-09-73   4 Best horns is least horns!
 13-01-80   4 Single set show. Santana and Cippolina for end of set jam. Jerry sings "Shah of Iran" in US Blues.
 17-04-69   4 Other than being quite mellow in places, this is normal 69 madness in exellent sound quality.
+
+8 Years Done
+
 30-03-90   4 Best first set for a while. Pre drums jam is pretty decent - a good Playin' - although post drums is a little more rote. Enjoyable.
 25-08-72   4 Bertha fuckup?
 13-05-77   4 Good Other One and a rocking end to the show
@@ -701,6 +761,9 @@ A-E: How good the show from the start to the end.
 23-03-74 4.5 Another crazy Playing > UJB > Dew > UJB > Playin'!
 14-05-74   5 Let It Grow > Dark Star. Crisp sound, great jam. Pure Dead.
 09-11-79   4 Smoking Alabama > Promised opener. End of Dancin' pretty smooth. Gloria jam in He's Gone.
+
+9 Years Done
+
 27-12-87   4 Awesome pre drums selection. Drops off a bit post drums but it's still worth a listen. Decent Quinn encore as well.
 18-09-91   4 Good first set, and a really good run into drums, especially with the Terrapin. Morning Dew ending is not grade A but a good add.
 01-12-71 4.5 First set is a dreadful aud, excellent sbd for the second though. Other One gets to space real fast. First real hint of the future.
