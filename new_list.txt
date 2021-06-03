@@ -685,24 +685,39 @@ About ~1500 is the end?
 17-01-68	C3	First recorded Star, about twice the normal speed and less than 5 minutes! Slighty dirty sounding tape, raw from start to
 				finish. Overall sound lets it down but this is a good slice of active. powerful jamming from the very very early days.
 23-08-71	D3	Decent show is kinda all over the place setlist wise but does delicer a powerful Other One that isn't all shouty and is
-				a bit spacey at times, rare fot the 4-piece Grateful Dead. 30 songs, it's a lot to get through before the highlights.
-
-07-05-78   4 Nothing in particular stood apart from the great MNS, but overall not a bad show at all.
-21-06-71   4 Chateau d'Herouville show. Continues the trend of being well played, good quality '71 Dead that lacks adventure and otherworldness.
-06-02-70   4 Cracking little Other One. Such a big change from 8 months previous.
-20-01-79   4 Another Dark Star, but pretty short. Could have been better. Moore's aud is great.
-28-09-72 4.5 Bass > Other One > Tiger!
-18-06-83   4 Setlists recently are great. Hell In A Bucket still has issues. This would be an awesome SBD release.
-18-05-72   4 Despite a Dark Star > Dew, this show felt like it had a little less energy than previous ones, and the Star didn't really go out there.
-03-09-77 4.5 Infamous Raceway Park gig. Good on a lot of levels. Most songs are excellent. What a NFA as well!
-26-06-73 4.5 SQ not good! Couldn't match recent shows.
-01-04-91 4.5 Proper Dark Star is the real highlight, possibly the second best one of the modern era so far. Rest is decent, with good setlist.
-14-03-71   4 Opening Truckin' has a jam! Decent jam out of Wharf Rat. Good Lovin' was also decent. Again though, very similar setlists.
-12-04-71   4 Consistent SBDs make a big difference from 70'. Horrible cut in Hard To Handle. Phil is awesome. No big jams, but sounds great!
-22-02-69   4 Tough to rate these shows as they all have similar formats and songs.
-22-08-72 4.5 Mental Bass > Other One!
-01-11-79 4.5 38 mins of Scarlet Fire: most jammed version? Space was good; some potential was missed though.
+				a bit spacey at times, rare for the 4-piece Grateful Dead. 30 songs, it's a lot to get through before the highlights.
+07-05-78	C3	Good 1st set ends with killer MNS. Some serious energy here! Second set is unfortunatly marred by some sound issues; there's
+				a few mild cuts but the killer is the switch to audience at the end of a great Black Peter. Can't fault this one for trying.
+21-06-71	D3	The single "Europe 71" show. Has a touch of that 71 roughness and the first set style stuff goes on too long, but this
+				does have a second set of sorts with a decent Other One that hits the 15m minute mark. An excellent summer '71 show.
+06-02-70	C4	Other One is the higlight of this show which doesn't really contain enough excitement to hold you throughout the entire
+				show. Does show the period quite well though, with a decent mix of songs. Suffers from a few too many cuts in the tape.
+20-01-79	C3	A killer aud, really. Even has an Other One > Dark Star, very unusual post '74. The energy on this show flags a bit and the
+				Star lacks a little direction. Taken as a whole though, it's better than the sun of it's parts and is well worth a listen.
+28-09-72	B2	Radiates with positivity. Surely the greatest Greatest Story? Very confidant jam in 2nd set leads to a 30 minute Other One,
+				doesn't really reach meltdown mode but touches all the bases that get you there and is a decent journey. Even has a Phil solo.
+18-06-83   	C3	Totally killer setlist for the 2nd set. Only sources are audiences unfortunatly. Surprisingly deep and competent for the
+				time period, even the Weir + drums segment didn't feel like dragging. Stop the tape after Dew though, nothing good happens.
+03-09-77	B3	Raceway park always entertains, even if the second set feels like it is cut up somewhat. Terrapin as an encore? Biggest
+				jam number is a 20 minute+ NFA? I think this is the first marching whistle for Truckin, a bad idea if there ever was one.
+26-06-73	C2	Oh that this should be so cut up! There's a few aud patches and they are very jarring, since the sounf quality difference
+				is so much. The Truckin jam through Sugar Mag is top notch, especially the end of the Other One. Needs a better source.
+01-04-91	C2	A very decent Dark Star in the 2nd set, maybe one of the best of the 90s Stars. Rest of the show surrounding this very nice
+				slice of music is a little less polished, alhough the setlist is pretty good. Get this show for the pre-drums jamming.
+14-03-71	C4	Killer sound, unfortunatly seems cut short. This is more of a first set than normal 1971 shows. The best parts are clearly
+				the Pig numbers - Hard To Handle and Good Lovin'. The last 5 minutes of Good Lovin' is excellent. A nice slice of '71 Dead.
+31-10-83	D3	Drums / Space is pretty decent here (with Airto, what did we expect?). Space is more like Jerry and drums, and really good.
+				This is the last St Stephen, and it's a bit messy. A pity it was never played in 89/90. Outside this, it's a normal show.
+22-08-72	C2	Full-bodied Other One with exceptional Phil solo in the middle is the treat on offer, and well worth accepting. Little bit
+				of mini-first set afterwards but overall this is a good show in the middle of a killer run. Some aud patches, unfortunatly.
+12-04-71	C3	Unlike a lot of 71, this show is not as segmented as most of this era and has a solid, flowing second set that is worth a
+				listen. One of the greater 71 GDTRFB as well. Lacks a killer moment, but that generally is par for the course in this era.
+22-02-69   	C3 	Another 69 that is all killer and no filler; what these kind of shows need usually is a little more introspection, rather
+				than being a simple drill to the skull all of the time. On the other hand, that's likely what we came to hear anyway.
+01-11-79	B3	Longest Scarlet Fire ever has a magnificently jammed Scarlet. What follows is a really well done Terrapin and an even better
+				Playin'. Not quite as good in the short post-drums section, but overall this is a very good show. Very slight aud patches.
 19-09-70   5 Great gig and the 2nd best Star of the year so far. Also rare Darkness > China Cat jam.
+
 30-08-69   4 Good Dark Star, although the rest is a bit hit and miss.
 21-07-90   4 Killer, spacey Bird Song to end set 1. Solid show. 3 Playing in the bands! The end of set 2 was a decent treat and held energy.
 13-10-68 4.5 Still no Pigpen on these shows. They sound great though.
@@ -751,6 +766,7 @@ About ~1500 is the end?
 05-07-81   4 Feelin Groovy jam in Shakedown, first song! Other One also good. Let down by setlist and pre-drums.
 10-09-74   5 Awesome Star > Dew. Best Dew so far?
 15-03-69 4.5 Cracking Dark Star. These DS are really starting to develop.
+18-05-72   4 Despite a Dark Star > Dew, this show felt like it had a little less energy than previous ones, and the Star didn't really go out there.
 09-10-80   4 Mellow, but good for it. Also, this was the first decent sbd of the whole run. Worth a listen.
 15-11-71   5 The second part of Dark Star has the jam of the year. The second has a unique best-of-class jam out of NFA. Best show of the year.
 14-11-67   4 Studio outakes. Sounds well orchestrated. First Dark Star! Very short.
@@ -765,7 +781,6 @@ About ~1500 is the end?
 27-06-69   4 Nice Dark Star is the single highlight. Some strange songs.
 13-02-70   5 Greatest Dark Star ever? Greatest final set ever? Possibly my favourite show.
 02-05-70 4.5 Very good with killer Other One. Just lacking in space.
-31-10-83   4 Last St Stephen. Drums with Airto - the best guest? It's a decent show, but has no proper jams outside space.
 18-10-72   5 Perfect.
 30-08-80 4.5 Finally they start a show with Stranger! Nice 1st set. Best LLR? Cracking 2nd set with high energy.
 26-10-80   4 Lovely soundboard. Slow Althea. Whole second set is slow. Bobby adding lots to the Good Loving end.
